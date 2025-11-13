@@ -1,4 +1,6 @@
-pyspark==3.5.0
+pyspark
 streamlit
+pymongo
 pandas
+numpy
 scikit-learn

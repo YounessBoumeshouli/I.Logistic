@@ -11,7 +11,9 @@ services:
       - spark-master
     environment:
       - SPARK_MASTER_URL=spark://spark-master:7077
-    command: streamlit run main.py  --server.fileWatcherType=poll # Commande pour démarrer Streamlit
+      - SPARK_HOME=/opt/spark
+      - PYTHONPATH=$SPARK_HOME/python:$SPARK_HOME/python/lib/py4j-0.10.9.7-src.zip:$PYTHONPATH
+    command: streamlit run main.py --server.fileWatcherType=poll# Commande pour démarrer Streamlit
 
   # 2. Le "Master" Apache Spark
   spark-master:
@@ -39,10 +41,12 @@ services:
     environment:
       AIRFLOW__CORE__EXECUTOR: SequentialExecutor
       AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__WWW_RBAC__USERNAME: admin
+      AIRFLOW__WWW_RBAC__PASSWORD: admin
     volumes:
       - ./airflow/dags:/opt/airflow/dags
     ports:
-      - "8080:8080"
+      - "8081:8080"
     command: [ "standalone" ]
 
 
