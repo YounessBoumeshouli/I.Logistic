@@ -9,10 +9,8 @@ services:
       - .:/app  # Synchronise votre code local avec le conteneur
     depends_on:
       - spark-master
-      - mongo
     environment:
       - SPARK_MASTER_URL=spark://spark-master:7077
-      - MONGO_URL=mongodb://mongo:27017/
     command: streamlit run main.py  --server.fileWatcherType=poll # Commande pour démarrer Streamlit
 
   # 2. Le "Master" Apache Spark
@@ -34,10 +32,17 @@ services:
     command: /opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker spark://spark-master:7077
     volumes: # <-- for finding the files that I've added
       - .:/app
-  # 4. La base de données MongoDB
-  mongo:
-    image: mongo:latest
+  airflow:
+    build: ./airflow
+    container_name: airflow
+    restart: always
+    environment:
+      AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
     ports:
-      - "27017:27017" # Port standard de MongoDB
-    restart: unless-stopped
+      - "8080:8080"
+    command: [ "standalone" ]
+
 
