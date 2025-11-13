@@ -1,8 +1,8 @@
 import os
 import streamlit as st
 import pandas as pd
-import pymongo
 import time
+import pyspark
 from pyspark.sql import SparkSession
 from pyspark.sql.types import *
 from pyspark.sql import functions as F
@@ -28,7 +28,6 @@ def get_spark_session() -> SparkSession:
     spark_master_url = os.environ.get("SPARK_MASTER_URL", "local[*]")
 
     # Configuration MongoDB
-    # Remplacez "mongo" par "localhost" si vous exécutez SANS Docker Compose
     mongo_url = "mongodb://mongo:27017/bank_attrition"
 
     return (
@@ -38,7 +37,7 @@ def get_spark_session() -> SparkSession:
         .getOrCreate()
     )
 spark = get_spark_session()
-st.title("Projet de Prédiction d'Attrition Client (PySpark, MLlib, MongoDB)")
+st.title("Prjet de Prédiction d'Attrition Client (PySpark, MLlib, MongoDB)")
 
 st.header("Étape 1 : Configuration et Initialisation de Spark")
 st.write(f"Session Spark démarrée. Version : **{spark.version}**")
@@ -69,7 +68,6 @@ if df:
         'Days for shipment (scheduled)',
         'order date (DateOrders)',
         'Shipping Mode',
-        'Market',
         'Order Region',
         'Latitude',
         'Longitude',
@@ -85,7 +83,6 @@ if df:
     new_df = df.select(cols)
     st.dataframe(new_df.limit(5).toPandas())
 
-    st.dataframe(new_df.select("Market").distinct().toPandas())
     st.dataframe(new_df.select("Late_delivery_risk").distinct().toPandas())
     st.dataframe(new_df.select("Category Name").distinct().toPandas())
     st.dataframe(new_df.select("Customer Segment").distinct().toPandas())
@@ -110,6 +107,17 @@ if df:
     sys.stdout = old_stdout
 
     st.text(redirected_output.getvalue())
+    st.text("missing_counts")
+
     numeric_cols = [c.split(':')[0] for c in redirected_output]
     for n in numeric_cols:
         st.text(n)
+    missing_counts = new_df.select([
+        F.count(
+            F.when(
+                F.col(c).isNull | F.isnan(F.col(c)), 1
+            )
+        ).alias(c)
+        for c in new_df.columns
+    ])
+    st.text(missing_counts)
