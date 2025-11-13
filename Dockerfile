@@ -7,7 +7,9 @@ WORKDIR /app
 COPY requirements.txt .
 COPY wait-for-spark.sh /usr/local/bin/
 RUN chmod +x /usr/local/bin/wait-for-spark.sh
-RUN pip install --no-cache-dir -r requirements.txt
+RUN export AIRFLOW_HOME=~/airflow
+RUN pip install -r requirements.txt
+
 COPY . .
 EXPOSE 8501
-CMD ["wait-for-spark.sh","streamlit", "run", "main.py"]
+CMD ["jupyter","notebook","wait-for-spark.sh","streamlit", "run", "main.py"]
