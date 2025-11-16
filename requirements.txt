@@ -1,6 +1,9 @@
-pyspark
+requests
 streamlit
 pymongo
 pandas
 numpy
 scikit-learn
+matplotlib
+seaborn
+pyspark

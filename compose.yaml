@@ -13,16 +13,16 @@ services:
       - SPARK_MASTER_URL=spark://spark-master:7077
       - SPARK_HOME=/opt/spark
       - PYTHONPATH=$SPARK_HOME/python:$SPARK_HOME/python/lib/py4j-0.10.9.7-src.zip:$PYTHONPATH
-    command: streamlit run main.py --server.fileWatcherType=poll# Commande pour démarrer Streamlit
+    command: streamlit run main.py --server.fileWatcherType=poll
 
   # 2. Le "Master" Apache Spark
   spark-master:
     image: docker.io/apache/spark:3.5.0
     ports:
-      - "8080:8080"  # UI Web de Spark
+      - "8088:8080"  # UI Web de Spark
       - "7077:7077"  # Port du cluster
     command: /opt/spark/bin/spark-class org.apache.spark.deploy.master.Master
-    volumes: # <-- for finding the file that i added
+    volumes:
       - .:/app
 
 
@@ -36,7 +36,7 @@ services:
       - .:/app
   airflow:
     build: ./airflow
-    container_name: airflow
+    container_name: logistic_airflow
     restart: always
     environment:
       AIRFLOW__CORE__EXECUTOR: SequentialExecutor

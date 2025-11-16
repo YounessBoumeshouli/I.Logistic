@@ -29,4 +29,4 @@ USER spark
 
 # La commande CMD est redondante car compose.yaml la fournit,
 # mais en voici une correcte pour référence :
-CMD ["/usr/local/bin/wait-for-spark.sh", "streamlit", "run", "main.py"]
+CMD ["/usr/local/bin/wait-for-spark.sh", "streamlit", "run", "main.py","python","./coord.py"]
