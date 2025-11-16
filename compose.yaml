@@ -34,6 +34,8 @@ services:
     command: /opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker spark://spark-master:7077
     volumes: # <-- for finding the files that I've added
       - .:/app
+    environment:
+      - SPARK_WORKER_MEMORY=2g
   airflow:
     build: ./airflow
     container_name: logistic_airflow
