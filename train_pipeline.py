@@ -27,14 +27,13 @@ def build_and_train(input_df: DataFrame, model_name: str):
     # Nous vérifions d'abord si les colonnes de géocodage (longues à obtenir) existent.
 
     categorical_cols = [
-        "Shipping Mode", "Market", "Order Region", "Category Name",
-        "Department Name", "Product Status", "Customer Segment"
+        "Shipping Mode","Order Region","Order State"
+
     ]
 
     base_numerical_cols = [
-        "Days for shipment (scheduled)", "Latitude", "Longitude",
-        "Order Item Quantity", "Order Item Total", "Order Profit Per Order",
-        "Order Item Discount Rate","Dest_Lat","Dest_Lon"
+     "Latitude", "Longitude",
+        "Dest_Lat","Dest_Lon"
     ]
 
     # Vérifier si le géocodage a été fait et si les colonnes existent
@@ -109,7 +108,7 @@ def build_and_train(input_df: DataFrame, model_name: str):
         model = RandomForestClassifier(featuresCol="features", labelCol=label_col)
         # Grille pour tester différentes tailles de forêt
         paramGrid = (ParamGridBuilder()
-                     .addGrid(model.numTrees, [20, 50])  # Nombre d'arbres
+                     .addGrid(model.numTrees, [50, 100])  # Nombre d'arbres
                      .addGrid(model.maxDepth, [5, 10])  # Profondeur de l'arbre
                      .build())
 
@@ -117,7 +116,7 @@ def build_and_train(input_df: DataFrame, model_name: str):
         model = GBTClassifier(featuresCol="features", labelCol=label_col)
         # Grille pour tester différentes complexités
         paramGrid = (ParamGridBuilder()
-                     .addGrid(model.maxIter, [10, 20])  # Nombre d'itérations
+                     .addGrid(model.maxIter, [50, 100])  # Nombre d'itérations
                      .addGrid(model.maxDepth, [3, 5])  # Profondeur
                      .build())
     else:

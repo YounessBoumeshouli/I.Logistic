@@ -162,6 +162,15 @@ if new_df:
     # -----------------------------------------------------------------
     # --- PROCHAINES ÉTAPES: PRÉTRAITEMENT & MODÉLISATION ---
     # -----------------------------------------------------------------
+    try:
+        from clean_data import *
+
+        show_outliers(new_df)
+        new_df = remove_nulls(new_df)
+        # new_df = apply_winsorization(new_df,)
+    except Exception as e:
+        print(e)
+
     st.header("Étape 5: Prétraitement et Pipeline ML")
 
     # --- CORRECTION: AJOUT DU SELECTBOX ---
