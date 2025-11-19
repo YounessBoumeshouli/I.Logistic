@@ -2,16 +2,64 @@ import pandas as pd
 import requests
 import time
 import os
-from csv import writer as csv_writer  # Import pour l'écriture en mode append
+from csv import writer as csv_writer
 
 # --- CONFIGURATION ---
-# La clé API que vous avez fournie
-API_KEY = "2074b4e9a6b240f1b5a4afe6036f917b"
-
-INPUT_FILE = "villes_a_geocoder.csv"
-OUTPUT_FILE = "geocoded_cities.csv"
-
+API_KEY = "2074b4e9a6b240f1b5a4afe6036f917b"  # Votre clé
+OUTPUT_FILE = "geocoded_failures_output.csv"  # Nouveau fichier de sortie
 OUTPUT_COLUMNS = ["Order City", "Order State", "Dest_Lat", "Dest_Lon"]
+
+# --- L'ARRAY DES VILLES EN ÉCHEC (Votre liste) ---
+# (J'ai corrigé les fautes de frappe comme Klaip?da -> Klaipėda)
+villes_en_echec = [
+    ("Jerusalén", "Jerusalén"), ("Bélgorod", "Bélgorod"), ("Cheliábinsk", "Cheliábinsk"),
+    ("Eunápolis", "Bahía"), ("Caçador", "Santa Catarina"), ("Camagüey", "Camagüey"),
+    ("Zanyán", "Zanyán"), ("San Cristóbal", "Táchira"), ("El Limón", "Aragua"),
+    ("Namangán", "Namangán"), ("Mossoró", "Río Grande del Norte"), ("Fayún", "Fayún"),
+    ("Jataí", "Goiás"), ("Gómel", "Gómel"), ("Araçatuba", "São Paulo"),
+    ("Vínnytsia", "Vínnytsia"), ("Mazyr", "Gómel"), ("Querétaro", "Querétaro"),
+    ("Asunción", "Asunción"), ("Córdoba", "Córdoba"), ("Santo André", "São Paulo"),
+    ("Consolación del Sur", "Pinar del Río"), ("Astracán", "Astracán"), ("Mérida", "Yucatán"),
+    ("San Luis Río Colorado", "Sonora"), ("San Miguelito", "Panamá"), ("Culiacán", "Sinaloa"),
+    ("Shanghái", "Shanghái"), ("Kütahya", "Kütahya"), ("Ocotlán", "Jalisco"),
+    ("San Pedro de Macorís", "San Pedro de Macorís"), ("Valparaíso", "Valparaíso"),
+    ("Arraiján", "Panamá"), ("Camaçari", "Bahía"), ("San Luis Potosí", "San Luis Potosí"),
+    ("Apatzingán de la Constitución", "Michoacán"), ("Anápolis", "Goiás"),
+    ("Paysandú", "Paysandú"), ("Klaipėda", "Klaipėda"),  # Corrigé de Klaip?da
+    ("Teherán", "Teherán"), ("Ilhéus", "Bahía"), ("Metz", "Alsacia-Champaña-Ardenas-Lorena"),
+    ("Águas Lindas de Goiás", "Goiás"), ("Medellín", "Antioquía"), ("Tehuacán", "Puebla"),
+    ("Járkov", "Járkov"), ("Grajaú", "Marañón"), ("Seúl", "Seúl"),
+    ("Açu", "Río Grande del Norte"), ("Amatitlán", "Guatemala"), ("León", "León"),
+    ("Vitória", "Espíritu Santo"), ("Colón", "Colón"), ("São Gonçalo", "Río de Janeiro"),
+    ("Francisco Beltrão", "Paraná"), ("Lençóis Paulista", "São Paulo"),
+    ("São José dos Campos", "São Paulo"), ("Kahramanmaraş", "Kahramanmaraş"),  # Corrigé
+    ("Malambo", "Atlántico"), ("Lázaro Cárdenas", "Michoacán"), ("Holguín", "Holguín"),
+    ("Melchor Ocampo", "México"), ("Santarém", "Pará"), ("Potosí", "Potosí"),
+    ("Nancy", "Alsacia-Champaña-Ardenas-Lorena"), ("Concepción del Uruguay", "Entre Ríos"),
+    ("Ibiúna", "São Paulo"), ("San Martín", "Cuscatlán"),
+    ("San Francisco de Macorís", "Duarte"), ("Jacareí", "São Paulo"),
+    ("Balneário Camboriú", "Santa Catarina"), ("Bolívar", "Bolívar"),
+    ("Araucária", "Paraná"), ("Jundiaí", "São Paulo"), ("Ibagué", "Tolima"),
+    ("Tetouan", "Tánger-Tetuán"), ("Sant Boi de Llobregat", "Cataluña"),
+    ("Chillán", "Bío-Bío"), ("Ternópil", "Ternópil"), ("Valparaíso de Goiás", "Goiás"),
+    ("Túnez", "Túnez"), ("Chisináu", "Chisináu"), ("Cuautitlán", "México"),
+    ("Garza García", "Nuevo León"), ("Goiânia", "Goiás"), ("José Bonifácio", "São Paulo"),
+    ("Neuquén", "Neuquén"), ("Qazvín", "Qazvín"), ("Rolândia", "Paraná"),
+    ("Vitória de Santo Antão", "Pernambuco"), ("Cubatão", "São Paulo"),
+    ("Bragança Paulista", "São Paulo"), ("Teziutlán", "Puebla"), ("Taubaté", "São Paulo"),
+    ("Sumaré", "São Paulo"), ("Vorónezh", "Vorónezh"), ("Brașov", "Brașov"),  # Corrigé
+    ("Jersón", "Jersón"), ("San Juan del Río", "Querétaro"), ("Kostanái", "Kostanái"),
+    ("Cártama", "Andalucía"), ("Bisáu", "Bisáu"), ("Montbrison", "Auvernia-Ródano-Alpes"),
+    ("Vesoul", "Borgoña-Franco Condado"), ("Vitória da Conquista", "Bahía"),
+    ("Günzburg", "Bavaria"), ("Quibdó", "Chocó"), ("Zhytómyr", "Zhytómyr"),
+    ("Çanakkale", "Çanakkale"), ("Catalão", "Goiás"), ("Apartadó", "Antioquía"),
+    ("Taboão da Serra", "São Paulo"), ("Caluire-et-Cuire", "Auvernia-Ródano-Alpes"),
+    ("Guimarães", "Braga"), ("Ciénaga", "Magdalena"), ("Mâcon", "Borgoña-Franco Condado"),
+    ("Guamúchil", "Sinaloa"), ("Carapicuíba", "São Paulo"),
+    ("San José de Guanipa", "Anzoátegui"), ("Semnán", "Semnán"),
+    ("Poços de Caldas", "Minas Gerais"), ("Mérida", "Mérida"), ("Gyula", "Békés"),
+    ("Bingöl", "Bingöl"), ("El Aaiún", "El Aaiún"), ("Montería", "Córdoba")
+]
 
 
 # ---------------------
@@ -23,19 +71,29 @@ def geocode_city(city, state):
         return None, None
 
     try:
-        # Formatter la requête
         url = f"https://api.geoapify.com/v1/geocode/search?city={city}&state={state}&format=json&apiKey={API_KEY}"
-
         response = requests.get(url)
         response.raise_for_status()  # Lève une exception si erreur HTTP
         data = response.json()
 
         if data['results']:
-            # Prend le premier résultat le plus pertinent
-            lat = data['results'][0]['lat']
-            lon = data['results'][0]['lon']
-            print(f"  -> Succès pour {city}, {state}: ({lat}, {lon})")
-            return lat, lon
+            best_result = None
+            for result in data['results']:
+                if result.get('result_type') == 'city':
+                    best_result = result
+                    break
+            if not best_result:
+                best_result = data['results'][0]
+
+            lat = best_result.get('lat')
+            lon = best_result.get('lon')
+
+            if lat and lon:
+                print(f"  -> Succès pour {city}, {state}: ({lat}, {lon})")
+                return lat, lon
+            else:
+                print(f"  -> Résultat trouvé mais sans lat/lon pour {city}, {state}")
+                return None, None
         else:
             print(f"  -> Pas de résultats pour {city}, {state}")
             return None, None
@@ -45,80 +103,52 @@ def geocode_city(city, state):
 
 
 def main():
-    try:
-        # L'encodage que vous avez ajouté
-        villes_a_geocoder = pd.read_csv(INPUT_FILE, encoding="ISO-8859-1")
-    except FileNotFoundError:
-        print(f"ERREUR: Fichier d'entrée '{INPUT_FILE}' non trouvé.")
-        print("Veuillez d'abord lancer l'application Streamlit (main.py) pour générer ce fichier.")
-        return
-
-    # Fichier de sortie et gestion de l'en-tête
+    # Gérer le fichier de sortie
     write_header = not os.path.exists(OUTPUT_FILE)
 
     if write_header:
         print(f"Création d'un nouveau fichier de sortie '{OUTPUT_FILE}'...")
-        geocoded_cities = pd.DataFrame(columns=OUTPUT_COLUMNS)
-        geocoded_cities.to_csv(OUTPUT_FILE, index=False)  # Crée le fichier avec en-tête
+        # Écrire l'en-tête
+        with open(OUTPUT_FILE, 'w', newline='', encoding='utf-8') as f:
+            writer = csv_writer(f)
+            writer.writerow(OUTPUT_COLUMNS)
     else:
-        print(f"Reprise du travail à partir de '{OUTPUT_FILE}'...")
-        geocoded_cities = pd.read_csv(OUTPUT_FILE)
+        print(f"Le fichier de sortie '{OUTPUT_FILE}' existe déjà. Ajout des nouveaux résultats...")
 
-    # --- CORRECTION ---
-    # On ne considère une ville comme "faite" que si elle a une latitude ET une longitude
-    # Si 'Dest_Lat' est nul (NaN), 'dropna' la supprimera.
-    villes_succes_df = geocoded_cities.dropna(subset=['Dest_Lat', 'Dest_Lon'])
+    # Lire les villes déjà traitées dans CE fichier (pour la reprise)
+    try:
+        df_existant = pd.read_csv(OUTPUT_FILE)
+        villes_deja_faites = set(zip(df_existant["Order City"], df_existant["Order State"]))
+    except pd.errors.EmptyDataError:
+        villes_deja_faites = set()
 
-    # Le set des villes "déjà faites" ne contient maintenant que les SUCCÈS
-    villes_deja_faites = set(
-        zip(
-            villes_succes_df["Order City"].astype(str),
-            villes_succes_df["Order State"].astype(str)
-        )
-    )
-    # --- FIN CORRECTION ---
-
-    total_villes = len(villes_a_geocoder)
-    print(f"Total de villes uniques à traiter: {total_villes}")
-    print(f"Villes déjà géocodées avec succès: {len(villes_deja_faites)}")
+    print(f"Déjà traité dans ce fichier: {len(villes_deja_faites)}")
 
     # Ouvrir le fichier en mode "append" (ajout)
-    with open(OUTPUT_FILE, 'a', newline='',encoding="ISO-8859-1") as f:
+    with open(OUTPUT_FILE, 'a', newline='', encoding='utf-8') as f:
         writer = csv_writer(f)
 
-        # Note: Nous n'écrivons pas l'en-tête ici car il est déjà géré par 'write_header'
+        # Itérer sur la liste (array) en dur
+        for city_state_tuple in villes_en_echec:
+            city, state = city_state_tuple
 
-        for index, row in villes_a_geocoder.iterrows():
-            city = str(row["Order City"]) if pd.notna(row["Order City"]) else "N/A"
-            state = str(row["Order State"]) if pd.notna(row["Order State"]) else "N/A"
-            ville_tuple = (city, state)
+            # Vérifier si on a déjà traité cette ville DANS CE FICHIER
+            if (city, state) not in villes_deja_faites:
+                print(f"Traitement de la ville : {city}, {state}")
 
-            # Si la ville n'est PAS dans le set des SUCCÈS
-            if ville_tuple not in villes_deja_faites:
-                print(f"Traitement de la ville ({index + 1}/{total_villes}): {city}, {state}")
+                lat, lon = geocode_city(city, state)
 
-                lat, lon = None, None
-                if city != "N/A" and state != "N/A":
-                    lat, lon = geocode_city(city, state)
-                else:
-                    print(f"  -> Ignoré (données manquantes): {city}, {state}")
-
-                # Préparer la nouvelle ligne
                 new_row = [city, state, lat, lon]
-
-                # ÉCRIRE la nouvelle ligne
                 writer.writerow(new_row)
-                f.flush()  # Forcer l'écriture sur le disque
+                f.flush()
 
-                # Mettre à jour le set pour éviter les doublons dans cette session
-                # (Même si c'est un échec, on l'ajoute pour ne pas le refaire
-                # DANS CETTE MÊME SESSION. Au prochain redémarrage, il sera retraité)
-                villes_deja_faites.add(ville_tuple)
-
-                # --- RESPECTER LA LIMITE DE L'API (1 req/sec) ---
                 print("...pause de 1.1 seconde pour respecter les limites de l'API...")
-                # time.sleep(0.5)
+                time.sleep(1.1)
+            else:
+                print(f"Ignoré (déjà dans {OUTPUT_FILE}): {city}, {state}")
 
-    print("Géocodage terminé (ou mis en pause).")
+    print("Script de géocodage manuel terminé.")
 
-main()
+
+if __name__ == "__main__":
+    main()

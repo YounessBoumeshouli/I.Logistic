@@ -6,7 +6,6 @@ Darmstadt,Hesse,49.8851869,8.6736295
 Saharanpur,Uttar Pradesh,29.9637438,77.5427464
 Dongguan,Guangdong,23.0183568,113.7452332
 Lima,Lima (ciudad),-12.0621065,-77.0365256
-Jerusalén,Jerusalén,,
 Grigny,Isla de Francia,48.655886,2.3860488
 Masaya,Masaya,11.9736474,-86.0960547
 Thies Nones,Thiès,14.78333,-16.96667
@@ -46,21 +45,17 @@ Bebington,Inglaterra,53.3503775,-3.005598
 Jinan,Shandong,36.6519754,117.1138479
 Xichang,Sichuan,27.898547,102.2627456
 Takatsuki,Osaka,34.8464785,135.6172204
-Bélgorod,Bélgorod,,
 Saint-Ouen,Isla de Francia,48.911729,2.334267
 Monroe,Luisiana,32.5025471,-92.116219
 Dortmund,Renania del Norte-Westfalia,51.5142273,7.4652789
 Limeira,São Paulo,-22.5615068,-47.401766
-Cheliábinsk,Cheliábinsk,,
 Rotterdam,Holanda Meridional,51.9244424,4.47775
 Bagneux,Isla de Francia,48.795056,2.3027323
 Lakeland,Florida,28.0394654,-81.9498042
-Eunápolis,Bahía,,
 Victoria,Tamaulipas,23.7389846,-99.1441352
 Cesena,Emilia-Romaña,44.136352,12.2422442
 San Juan de la Maguana,San Juan,18.8068129,-71.2276951
 Edogawa-ku,Tokio,35.7066318,139.868677
-Caçador,Santa Catarina,,
 Chattanooga,Tennessee,35.0457219,-85.3094883
 San Pedro Sula,Cortés,15.5062156,-88.0248937
 San Jose,California,37.3361663,-121.890591
@@ -71,10 +66,8 @@ San Cristóbal de Las Casas,Chiapas,16.14701,-91.447109
 Huancayo,Junín,-12.068098,-75.2100953
 Changchun,Jilin,43.8844201,125.3180998
 Sivas,Sivas,39.7503574,37.0145173
-Camagüey,Camagüey,,
 Viena,Viena,48.2083537,16.3725042
 Maidstone,Inglaterra,51.2748258,0.5231646
-Zanyán,Zanyán,,
 Luoyang,Guangdong,24.6780782,113.0543983
 Aew?l-li,Jeju,33.42639,126.26611
 Lafayette,Luisiana,30.2262187,-92.0178202
@@ -98,12 +91,11 @@ Nanterre,Isla de Francia,48.8924273,2.2071267
 São Bernardo do Campo,São Paulo,-23.698093,-46.435225
 Mechelen,Amberes,51.025018,4.471338
 Hangu,Tianjin,39.2554009,117.7956457
-San Cristóbal,Táchira,,
 Anqing,Anhui,30.5276161,117.0515956
 Santo Domingo,Santo Domingo,9.9790066,-84.0911382
 Siping,Jilin,43.1669821,124.364739
 Garforth,Inglaterra,53.7904814,-1.392516
-Oosterhout,Brabante Septentrional,51.632237599999996,4.863042417836681
+Oosterhout,Brabante Septentrional,51.6322376,4.863042417836681
 Minneapolis,Minnesota,44.9772995,-93.2654692
 Mbandaka,Équateur,0.0470732,18.2564803
 Benghazi,Bengasi,32.1200168,20.0812174
@@ -145,7 +137,6 @@ Buenos Aires,Buenos Aires,-34.6083696,-58.4440583
 Barcelona,Cataluña,10.1325951,-64.6819583
 Wad Madani,Gezira,14.3965781,33.5309561
 Noblesville,Indiana,40.0455918,-86.0085955
-El Limón,Aragua,,
 Poza Rica de Hidalgo,Veracruz,20.5320852,-97.4536355
 Xintai,Shandong,35.9094557,117.7620286
 Marikina,Capital Nacional,14.6331084,121.0993541
@@ -159,7 +150,6 @@ Ludhiana,Punyab,30.9090157,75.851601
 Eindhoven,Brabante Septentrional,51.4392648,5.478633
 Estambul,Estambul,41.006381,28.9758715
 Shinyanga,Shinyanga,-3.6562049,33.4271153
-Namangán,Namangán,,
 Pamplona,Navarra,42.8181992,-1.6440089
 Arles,Provenza-Alpes-Costa Azul,43.6776223,4.6309653
 Villejuif,Isla de Francia,48.7921098,2.3633048
@@ -226,7 +216,7 @@ Devonport,Tasmania,-41.1797561,146.3613011
 Lawrence,Massachusetts,42.7070354,-71.1631137
 Olivet,Centro-Valle de Loira,47.8650984,1.9015752
 Santo Domingo de los Colorados,Pichincha,-0.103748,-78.475619
-Armenia,Quindío,6.1561777,-75.7870472
+Armenia,Quindío,4.536307,-75.6723751
 Las Pinas,Capital Nacional,14.458535,120.992935
 Mashhad,Jorasán Razaví,36.288116,59.616304
 Amman,Amán,31.9515694,35.9239625
@@ -244,9 +234,9 @@ Belgaum,Karnataka,15.8572666,74.5069343
 Bihar Sharif,Bihar,25.193859,85.5208617
 Denizli,Denizli,37.7827875,29.0966476
 Nicoya,Guanacaste,10.1492227,-85.4531221
-Progreso,Yucatán,-34.6798644,-56.2154727
-Ravenna,Emilia-Romaña,44.4161414,12.2017617
-Rimini,Emilia-Romaña,44.0593886,12.5684371
+Progreso,Yucatán,21.2822136,-89.6636637
+Ravenna,Emilia-Romaña,41.0253609,-98.9125933
+Rimini,Emilia-Romaña,46.4879874,-112.246676
 Sakaka,Al Jawf,29.9784008,40.2047701
 Nzerekore,Nzérékoré,7.7589949,-8.8160001
 Aurangabad,Maharashtra,19.877263,75.3390241
@@ -267,22 +257,22 @@ Corlu,Tekirdag,41.1590875,27.8041066
 Cosenza,Calabria,39.3099931,16.2501929
 Zagreb,Grad Zagreb,45.84264135,15.962231476593626
 Nowra,Nueva Gales del Sur,-34.8741198,150.6004709
-Teresina,Piauí,52.1546175,18.3306999
+Teresina,Piauí,-5.0874608,-42.8049571
 Sabanalarga,Atlántico,10.6307159,-74.9209378
 Tauranga,Bay of Plenty,-37.6859006,176.167505
 Handan,Hebei,36.6107711,114.4857072
 Everett,Washington,47.9793437,-122.2127011
 Guaymas,Sonora,27.9216441,-110.8994059
 Fareham,Inglaterra,50.8526637,-1.1783134
-Sesto San Giovanni,Lombardía,45.541067,9.239388
+Sesto San Giovanni,Lombardía,45.53442,9.24179
 Sarcelles,Isla de Francia,48.9960813,2.3796245
-Basildon,Inglaterra,51.492473149999995,-1.1334181037283162
+Basildon,Inglaterra,51.49247315,-1.1334181037283162
 Alexandria,Virginia,38.8051095,-77.0470229
 Redlands,California,34.0550328,-117.1827445
 Malayer,Hamadán,34.2922623,48.8215749
 Fukuyama,Hiroshima,34.4857039,133.3623097
 Raleigh,Carolina del Norte,35.7803977,-78.6390989
-Bayeux,Paraíba,49.2764624,-0.7024738
+Bayeux,Paraíba,-7.1301631,-34.936532
 Sannois,Isla de Francia,48.9717267,2.2568296
 Mar del Plata,Buenos Aires (provincia),-37.9976168,-57.5482079
 Delhi,Delhi,28.6517178,77.2219388
@@ -294,7 +284,7 @@ Trapani,Sicilia,38.0173961,12.5160225
 Detroit,Michigan,42.3315509,-83.0466403
 Obregón,Sonora,29.746093,-110.573384
 Mount Gambier,Australia del Sur,-37.8301386,140.7842627
-Praia Grande,São Paulo,-29.1967451,-49.9491133
+Praia Grande,São Paulo,-24.008979,-46.4144939
 Whangarei,Northland,-35.7275268,174.3194202
 Muskogee,Oklahoma,35.7478769,-95.3696909
 Kumasi,Ashanti,6.6985605,-1.6233086
@@ -303,10 +293,10 @@ Butare,Meridional,-2.6053426,29.7401547
 Yaroslavl,Yaroslavl,57.6263877,39.8933705
 Rio Branco,Acre,-9.9765362,-67.8220778
 Afragola,Campania,40.926012,14.310831
-Burgos,Castilla y León,17.3335331,120.4947775
+Burgos,Castilla y León,16.5189301,120.4583283
 Saint-Germain-en-Laye,Isla de Francia,48.8990413,2.0942792
 Fushun,Liaoning,41.8692972,123.924157
-Resende,Río de Janeiro,41.9044838,-8.5599436
+Resende,Río de Janeiro,-22.4683626,-44.4463494
 Huaibei,Anhui,33.9566098,116.7928916
 Villa Frontera,Coahuila,-18.4003073,-70.313437
 Manaus,Amazonas,-3.1316333,-59.9825041
@@ -332,7 +322,7 @@ Avellaneda,Santa Fe,-29.1175471,-59.6586236
 Conway,Arkansas,35.0891932,-92.4398402
 San Bernardino,California,34.1081621,-117.28946
 Bloomington,Illinois,40.4797828,-88.9939147
-David,Chiriquí,47.0387808,26.6701952
+David,Chiriquí,8.4371469,-82.4286281
 Seraing,Lieja,50.6152381,5.5089437
 Harrow,Inglaterra,51.581091,-0.337475
 Termez,Surjandarín,37.2442466,67.283151
@@ -360,22 +350,21 @@ Dalian,Liaoning,38.9130495,121.6098013
 Tulsa,Oklahoma,36.1563122,-95.9927516
 Newport News,Virginia,36.9775016,-76.42977
 Harrisonburg,Virginia,38.4493315,-78.8688833
-Mossoró,Río Grande del Norte,,
 Spanish Town,Santa Caterina,18.4463642,-64.4346277
 Lakewood,Ohio,41.4819932,-81.7981908
 Ulhasnagar,Maharashtra,19.2236329,73.1671515
 Brindisi,Apulia,40.6375408,17.9454957
 Probolinggo,Java Oriental,-7.776173,113.203867
 Gujranwala,Punyab,32.1525312,74.1933745
-Doetinchem,Güeldres,51.9584492,6.295763
-Toluca,México,19.292545,-99.6569007
+Doetinchem,Güeldres,51.964727,6.293615
+Toluca,México,41.0022556,-89.133416
 Zwolle,Overijssel,52.5089759,6.0943765
 Florence,Kentucky,38.9989499,-84.6266111
-Sari,Mazandarán,36.5537458,53.0602761
+Sari,Mazandarán,33.3918592,35.278147336744915
 Trenton,Michigan,42.1406552,-83.1800544
 Jambi,Jambi,-1.6296917,103.6077806
-Saint-Quentin,Norte-Paso de Calais-Picardía,49.8465253,3.2876843
-Jacobina,Bahía,-23.545554799999998,-46.649530109064266
+Saint-Quentin,Norte-Paso de Calais-Picardía,47.5129555,-67.3906756
+Jacobina,Bahía,-11.182011,-40.533314
 Luoyang,Henan,34.6196539,112.4477046
 Quchan,Jorasán Razaví,37.106,58.50955
 Hapur,Uttar Pradesh,28.7299677,77.775499
@@ -384,7 +373,6 @@ Yogyakarta,Yogyakarta,-7.8012646,110.3646857
 Jiutai,Jilin,44.1523236,125.8387384
 Courbevoie,Isla de Francia,48.8953328,2.2561602
 Ploiesti,Prahova,44.9417468,26.0236504
-Fayún,Fayún,,
 Dundee,Escocia,56.4605938,-2.97019
 Delgado,San Salvador,13.7126863,-89.17374
 Aligarh,Uttar Pradesh,27.8815412,78.0690216
@@ -400,7 +388,7 @@ Apopka,Florida,28.6732806,-81.5116471
 Moncalieri,Piamonte,45.0004614,7.6847543
 Macapá,Amapá,0.0401529,-51.0569588
 Coffs Harbour,Nueva Gales del Sur,-30.2962407,153.1135293
-Badalona,Cataluña,41.4457071,2.2491007
+Badalona,Cataluña,41.443092,2.231575
 Essen,Renania del Norte-Westfalia,51.4582235,7.0158171
 Bologna,Emilia-Romaña,44.4938203,11.3426327
 Tarbes,Languedoc-Rosellón-Mediodía-Pirineos,43.232858,0.0781021
@@ -415,7 +403,7 @@ Hobart,Tasmania,-42.8825088,147.3281233
 Nelson,Nelson,-41.2710849,173.2836756
 Bacau,Bacau,46.5560493,26.9153557
 Akron,Ohio,41.083064,-81.518485
-Barra Mansa,Río de Janeiro,-21.6531715,-45.0460566
+Barra Mansa,Río de Janeiro,-22.5427739,-44.1691871
 Sukabumi,Java Occidental,-6.9199289,106.9265095
 Morón,Ciego de Ávila,21.84,-78.76194
 Saga,Saga,33.2639134,130.3008378
@@ -454,14 +442,13 @@ Kwinana,Australia Occidental,-32.233854,115.82114839519188
 Ivanovo,Ivanovo,56.9956855,40.9812104
 Nishinomiya,Hyogo,34.7377745,135.3413128
 Pontianak,Borneo Occidental,-0.023824,109.330603
-Jataí,Goiás,,
 Kolhapur,Maharashtra,16.7028412,74.2405329
 Tempe,Arizona,33.4255117,-111.940016
 Fes,Fez-Bulmán,34.036996,-5.002923
 Mont-Saint-Aignan,Normandía,49.4679,1.0813
 Leicester,Inglaterra,52.6362,-1.1331969
 Wuppertal,Renania del Norte-Westfalia,51.264018,7.1780374
-Mosul,Nínive,41.446979,46.573085
+Mosul,Nínive,41.4443354,46.5756443
 Les Pavillons-sous-Bois,Isla de Francia,48.9082988,2.5034999
 Wilmington,Carolina del Norte,34.2352853,-77.9487284
 Hyderabad,Sind,25.3868287,68.3714971
@@ -470,7 +457,7 @@ Chifeng,Mongolia Interior,42.2811677,118.9426564
 East Point,Georgia,33.6795531,-84.4393724
 Sanya,Hainan,18.2534658,109.5034392
 Warri,Delta,5.5186186,5.7480196
-Lome,Marítima,45.9147906,14.0743872
+Lome,Marítima,6.130419,1.215829
 Vichy,Auvernia,46.1239268,3.4203712
 Bornova,Izmir,38.4660651,27.2190721
 Cainta,Calabarzón,14.5786,121.1222
@@ -500,15 +487,14 @@ Bhavnagar,Guyarat,21.7718836,72.1416449
 Mont-de-Marsan,Aquitania-Lemosín-Poitou-Charentes,43.8911318,-0.500972
 Dormagen,Renania del Norte-Westfalia,51.0934389,6.8416158
 Heroica Zitácuaro,Michoacán,19.433214,-100.353572
-Gómel,Gómel,,
 Kowloon,Hong Kong,22.3116452,114.1767885
 Bezerros,Pernambuco,-8.2372132,-35.7558262
 Fort Lauderdale,Florida,26.1223084,-80.1433786
 Benevento,Campania,41.1295587,14.7824639
 Ndola,Copperbelt,-12.9693056,28.6365894
 Kartal,Estambul,40.88858,29.1856536
-Brest,Bretaña,48.3905283,-4.4860088
-Karlstad,Värmland,59.3809146,13.5027631
+Brest,Bretaña,42.2015009,21.5051787
+Karlstad,Värmland,59.516667,13.8
 Miguel Hidalgo,Distrito Federal,19.4071156,-99.1906167
 Gonaïves,Artibonito,48.20711,16.9786
 Neuilly-sur-Marne,Isla de Francia,48.8565557,2.5290045
@@ -523,14 +509,13 @@ Aschaffenburg,Bavaria,49.9740542,9.1493636
 Mwanza,Mwanza,-2.5196915,32.9014417
 Watertown,Nueva York,43.9747838,-75.9107565
 Coacalco,México,19.6359452,-99.0948573
-Parma,Emilia-Romaña,43.7851615,-116.9432088
+Parma,Emilia-Romaña,44.8013678,10.3280833
 Mougins,Provenza-Alpes-Costa Azul,43.6008898,6.9963543
 Villenave-d'Ornon,Aquitania-Lemosín-Poitou-Charentes,44.7737872,-0.5595029
 Akhisar,Manisa,38.9240528,27.8401895
 Santa Cruz de Barahona,Barahona,18.2101889,-71.1012325
 Hamilton,Waikato,-37.7878809,175.281788
 Guarapuava,Paraná,-25.3950986,-51.4622016
-Araçatuba,São Paulo,,
 Silao,Guanajuato,20.943727,-101.427043
 North Las Vegas,Nevada,36.2005843,-115.121584
 Mumbai,Maharashtra,19.054999,72.8692035
@@ -540,7 +525,7 @@ North York,Ontario,43.7543217,-79.44910565950553
 Yangjiang,Guangdong,21.8603337,111.9776773
 Fayetteville,Carolina del Norte,35.0525759,-78.878292
 Los Mochis,Sinaloa,25.7928058,-108.990188
-Paraná,Entre Ríos,-12.616747,-47.873378
+Paraná,Entre Ríos,-31.7330145,-60.5298511
 Cajamarca,Cajamarca,-7.1566682,-78.517306
 Cork,Cork,51.8985136,-8.4726423
 Waco,Texas,31.5491899,-97.1474628
@@ -548,19 +533,16 @@ Zapopan,Jalisco,20.7211203,-103.3913671
 Dublín,Dublín,29.8589943,78.9870643
 Six-Fours-les-Plages,Provenza-Alpes-Costa Azul,43.0935105,5.8393953
 Sunderland,Inglaterra,54.7083627,-3.2748199
-Santana de Parnaíba,São Paulo,-23.53333,-46.61667
+Santana de Parnaíba,São Paulo,-0.030965,-51.198272
 Swansea,Gales,51.6195955,-3.9459248
 Bayonne,Aquitania-Lemosín-Poitou-Charentes,43.4945144,-1.4736657
-Vínnytsia,Vínnytsia,,
 Montenegro,Quindío,4.5664176,-75.7507081
 Kunming,Yunnan,25.0363006,102.7086139
 Qitaihe,Heilongjiang,45.7703578,131.0066556
 Grand Prairie,Texas,32.7459645,-96.9977846
 Tlaquepaque,Jalisco,20.6397718,-103.3120428
-Mazyr,Gómel,52.0495,29.2456
 Lida,Grodno,53.891636,25.3022894
 Gien,Centro-Valle de Loira,47.6918575,2.6313889
-Querétaro,Querétaro,,
 Sorocaba,São Paulo,-23.5003451,-47.4582864
 Redditch,Inglaterra,52.3057655,-1.9417444
 Verdun,Alsacia-Champaña-Ardenas-Lorena,49.1589278,5.3867277
@@ -569,19 +551,18 @@ Hamar,Hedmark,60.7947205,11.0680555
 Springfield,Ohio,39.9234046,-83.810138
 Rohtak,Haryana,28.9010899,76.5801935
 Kulob,Khatlon,37.9081024,69.7739482
-Asunción,Asunción,,
 Tallaght,Dublín del Sur,53.2878082,-6.362355
 La Ceiba,Atlántida,15.7833743,-86.7917749
-Temirtau,Karagandá,50.0757002,73.04383390433861
+Temirtau,Karagandá,50.0587825,72.9535681
 Wolverhampton,Inglaterra,52.5847651,-2.127567
 Pitalito,Huila,1.8447122,-76.0456886
 Hermosillo,Sonora,29.0948207,-110.9692202
-San Sebastian,País Vasco,11.7101392,125.0175663
+San Sebastian,País Vasco,-13.5336964,-71.92215742642075
 Derby,Inglaterra,52.9212617,-1.4761491
 Springfield,Misuri,37.2081729,-93.2922715
 Santa Ana,Santa Ana,13.9947753,-89.5566069
 Igarassu,Pernambuco,-7.8354423,-34.9061125
-Reus,Cataluña,41.1606015,1.0999417
+Reus,Cataluña,41.151754,1.106127
 Lokossa,Mono,6.6458524,1.7171404
 Kitwe,Copperbelt,-12.8203689,28.2155973
 Altamura,Apulia,40.8285595,16.5527314
@@ -592,7 +573,7 @@ Hempstead,Nueva York,40.7092836,-73.6230362
 Suihua,Heilongjiang,46.6520372,126.9626572
 Escuintla,Escuintla,15.3198033,-92.6594468
 Tiruchchirappalli,Tamil Nadu,10.8067917,78.7039861
-Ganganagar,Rajastán,24.6181108,92.9606437
+Ganganagar,Rajastán,29.9049489,73.8792934139276
 Vannes,Bretaña,47.6586772,-2.7599079
 Darwin,Territorio del Norte,-12.46044,130.8410469
 Langen,Baja Sajonia,52.6086482,7.9575552
@@ -607,7 +588,7 @@ Maxixe,Inhambane,-23.861561,35.348934
 Euskirchen,Renania del Norte-Westfalia,50.66129,6.7871681
 Monroe,Carolina del Norte,34.9854275,-80.5495112
 Ratingen,Renania del Norte-Westfalia,51.2973261,6.8493503
-Puerto La Cruz,Anzoátegui,10.2028617,-64.6307626
+Puerto La Cruz,Anzoátegui,10.7354693,-62.5760007
 Blackpool,Inglaterra,53.8179442,-3.0509812
 Srinagar,Jammu y Cachemira,34.0747444,74.8204443
 Bobigny,Isla de Francia,48.906387,2.4452231
@@ -624,7 +605,7 @@ Rabat,Rabat-Salé-Zemur-Zaer,34.0218454,-6.8408929
 Tlalnepantla,México,19.5370001,-99.1955083
 Malanje,Malanje,-9.5483991,16.3475335
 Offenburg,Baden-Wurtemberg,48.4695984,7.9429235
-Lora del Río,Andalucía,37.6612874,-5.5310778
+Lora del Río,Andalucía,37.658302,-5.530358
 Xinzhou,Hubei,30.8437702,114.7960013
 Shenyang,Liaoning,41.8026095,123.4279105
 Porto,Porto,41.1502195,-8.6103497
@@ -649,7 +630,6 @@ Glasgow,Escocia,55.861155,-4.2501687
 Parker,Colorado,39.5184514,-104.7612638
 Solingen,Renania del Norte-Westfalia,51.1721629,7.0845893
 Nigde,Nigde,37.969849,34.6764495
-Córdoba,Córdoba,,
 Enugu,Enugu,6.4499833,7.5000007
 Lusaka,Lusaka,-15.4163395,28.2818414
 Karnal,Haryana,29.6803266,76.9896254
@@ -660,7 +640,6 @@ Jackson,Michigan,42.2465036,-84.4016963
 Neiva,Huila,2.9257038,-75.2893937
 Surat,Guyarat,21.2094892,72.8317058
 Cormeilles-en-Parisis,Isla de Francia,48.9759637,2.1998877
-Santo André,São Paulo,,
 Miass,Cheliábinsk,55.0505685,60.1087125
 Barueri,São Paulo,-23.5112184,-46.8764612
 Newcastle,Nueva Gales del Sur,-32.9272881,151.7812534
@@ -671,7 +650,6 @@ Ajaccio,Corse,41.9263991,8.7376029
 Ronchin,Norte-Paso de Calais-Picardía,50.6056749,3.0778827
 Thiruvananthapuram,Kerala,8.4882267,76.947551
 Radom,Mazovia,51.4022557,21.1541546
-Consolación del Sur,Pinar del Río,,
 Kozhikode,Kerala,11.2450558,75.7754716
 Murfreesboro,Tennessee,35.8460396,-86.3921096
 Springfield,Oregón,44.0462362,-123.0220289
@@ -720,14 +698,13 @@ Kawasaki,Kanagawa,35.5306639,139.7037668
 Castelldefels,Cataluña,41.2861022,1.9824173
 Ciudad del Carmen,Campeche,18.651739,-91.81492
 Faridabad,Haryana,28.4031478,77.3105561
-Perpignan,Languedoc-Rosellón-Mediodía-Pirineos,42.6962438,2.8796929
+Perpignan,Languedoc-Rosellón-Mediodía-Pirineos,42.696748,2.893311
 Rosario,Santa Fe,-32.9593609,-60.6617024
 Covington,Washington,47.3657791,-122.100222
 Guaratinguetá,São Paulo,-22.8057839,-45.1908926
 Bareilly,Uttar Pradesh,28.355099,79.417851
 Perugia,Umbría,43.1119613,12.3890104
 Philadelphia,Pensilvania,39.9527237,-75.1635262
-Astracán,Astracán,,
 Crewe,Inglaterra,53.0996153,-2.4414627
 Liberec,Liberec,50.7702648,15.0583947
 Sukkur,Sind,27.6961883,68.8588754
@@ -767,16 +744,14 @@ Suzhou,Anhui,33.6482366,116.9588062
 Heyuan,Guangdong,23.746777,114.6954482
 Saveh,Markazí,35.0196331,50.3652364
 Chengdu,Sichuan,30.659867,104.063315
-Mérida,Yucatán,,
 Katoomba,Nueva Gales del Sur,-33.713759,150.3121633
 Pavlodar,Pavlodar,52.2857573,76.9455035
 Briansk,Briansk,53.2423778,34.3668288
-Granada,Andalucía,11.9303801,-85.9535897
+Granada,Andalucía,29.3134852,47.8655881
 Conflans-Sainte-Honorine,Isla de Francia,48.9938791,2.0949768
 Elx,Valenciana,38.2653307,-0.6988391
 Rillieux-la-Pape,Auvernia-Ródano-Alpes,45.823514,4.8994366
 Dresden,Sajonia,51.0493286,13.7381437
-San Luis Río Colorado,Sonora,32.445312,-114.769803
 Burlington,Carolina del Norte,36.0956918,-79.4377991
 Pontault-Combault,Isla de Francia,48.8009132,2.6068064
 Melbourne,Victoria,-37.8142454,144.9631732
@@ -785,7 +760,7 @@ Ipoh,Perak,4.5986817,101.0900236
 Northampton,Inglaterra,52.2877582,-2.2421229
 Ginebra,Ginebra,3.72461,-76.26675
 Ji-Paraná,Rondônia,-10.8778148,-61.9277854
-Jerez de la Frontera,Andalucía,-33.051326,-71.333711
+Jerez de la Frontera,Andalucía,36.687916,-6.126648
 Jartum,Jartum,15.5635972,32.5349123
 Abu Kabir,Ash Sharqiyah,30.72517,31.6708449
 Stuttgart,Baden-Wurtemberg,48.7784485,9.1800132
@@ -808,7 +783,6 @@ Vladímir,Vladímir,40.2053362,-74.7256977
 Lorca,Murcia,37.6711989,-1.6988592
 Gurupi,Tocantins,-11.72794,-49.068046
 eMbalenhle,Mpumalanga,-26.5416667,29.0747222
-San Miguelito,Panamá,11.4028037,-84.9004
 Ixtapaluca,México,19.3129326,-98.8840481
 Baoding,Hebei,38.8579735,115.490696
 Rambouillet,Isla de Francia,48.6452851,1.819207
@@ -823,7 +797,7 @@ Heilbronn,Baden-Wurtemberg,49.142291,9.218655
 Maisons-Alfort,Isla de Francia,48.8012045,2.4309703
 Huntsville,Alabama,34.729847,-86.5859011
 Iguala,Guerrero,18.3466358,-99.5376944
-San Fernando,Andalucía,36.4646672,-6.1983492
+San Fernando,Andalucía,10.2807069,-61.4645896
 Chandigarh,Chandigarh,30.7334421,76.7797143
 Colombes,Isla de Francia,48.9227298,2.2543631
 Tianjin,Tianjin,39.1175488,117.1913008
@@ -847,7 +821,7 @@ Guanajuato,Guanajuato,21.0158848,-101.25284
 Bengkulu,Bengkulu,-3.7922858,102.2623797
 Irving,Texas,32.8295183,-96.9442177
 Cuscatancingo,San Salvador,13.7272783,-89.1807753
-Sofia,Sofía-Ciudad,46.8424446,28.379649
+Sofia,Sofía-Ciudad,42.6977028,23.3217359
 Al Muharraq,Muharraq,26.2465946,50.6164127
 Albany,Australia Occidental,-35.0247822,117.883608
 Clarksville,Tennessee,36.5277607,-87.3588703
@@ -862,12 +836,10 @@ Halifax,Inglaterra,53.7229229,-1.8604874
 Asahikawa,Hokkaido,43.770625,142.3649743
 Derbent,Daguestán,44.9767094,17.906959
 La Teste-de-Buch,Aquitania-Lemosín-Poitou-Charentes,44.6316943,-1.1491319
-Culiacán,Sinaloa,,
 Tiflis,Tiflis,41.6934591,44.8014495
 Busan,Busan,35.15176135,128.83353869024978
 Turgutlu,Manisa,38.5000458,27.7084176
 Cankaya,Ankara,39.8853321,32.8554966
-Shanghái,Shanghái,,
 Lowestoft,Inglaterra,52.476933,1.734763
 Las Rozas de Madrid,Madrid,40.4933095,-3.8758396
 Wigan,Inglaterra,53.546215,-2.6319112
@@ -890,7 +862,6 @@ Jizán,Jizán,32.5694306,36.3149866
 Reynosa,Tamaulipas,26.0907673,-98.2788191
 Aurora,Colorado,39.7405111,-104.830994
 Montréal,Quebec,46.855987,-71.276271
-Kütahya,Kütahya,,
 Rockhampton,Queensland,-23.3782137,150.5134227
 Baguio City,Cordillera,16.4119905,120.5933719
 Decatur,Illinois,39.8454163,-88.9524151
@@ -928,7 +899,7 @@ Eskisehir,Eskisehir,39.7743941,30.519116
 Constantina,Constantina,36.3641642,6.6084281
 Ingolstadt,Bavaria,48.7630165,11.4250395
 Cienfuegos,Cienfuegos,22.1459864,-80.4530775
-Apeldoorn,Güeldres,52.2092784,5.9689735
+Apeldoorn,Güeldres,52.207918,5.958917
 Richmond,Virginia,37.5385087,-77.43428
 Chitungwiza,Harare,-18.0143462,31.0726737
 Ouagadougou,Centro,12.3681873,-1.5270944
@@ -950,12 +921,10 @@ Jonesboro,Arkansas,35.8348088,-90.7045297
 Mesa,Arizona,33.4151005,-111.831455
 Bytom,Silesia,50.3470387,18.9231857
 Meknes,Mequinez-Tafilalet,33.89352,-5.54727
-Ocotlán,Jalisco,,
 Argenteuil,Isla de Francia,48.9479069,2.2481797
 Henderson,Kentucky,37.8367513,-87.5907631
 Depok,Java Occidental,-6.85639,107.175
 La Vega,La Vega,19.2243084,-70.5302203
-San Pedro de Macorís,San Pedro de Macorís,,
 Medan,Sumatra Septentrional,48.95275,1.99503
 Utrecht,Utrecht,52.0907006,5.1215634
 Guarulhos,São Paulo,-23.4675941,-46.5277704
@@ -970,7 +939,6 @@ Mons-en-Baroeul,Norte-Paso de Calais-Picardía,50.6428547,3.1093516
 Puteaux,Isla de Francia,48.8841522,2.2368863
 Maringá,Paraná,-23.425269,-51.9382078
 Kastamonu,Kastamonu,41.3765359,33.7770087
-Valparaíso,Valparaíso,,
 Dublín,Ohio,29.8589943,78.9870643
 Cleveland,Ohio,41.4996574,-81.6936772
 Tipitapa,Managua,12.1962432,-86.096372
@@ -980,9 +948,8 @@ Preston,Inglaterra,51.5762155,-0.2915108
 Aubervilliers,Isla de Francia,48.9146078,2.3821895
 Omaha,Nebraska,41.2587459,-95.9383758
 Huddersfield,Inglaterra,53.6466645,-1.7822482
-Daejeon,Daejeon,36.322343950000004,127.42614601162633
+Daejeon,Daejeon,36.32234395,127.42614601162632
 Chapecó,Santa Catarina,-26.968596,-50.41852
-Arraiján,Panamá,,
 Worms,Renania-Palatinado,49.6302618,8.3620898
 Kaiyuan,Liaoning,42.5434674,124.0382894
 Ajman,Ajmán,25.3936557,55.4451432
@@ -997,7 +964,6 @@ Lodz,Lodz,51.760932,19.460718
 Blumenau,Santa Catarina,-26.9195567,-49.0658025
 Almaty,Ciudad de Almatý,43.2363924,76.9457275
 Gorakhpur,Uttar Pradesh,26.7600217,83.3668129
-Camaçari,Bahía,,
 Kermanshah,Kermanshah,34.3239414,47.0735891
 Annemasse,Auvernia-Ródano-Alpes,46.1934005,6.2341093
 Indianapolis,Indiana,39.7683331,-86.1583502
@@ -1021,22 +987,22 @@ New Albany,Indiana,38.2856247,-85.8241312
 Bhatinda,Punyab,30.206791,74.9463699
 Smyrna,Tennessee,35.9824598,-86.5199492
 Niamey,Niamey,13.51366,2.1098
-Serra,Espíritu Santo,39.6851966,-0.4281287
+Serra,Espíritu Santo,-20.1252961,-40.3064477
 Pekín,Pekín,3.531503,103.404657
 Fukui,Fukui,36.061751,136.2260542
 Lowell,Massachusetts,42.6414437,-71.3085329
 Edea,Littoral,3.7990131,10.1265567
-Araguaína,Tocantins,-10.501041,-48.368193
+Araguaína,Tocantins,-21.170562,-43.023341
 Menden,Renania del Norte-Westfalia,51.43779,7.7953822
 Yiwu,Zhejiang,29.3093002,120.0703805
 Shantou,Guangdong,23.3563921,116.6775856
-Alexandria,Alejandría,31.1991806,29.8951716
+Alexandria,Alejandría,31.3119463,-92.4453558
 Panama City,Panamá,8.9714493,-79.5341802
 Bergheim,Renania del Norte-Westfalia,50.5684875,6.6498689
 Bandar Abbas,Hormozgán,27.1793466,56.2781423
 Santa Catarina,Nuevo León,25.6745052,-100.4616371
-São Benedito,Ceará,-3.7317229999999997,-38.534935901677215
-Guantánamo,Guantánamo,20.903061,101.747226
+São Benedito,Ceará,-4.04861,-40.865
+Guantánamo,Guantánamo,12.9,-14.86667
 Uvarovo,Tambov,51.9838919,42.2664426
 Cagliari,Cerdeña,39.2171994,9.113311
 Venice,Véneto,45.4371908,12.3345898
@@ -1046,7 +1012,6 @@ Atsugacho,Hokkaido,42.42863,142.22276
 Chester,Pensilvania,39.849557,-75.3557458
 Matanzas,Matanzas,23.0469236,-81.5783032
 Kuching,Sarawak,1.5597561,110.345397
-San Luis Potosí,San Luis Potosí,,
 Antakya,Hatay,36.2036546,36.1637648
 Albi,Languedoc-Rosellón-Mediodía-Pirineos,43.9277552,2.147899
 Panihati,Bengala Occidental,22.6950342,88.4073585
@@ -1079,13 +1044,11 @@ Puebla,Puebla,19.0437196,-98.1981486
 Henderson,Nevada,36.0319843,-114.9822486
 Colima,Colima,19.2433991,-103.7280738
 Barreirinhas,Marañón,-2.7541271,-42.8259693
-Apatzingán de la Constitución,Michoacán,,
 Fresno,California,36.7394421,-119.78483
 Malang,Java Oriental,-7.856382,112.395586
 Caen,Normandía,49.1813403,-0.3635615
 Grand Rapids,Michigan,42.9632425,-85.6678639
 Zhanjiang,Guangdong,21.2737079,110.3548318
-Anápolis,Goiás,,
 João Pessoa,Paraíba,-7.159247,-34.858136
 Clermont-Ferrand,Auvernia,45.7774551,3.0819427
 Dos Hermanas,Andalucía,10.7412049,123.0370226
@@ -1116,8 +1079,7 @@ Chennai,Tamil Nadu,13.0836939,80.270186
 Lubumbashi,Katanga,-11.6642316,27.4826264
 Baotou,Mongolia Interior,40.6174777,109.944912
 Pematangsiantar,Sumatra Septentrional,2.9588631,99.0653646
-Baku,Baki,39.976377299999996,49.44076164822534
-Paysandú,Paysandú,,
+Baku,Baki,39.9763773,49.44076164822534
 Kerpen,Renania del Norte-Westfalia,50.8696345,6.694734
 Torre del Greco,Campania,40.7879211,14.3682813
 Kismaayo,Jubbada Hoose,-0.35817,42.54536
@@ -1126,14 +1088,14 @@ Turkmenabat,Lebap,39.0733839,63.5831564
 Santa Clara,California,37.3541132,-121.955174
 Leuven,Brabante Flamenco,50.879202,4.7011675
 Valle de La Pascua,Guárico,9.2139083,-66.0065129
-Girona,Cataluña,41.9791657,2.8162865
+Girona,Cataluña,41.97268,2.818698
 Pirapora,Minas Gerais,-17.3493765,-44.9507904
 Odense,Dinamarca Meridional,55.3997225,10.3852104
 Imphal,Manipur,24.7991162,93.9364419
 Santa Cruz de la Sierra,Santa Cruz,-17.7834217,-63.1820853
 Longview,Washington,46.1377048,-122.934462
 Tlalpan,Distrito Federal,19.2880603,-99.1669733
-Arnhem,Güeldres,51.9844332,5.9011598
+Arnhem,Güeldres,51.991032,5.915834
 Bari,Apulia,41.1257843,16.8620293
 Tarragona,Cataluña,7.0497523,126.4489837
 Yingcheng,Hubei,30.9333642,113.5664812
@@ -1142,11 +1104,9 @@ Tampa,Florida,27.9477595,-82.458444
 Ramnicu Valcea,Vâlcea,45.1031731,24.3647209
 Manzanillo,Granma,20.3454054,-77.1201225
 Barquisimeto,Lara,10.0774374,-69.3222293
-Klaip?da,Klaip?da,,
 Chaoyang,Liaoning,41.4947399,120.3847618
 Villach,Carintia,46.6167284,13.8500268
 Iquique,Tarapacá,-20.2140657,-70.1524646
-Teherán,Teherán,,
 Los Patios,Norte de Santander,7.8342202,-72.5059128
 Augsburg,Bavaria,48.3690341,10.8979522
 Lohne,Baja Sajonia,52.665257,8.2363523
@@ -1157,10 +1117,7 @@ Pasadena,Texas,29.6910753,-95.2092076
 Colmar,Alsacia-Champaña-Ardenas-Lorena,48.0777517,7.3579641
 Vincennes,Isla de Francia,48.8474508,2.4396714
 Kuala Terengganu,Trengganu,5.3296461,103.1383265
-Ilhéus,Bahía,,
-Metz,Alsacia-Champaña-Ardenas-Lorena,,
 Itu,São Paulo,-23.2637798,-47.2998462
-Águas Lindas de Goiás,Goiás,10.46525,-84.34905
 Kiel,Schleswig-Holstein,54.3227085,10.135555
 Muret,Languedoc-Rosellón-Mediodía-Pirineos,43.4606049,1.3257504
 Cerignola,Apulia,41.2648121,15.8996651
@@ -1171,7 +1128,7 @@ Viña del Mar,Valparaíso,40.09134,0.14115
 Kuito,Bié,-0.2201641,-78.5123274
 Tegal,Java Central,-7.4759,108.7793
 Menton,Provenza-Alpes-Costa Azul,43.7753495,7.5029213
-Novara,Piamonte,45.584250049999994,8.545996970894572
+Novara,Piamonte,45.58425005,8.545996970894572
 Fort Worth,Texas,32.753177,-97.3327459
 Ivry-sur-Seine,Isla de Francia,48.8122302,2.3872525
 Yunyang,Henan,33.4456,112.714
@@ -1218,7 +1175,7 @@ Varanasi,Uttar Pradesh,25.3356491,83.0076292
 Guiyang,Guizhou,26.5878031,106.7086936
 Gateshead,Inglaterra,54.9625789,-1.6019294
 Birmingham,Inglaterra,52.4796992,-1.9026911
-Nairobi,Nairobi,-1.3026148499999999,36.82884201813725
+Nairobi,Nairobi,-1.30261485,36.82884201813725
 San Justo,Santa Fe,-30.7890881,-60.5933274
 Berne,Berna,46.9484742,7.4521749
 Lisichansk,Lugansk,48.917267,38.4285981
@@ -1233,21 +1190,18 @@ Anjo,Aichi,34.947764,137.075563
 Colombo,Occidental,-28.910403,-51.869574
 Sylhet,Sylhet,24.89922,91.8685271
 Ashdod,Meridional,31.7977314,34.6529922
-São Miguel dos Campos,Alagoas,-9.778524,-36.51811
+São Miguel dos Campos,Alagoas,37.07838,-8.76609
 Bogotá,Bogotá,4.70798955,-74.05622645311766
 New Plymouth,Taranaki,-39.0579941,174.0806474
 Herten,Renania del Norte-Westfalia,51.5942009,7.1368071
 Zurich,Zúrich,47.3744489,8.5410422
 Buffalo,Nueva York,42.8867166,-78.8783922
-Medellín,Antioquía,,
 Laiyang,Shandong,36.9786591,120.7068644
 Columbia,Carolina del Sur,34.000754,-81.0352313
-Tehuacán,Puebla,,
 Regina,Saskatchewan,50.4479733,-104.6158764
 Auch,Languedoc-Rosellón-Mediodía-Pirineos,43.6463558,0.5850507
 Ruda Slaska,Silesia,50.2858001,18.8747933
 Xinzhou,Shanxi,38.4391871,112.7175133
-Járkov,Járkov,,
 San Diego,California,32.7174202,-117.162772
 Guidonia Montecelio,Lacio,41.9842734,12.6953191
 Cuiabá,Mato Grosso,-15.5986686,-56.0991301
@@ -1264,7 +1218,6 @@ Saint-Malo,Bretaña,48.649518,-2.0260409
 Chemnitz,Sajonia,50.8323531,12.918914
 Leeuwarden,Frisia,53.2005936,5.7918548
 Bayreuth,Bavaria,49.9446345,11.5743543
-Grajaú,Marañón,,
 Pelotas,Rio Grande do Sul,-31.7699736,-52.3410161
 Longjumeau,Isla de Francia,48.6943793,2.2953297
 Palermo,Sicilia,38.1112268,13.3524434
@@ -1287,11 +1240,10 @@ Itapevi,São Paulo,-23.54888,-46.933889
 Puerto Padre,Las Tunas,21.197504,-76.6018039
 Lagos de Moreno,Jalisco,21.3567286,-101.935294
 Kaifeng,Henan,34.7990966,114.3054796
-Seúl,Seúl,,
 Ulan Bator,Ulán Bator,47.9184676,106.9177016
 Juazeiro,Bahía,-9.449836,-40.497
 Pretoria,Gauteng,-25.7459277,28.1879101
-Rangún,Rangún,21.8427548,75.5596003
+Rangún,Rangún,22.18639,74.585939
 Tabuk,Tabuk,28.4012536,36.567049
 Palma de Mallorca,Islas Baleares,39.5695818,2.6500745
 Fairfield,California,38.2493581,-122.039966
@@ -1301,24 +1253,22 @@ Portage,Indiana,41.5758708,-87.1761455
 Duisburg,Renania del Norte-Westfalia,51.434999,6.759562
 Arlington,Texas,32.7355816,-97.1071186
 Gisborne,Gisborne,-38.661326,178.0206487
-Portland,Oregón,-38.3456231,141.6042304
+Portland,Oregón,45.5202471,-122.674194
 Callao,Callao,-12.0522626,-77.1391133
 Caracas,Distrito Capital,10.505146,-66.917878
-Açu,Río Grande del Norte,,
 Fontainebleau,Isla de Francia,48.4049375,2.7015872
 Pouso Alegre,Minas Gerais,-22.2343858,-45.9327241
-Cartagena,Bolívar,10.3820401,-85.6751129
+Cartagena,Bolívar,10.4265566,-75.5441671
 Wilhelmshaven,Baja Sajonia,53.5278793,8.106301
 Bacolod City,Visayas Occidental,10.6762836,122.9513786
 Roanne,Auvernia-Ródano-Alpes,46.0345572,4.0729178
 Vientiane,Prefectura de Vientián,17.9640988,102.6133707
 Upsala,Upsala,59.8586126,17.6387436
-Amatitlán,Guatemala,,
 Aurora,Illinois,41.7571701,-88.3147539
 Kayseri,Kayseri,38.7219011,35.4873214
 Mentougou,Pekín,39.9389127,116.09504
 Townsville,Queensland,-19.2569391,146.8239537
-Ho Chi Minh City,Ciudad Ho Chi Minh,10.77665575,106.70085262682807
+Ho Chi Minh City,Ciudad Ho Chi Minh,10.77665575,106.70085262682808
 Ardahan,Ardahan,41.1102966,42.7035585
 Morelia,Michoacán,19.7027116,-101.1923818
 Kisumu,Nyanza,-0.10221,34.76171
@@ -1338,7 +1288,6 @@ Nagercoil,Tamil Nadu,8.1880471,77.4290492
 Cannes,Provenza-Alpes-Costa Azul,43.5515198,7.0134418
 Jackson,Tennessee,35.6144446,-88.8177418
 Hackensack,Nueva Jersey,40.8871438,-74.0410865
-León,León,,
 Herat,Herat,34.3491443,62.2163252
 Exeter,Inglaterra,50.7256138,-3.5269209
 Johannesburg,Gauteng,-26.205,28.049722
@@ -1348,9 +1297,8 @@ Mantes-la-Ville,Isla de Francia,48.9748938,1.7109449
 Rawalpindi,Punyab,33.5915446,73.053721
 Kollam,Kerala,8.8870815,76.5907017
 Alice Springs,Territorio del Norte,-23.6983884,133.8812885
-Vitória,Espíritu Santo,,
 Suresnes,Isla de Francia,48.8709053,2.2255727
-Fort-de-France,Martinica,14.643591650000001,-61.03406402069959
+Fort-de-France,Martinica,14.64359165,-61.03406402069959
 Donghai,Guangdong,22.943985,115.6355727
 Naperville,Illinois,41.7728699,-88.1479278
 Surabaya,Java Oriental,-7.0959,112.3479
@@ -1384,16 +1332,14 @@ Poznan,Gran Polonia,52.4082663,16.9335199
 Redmond,Washington,47.6694141,-122.1238767
 Elmhurst,Illinois,41.8994745,-87.9403418
 Auckland,Auckland,-36.852095,174.7631803
-Colón,Colón,,
-Moa,Holguín,61.3152426,7.8362842
+Moa,Holguín,20.6559593,-74.9430494
 Manizales,Caldas,5.0668907,-75.5066661
-Jodhpur,Rajastán,30.1312781,74.3747616
+Jodhpur,Rajastán,26.2967719,73.0351433
 Waitakere,Auckland,-36.848987,174.5442266
 Huainan,Anhui,32.5866826,117.0130019
 Columbus,Georgia,32.4610708,-84.9880449
 Zhengzhou,Henan,34.7472531,113.619321
 Feira de Santana,Bahía,-12.248321,-38.95461
-São Gonçalo,Río de Janeiro,,
 Milwaukee,Wisconsin,43.0386475,-87.9090751
 Poissy,Isla de Francia,48.9274192,2.0426301
 Rybinsk,Yaroslavl,58.0489536,38.8558908
@@ -1404,11 +1350,10 @@ Tengzhou,Shandong,35.1139509,117.1600052
 Kramators'k,Donetsk,48.7389415,37.5843812
 Thika,Central,-1.0264716,37.0132772040334
 Widnes,Inglaterra,53.3646888,-2.7283328
-Berlín,Berlín,43.0943618,-7.3365884
+Berlín,Berlín,45.66671,-0.92036
 Leipzig,Sajonia,51.3406321,12.3747329
 Charlotte,Carolina del Norte,35.2272086,-80.8430827
 Estelí,Estelí,12.6495722,-87.12947224557712
-Francisco Beltrão,Paraná,-26.070904,-53.052875
 Lincoln Park,Michigan,42.2505943,-83.1785361
 Mixco,Guatemala,14.6307175,-90.6061595
 Columbus,Indiana,39.2014405,-85.9213796
@@ -1431,16 +1376,14 @@ Huaiyin,Jiangsu,33.6332471,119.0293293
 Curitiba,Paraná,-25.4295963,-49.2712724
 Flers,Normandía,50.32053,2.25255
 Parbhani,Maharashtra,19.262469,76.7718
-Lençóis Paulista,São Paulo,,
 Dar es Salaam,Dar es Salaam,-6.798067,39.266396
 Kindia,Kindia,10.0368,-12.8260215
-Port Harcourt,Ríos,4.8119283,7.046236270543215
+Port Harcourt,Ríos,4.761451,7.019004
 Timisoara,Timis,45.7538355,21.2257474
 Herford,Renania del Norte-Westfalia,52.1152245,8.6711118
 Lakewood,Nueva Jersey,40.0978929,-74.2176435
 Choloma,Cortés,15.6127426,-87.950694
 Salina Cruz,Oaxaca,16.1825,-95.195833
-São José dos Campos,São Paulo,,
 São Luís,Marañón,58.101864,23.986753
 Chongqing,Chongqing,29.5656729,106.5479189
 Le Blanc-Mesnil,Isla de Francia,48.9385489,2.4631476
@@ -1494,12 +1437,12 @@ Wattrelos,Norte-Paso de Calais-Picardía,50.7016015,3.2153907
 Hastings,Inglaterra,50.8553888,0.5824703
 Dordrecht,Holanda Meridional,51.814429,4.6692438
 Pessac,Aquitania-Lemosín-Poitou-Charentes,44.805615,-0.6308396
-São Leopoldo,Rio Grande do Sul,-29.653676,-53.379286
+São Leopoldo,Rio Grande do Sul,-32.145397,-52.143292
 Changzhi,Shanxi,36.1830167,113.0992929
 Yanbu al Bahr,Medina,24.089019,38.0687076
 Mopti,Mopti,14.4877275,-4.1892469
 Groningen,Groningen,53.2190652,6.5680077
-Barakaldo,País Vasco,43.3005291,-2.9846665
+Barakaldo,País Vasco,43.29639,-2.98813
 Aurangabad,Bihar,24.7536696,84.3746725
 Bondy,Isla de Francia,48.9031,2.48291
 Toulon,Provenza-Alpes-Costa Azul,43.1257311,5.9304919
@@ -1508,7 +1451,7 @@ Pindamonhangaba,São Paulo,-22.9364,-45.4622602
 Montauban,Languedoc-Rosellón-Mediodía-Pirineos,44.0175835,1.3549991
 Leominster,Massachusetts,42.5267443,-71.7614891
 Mackay,Queensland,-21.141956,149.1865149
-Bergamo,Lombardía,49.0003639,14.4475346
+Bergamo,Lombardía,45.69331,9.663539
 Al Hillah,Babilonia,32.482245,44.4328131
 Calamba,Calabarzón,8.558237,123.644047
 Mardin,Mardin,37.3132581,40.7354383
@@ -1519,8 +1462,8 @@ Como,Lombardía,36.5015414,-77.0094074
 Manila,Capital Nacional,14.593819,120.992302
 Nantong,Jiangsu,31.9827896,120.8904588
 Cognac,Aquitania-Lemosín-Poitou-Charentes,45.6931647,-0.3250175
-Valladolid,Castilla y León,10.461548,122.8234493
-Sandnes,Rogaland,58.983132049999995,6.394641047340787
+Valladolid,Castilla y León,41.6521807,-4.728605
+Sandnes,Rogaland,58.98313205,6.394641047340787
 Jieshou,Anhui,33.2619055,115.3540362
 Lower Hutt,Wellington,-41.2125751,174.9057626
 Huntsville,Texas,30.7235263,-95.5507771
@@ -1538,8 +1481,8 @@ Jammu,Jammu y Cachemira,32.7185614,74.8580917
 Rancagua,O'Higgins,-34.1702433,-70.740718
 Karlsruhe,Baden-Wurtemberg,49.0068705,8.4034195
 Vijayawada,Andhra Pradesh,16.5115306,80.6160469
-Rouen,Normandía,42.7988031,27.2836659
-Brescia,Lombardía,45.5323342,10.2128404
+Rouen,Normandía,49.4404591,1.0939658
+Brescia,Lombardía,45.544468,10.208239
 Oswego,Illinois,41.6834778,-88.3525714
 Asheville,Carolina del Norte,35.595363,-82.5508407
 Kumanovo,Kumanovo,42.135913,21.7185474
@@ -1562,8 +1505,8 @@ Changwon,Gyeongsangnam,35.227956,128.6818586
 Le Plessis-Robinson,Isla de Francia,48.7811049,2.2619632
 Costa Mesa,California,33.6633386,-117.903317
 Ostrava,Moravia-Silesia,49.8349139,18.2820084
-Boulogne-sur-Mer,Norte-Paso de Calais-Picardía,50.7259985,1.6118771
-Siauliai,iauliai,54.9575795,25.0698848
+Boulogne-sur-Mer,Norte-Paso de Calais-Picardía,-34.4990238,-58.5751106
+Siauliai,iauliai,55.9340823,23.3157775
 Bridgetown,San Miguel,-33.9580685,116.137245
 Maturín,Monagas,31.716344,-106.454083
 Castrop-Rauxel,Renania del Norte-Westfalia,51.5646195,7.3106175
@@ -1596,9 +1539,8 @@ Seremban,Negeri Sembilan,2.723099,101.9400601
 Watford,Inglaterra,51.6553875,-0.3957425
 Gilbert,Arizona,33.3527632,-111.789037
 Algiers,Alger,36.7729333,3.0588445
-Kahramanmara?,Kahramanmara?,,
 Lanzhou,Gansu,36.0615192,103.8318849
-Sassari,Cerdeña,40.7295113,8.5543991
+Sassari,Cerdeña,40.720686,8.556159
 Garden City,Kansas,37.9716898,-100.8726618
 Kenosha,Wisconsin,42.5846773,-87.8212263
 Bikaner,Rajastán,28.0159286,73.3171367
@@ -1620,7 +1562,7 @@ Nazilli,Aydin,37.9097512,28.3242062
 Bressuire,Aquitania-Lemosín-Poitou-Charentes,46.8425572,-0.4929017
 Sandy Springs,Georgia,33.9242688,-84.3785379
 Tasikmalaya,Java Occidental,-7.3262484,108.2201154
-Oslo,Oslo,59.97239745,10.775729194051895
+Oslo,Oslo,59.97239745,10.775729194051896
 Arequipa,Arequipa,-16.3988667,-71.5369607
 Swindon,Inglaterra,51.5615327,-1.7854322
 Carrefour,Ouest,18.5345373,-72.4092495
@@ -1628,13 +1570,11 @@ Zeist,Utrecht,52.0892832,5.2276307
 Broken Hill,Nueva Gales del Sur,-31.965,141.4511111
 Crawley,Inglaterra,51.8062564,-1.5066056
 Wausau,Wisconsin,44.9597858,-89.6272791
-Malambo,Atlántico,10.8653387,-74.7746194
 Olathe,Kansas,38.8838856,-94.81887
 Lancaster,Ohio,39.7136754,-82.5993294
 El Paso,Texas,31.7601164,-106.4870404
 Canberra,Territorio de la Capital Australiana,-35.2975906,149.1012676
 Langenhagen,Baja Sajonia,52.443118,9.738994
-Lázaro Cárdenas,Michoacán,,
 Vanves,Isla de Francia,48.8212037,2.289259
 Marignane,Provenza-Alpes-Costa Azul,43.4162729,5.2146275
 Rugby,Inglaterra,52.3726682,-1.2620038
@@ -1668,17 +1608,15 @@ Pau,Aquitania-Lemosín-Poitou-Charentes,43.2957547,-0.3685668
 Kashan,Isfahán,33.9876533,51.4428856
 Vernon,Normandía,49.0932008,1.4857205
 La Porte,Indiana,41.6105983,-86.7225227
-Holguín,Holguín,,
-Vassouras,Río de Janeiro,-22.4093928,-43.6609318
+Vassouras,Río de Janeiro,-2.6502749,-42.6889678
 Paris,Isla de Francia,48.8534951,2.3483915
 Palembang,Sumatra Meridional,-2.976938,104.734354
-Kota,Rajastán,25.1737019,75.8574194
+Kota,Rajastán,34.8709512,137.1608071
 Gera,Turingia,50.8765528,12.0832674
 Soissons,Norte-Paso de Calais-Picardía,49.3837621,3.327613
 Rach Gia,Kiên Giang,10.0107104,105.0832623
 Los Ángeles,Bío-Bío,-37.46612,-72.334203
 Paterson,Nueva Jersey,40.9167654,-74.171811
-Melchor Ocampo,México,19.7063556,-99.1431933
 Sydney,Nueva Gales del Sur,-33.8698439,151.2082848
 Vitoria,País Vasco,42.854747,-2.676179
 Jincheng,Shanxi,35.4913132,112.8454497
@@ -1687,14 +1625,12 @@ Uruguaiana,Rio Grande do Sul,-29.7560726,-57.0867546
 Gladstone,Queensland,-23.8431724,151.256132
 Anaheim,California,33.8347516,-117.911732
 Ibirité,Minas Gerais,-18.509838,-44.291828
-Santarém,Pará,,
 Boghni,Tizi Ouzou,36.5407471,3.9571285
 Port Macquarie,Nueva Gales del Sur,-31.4299499,152.9103525
 Marbella,Andalucía,36.508976,-4.88562
 Khulna,Khulna,22.8171664,89.563759
-Irun,País Vasco,43.3392054,-1.800575
+Irun,País Vasco,43.339081,-1.793698
 Rivera,Rivera,-30.900058,-55.5408151
-Potosí,Potosí,,
 Wenling,Zhejiang,28.3761941,121.3808408
 Siirt,Siirt,37.9273623,41.94218
 Cape Town,Cabo Occidental,-33.9288301,18.4172197
@@ -1702,21 +1638,19 @@ Capannori,Toscana,43.8420391,10.5735254
 Carlisle,Inglaterra,54.8948478,-2.9362311
 Le Pontet,Provenza-Alpes-Costa Azul,43.9621858,4.8602588
 Allentown,Pensilvania,40.6022059,-75.4712794
-Nancy,Alsacia-Champaña-Ardenas-Lorena,,
 Vespasiano,Minas Gerais,-19.6940958,-43.9186521
-Hidalgo,Michoacán,26.1019892,-98.2577597
-Huelva,Andalucía,37.2526187,-6.944851
+Hidalgo,Michoacán,15.1623807,-92.6295092
+Huelva,Andalucía,37.265491,-6.942441
 Sarkand,Almaty,45.4109229,79.9155159
 Colchester,Inglaterra,51.8896903,0.8994651
 Ankara,Ankara,39.9207759,32.8540497
 Amritsar,Punyab,31.6356659,74.8787496
-Salem,Oregón,11.6551982,78.1581771
+Salem,Oregón,44.9391565,-123.033121
 Santiago de Cuba,Santiago de Cuba,20.0214263,-75.8294928
 Savigny-le-Temple,Isla de Francia,48.5958681,2.5798953
 Halle,Renania del Norte-Westfalia,50.8936767,7.7507593
 Waterbury,Connecticut,41.5538091,-73.0438362
 Al Mubarraz,Ash Sharqiyah,25.4100012,49.580833
-Concepción del Uruguay,Entre Ríos,,
 Miami,Florida,25.7741566,-80.1935973
 Long Beach,Nueva York,40.5885508,-73.6582631
 Nicolás Romero,México,19.624161,-99.305091
@@ -1795,7 +1729,6 @@ Jackson,Misisipi,32.2998686,-90.1830408
 Ivano-Frankivs'k,Ivano-Frankivsk,48.9224763,24.710334
 Konya,Konya,37.872734,32.4924376
 Talcahuano,Bío-Bío,-36.732016,-73.118023
-Ibiúna,São Paulo,,
 Wasquehal,Norte-Paso de Calais-Picardía,50.6691577,3.1312447
 Chieti,Abruzos,42.3446529,14.1659738
 Montevideo,Montevideo,-34.9058916,-56.1913095
@@ -1807,7 +1740,7 @@ Taiyuan,Shanxi,37.870009,112.5452739
 Blackburn,Inglaterra,53.749326,-2.4840566
 Toowoomba,Queensland,-27.5610193,151.953351
 Hartlepool,Inglaterra,54.6857276,-1.2093696
-Chaguanas,Chaguanas,10.515910049999999,-61.4096020599373
+Chaguanas,Chaguanas,10.51591005,-61.4096020599373
 Hautmont,Norte-Paso de Calais-Picardía,50.2513704,3.9200611
 Luton,Inglaterra,51.8784385,-0.4152837
 Patna,Bihar,25.6093239,85.1235252
@@ -1819,7 +1752,7 @@ La Plata,Buenos Aires (provincia),-34.9206797,-57.9537638
 Balikesir,Balikesir,39.6473917,27.8879787
 Oshawa,Ontario,43.8975558,-78.8635324
 Accra,Gran Accra,5.5571096,-0.2012376
-Bayeux,Normandía,49.2764624,-0.7024738
+Bayeux,Normandía,-7.1301631,-34.936532
 San Francisco del Rincón,Guanajuato,20.980539,-101.841827
 Metepec,México,19.2522748,-99.6054837
 Mombasa,Costa,-4.05052,39.667169
@@ -1833,7 +1766,7 @@ Nova Serrana,Minas Gerais,-19.875834,-44.984166
 Riverside,California,33.9824949,-117.374238
 Bonn,Renania del Norte-Westfalia,50.7352621,7.1024635
 Santa Barbara,California,34.4221319,-119.702667
-Lille,Norte-Paso de Calais-Picardía,51.238218,4.8242404
+Lille,Norte-Paso de Calais-Picardía,50.6365654,3.0635282
 Morgan Hill,California,37.130408,-121.6544974
 Soledad Díez Gutiérrez,San Luis Potosí,22.18778,-100.94192
 Santa Marta,Magdalena,11.2320944,-74.1950916
@@ -1845,7 +1778,6 @@ Overland Park,Kansas,38.9742502,-94.6851702
 Manukau City,Auckland,-36.991284750000005,174.88101271299126
 La Seyne-sur-Mer,Provenza-Alpes-Costa Azul,43.1007714,5.8788948
 Huadian,Jilin,42.9715617,126.74443
-San Martín,Cuscatlán,,
 Calais,Norte-Paso de Calais-Picardía,50.9524769,1.8538446
 Kuantan,Pahang,3.7985637,103.32199
 Coyoacán,Distrito Federal,-34.678082,-58.462188
@@ -1873,11 +1805,10 @@ Khorramabad,Lorestan,33.4842109,48.3538276
 Kent,Ohio,41.1513108,-81.3578047
 Middletown,Connecticut,41.5623178,-72.6509061
 Mejicanos,San Salvador,13.722484,-89.1869905
-Mulhouse,Alsacia-Champaña-Ardenas-Lorena,47.750509050000005,7.335975378368131
+Mulhouse,Alsacia-Champaña-Ardenas-Lorena,47.750059,7.330118
 Angarsk,Irkutsk,52.5443167,103.8882138
 Almelo,Overijssel,52.3563585,6.6636219
 Sanliurfa,Sanliurfa,37.1596239,38.791929
-San Francisco de Macorís,Duarte,,
 Aachen,Renania del Norte-Westfalia,50.776351,6.083862
 Mecca,Meca,6.788469,-10.621709
 Soacha,Cundinamarca,4.5826886,-74.2117781
@@ -1910,11 +1841,9 @@ Lewiston,Maine,44.0990717,-70.2177099
 Marina di Carrara,Toscana,44.0376696,10.0455044
 Veracruz,Veracruz,19.2003429,-96.1383572
 Puente Alto,Santiago de Chile,-35.7956167,-71.5865307
-Jacareí,São Paulo,,
 Maracay,Aragua,10.2375144,-67.5890216
 Tokio,Tokio,35.695126,139.75391
 Monterrey,Nuevo León,25.6802019,-100.315258
-Balneário Camboriú,Santa Catarina,,
 Colombo,Paraná,-25.2925439,-49.2243472
 Franconville,Isla de Francia,48.986025,2.2303498
 Dabrowa Gornicza,Silesia,50.3308692,19.2078918
@@ -1937,7 +1866,7 @@ Penedo,Alagoas,-10.2872341,-36.5819262
 Cruz das Almas,Bahía,-12.6722649,-39.1053665
 Decatur,Alabama,34.6060203,-86.9838165
 Wallasey,Inglaterra,53.4241208,-3.0394101
-Belfort,Borgoña-Franco Condado,47.6379599,6.8628942
+Belfort,Borgoña-Franco Condado,38.4163753,-119.2669198
 Tegucigalpa,Francisco Morazán,14.1057433,-87.2040052
 London,Inglaterra,51.5074456,-0.1277653
 Santiago de los Caballeros,Santiago de Chile,19.4503932,-70.6909047
@@ -1953,7 +1882,7 @@ Bruselas,Bruselas,50.8465573,4.351697
 Mogi das Cruzes,São Paulo,-23.5234284,-46.1926671
 Al Manaqil,Gezira,14.2467437,32.9858537
 Faches-Thumesnil,Norte-Paso de Calais-Picardía,50.6026031,3.0697877
-Kafr ad Dawwar,Al Buhayrah,,
+Kafr ad Dawwar,Al Buhayrah,32.05159,35.7287
 Saint-Herblain,Países del Loira,47.2233007,-1.6346964
 Jos,Plateau,9.9175125,8.8979401
 Lorena,São Paulo,-22.7367652,-45.1070876
@@ -2020,7 +1949,7 @@ Weston-super-Mare,Inglaterra,51.3471927,-2.9778916
 Dover,Delaware,39.158168,-75.5243682
 Sunnyvale,California,37.3688301,-122.036349
 Chetumal,Quintana Roo,18.5081738,-88.297144
-Larache,Tánger-Tetuán,42.3345435,-8.6439948
+Larache,Tánger-Tetuán,35.1952327,-6.152913
 Indore,Madhya Pradesh,22.7203616,75.8681996
 Vlaardingen,Holanda Meridional,51.9097536,4.3402639
 Carlsbad,Nuevo México,32.4257456,-104.237612
@@ -2032,14 +1961,12 @@ Cherkasy,Cherkasy,49.4447056,32.0588085
 Florence,Carolina del Sur,34.1984435,-79.7671658
 Athens,Georgia,33.9597677,-83.376398
 Pierrefitte-sur-Seine,Isla de Francia,48.96041645,2.363060851152281
-Bolívar,Bolívar,,
 San Bernardo,Santiago de Chile,46.3473181,9.3554363
 Evreux,Normandía,49.0268903,1.1510164
 Limay,Isla de Francia,48.9921015,1.7353686
 Worcester,Inglaterra,52.1911849,-2.2206585
 Eragny,Isla de Francia,49.0192178,2.0910817
-Velsen,Holanda Septentrional,52.451910299999994,4.603891145874141
-Araucária,Paraná,,
+Velsen,Holanda Septentrional,52.4519103,4.603891145874141
 Yaritagua,Yaracuy,10.0805848,-69.1211307
 Bujumbura,Buyumbura Mairie,-3.3638125,29.3675028
 Middlesbrough,Inglaterra,54.5760419,-1.2344047
@@ -2053,21 +1980,19 @@ Gaithersburg,Maryland,39.1399187,-77.1929215
 Kandi,Alibori,11.1311029,2.9322321
 Gawler,Australia del Sur,-34.5973311,138.7448933
 Roubaix,Norte-Paso de Calais-Picardía,50.6915893,3.1741734
-Jundiaí,São Paulo,,
 Ituiutaba,Minas Gerais,-18.9691887,-49.4639335
 Arica,Arica y Parinacota,-18.4785288,-70.3211394
 Bhopal,Madhya Pradesh,23.2584857,77.401989
 Saint-Laurent,Quebec,45.5088774,-73.6875187
-Busto Arsizio,Lombardía,45.6160727,8.8647299
+Busto Arsizio,Lombardía,45.612575,8.844692
 Pine Bluff,Arkansas,34.2228884,-92.004334
 Carora,Lara,10.169534,-70.0728483
 Bedford,Texas,32.844017,-97.1430671
 Gardanne,Provenza-Alpes-Costa Azul,43.455613,5.4710661
 Esenyurt,Estambul,41.0342862,28.6801113
 Regensburg,Bavaria,49.0195333,12.0974869
-Ibagué,Tolima,,
 Aba,Abia,5.1128008,7.3651376
-Tuzla,Federación de Bosnia y Herzegovina,44.5391105,18.675193
+Tuzla,Federación de Bosnia y Herzegovina,40.8161732,29.3034194
 Norwich,Inglaterra,52.6285576,1.2923954
 San Lorenzo,Central,-25.3425224,-57.509397
 Ocaña,Norte de Santander,8.188397,-72.868532
@@ -2118,8 +2043,6 @@ Tigard,Oregón,45.4307473,-122.771933
 Saginaw,Michigan,43.4200387,-83.9490365
 Landerneau,Bretaña,48.4514803,-4.2557901
 Aracati,Ceará,-4.558259,-37.767894
-Tetouan,Tánger-Tetuán,35.570175,-5.3742776
-Sant Boi de Llobregat,Cataluña,41.3459033,2.0413673
 Kigali,Kigali,-1.950851,30.061507
 Bar-le-Duc,Alsacia-Champaña-Ardenas-Lorena,48.7712673,5.1623805
 Yueyang,Hunan,29.3594838,113.1229551
@@ -2132,7 +2055,7 @@ Salamanca,Castilla y León,42.1579214,-78.7151629
 Chelmsford,Inglaterra,51.7345329,0.4730532
 Itapetininga,São Paulo,-23.588607,-48.048326
 Ardebil,Ardebil,38.2515581,48.2972269
-Linares,Nuevo León,38.0931247,-3.6357207
+Linares,Nuevo León,-35.8452905,-71.5977173
 Pomezia,Lacio,41.667529,12.5047863
 Villefontaine,Auvernia-Ródano-Alpes,45.614003,5.1580574
 Bandirma,Balikesir,40.3554705,27.9697603
@@ -2145,7 +2068,6 @@ Falconara Marittima,Marche,43.6293969,13.3966763
 Sierra Vista,Arizona,31.5545973,-110.2997756
 Waterloo,Ontario,43.4652699,-80.5222961
 Hialeah,Florida,25.8575963,-80.2781057
-Chillán,Bío-Bío,,
 Grasse,Provenza-Alpes-Costa Azul,43.6589011,6.9239103
 Kettering,Inglaterra,52.3994233,-0.728004
 Latina,Lacio,41.467299,12.9037518
@@ -2154,7 +2076,6 @@ Montigny-le-Bretonneux,Isla de Francia,48.7698937,2.0381228
 Severodvinsk,Arjánguelsk,64.563385,39.823769
 Newcastle upon Tyne,Inglaterra,54.9738474,-1.6131572
 Pinheiro,Marañón,-2.5270459,-45.0866463
-Ternópil,Ternópil,,
 Marsala,Sicilia,37.7979221,12.4342091
 Conselheiro Lafaiete,Minas Gerais,-20.6596107,-43.785743
 Mubi,Adamawa,10.267607,13.264359
@@ -2180,7 +2101,7 @@ Lattes,Languedoc-Rosellón-Mediodía-Pirineos,43.5653993,3.9017114
 Meaux,Isla de Francia,48.9582708,2.8773541
 Scottsdale,Arizona,33.4942189,-111.926018
 Mission Viejo,California,33.5965685,-117.659405
-Ulsan,Ulsan,35.579077999999996,129.35814896846927
+Ulsan,Ulsan,35.579078,129.3581489684693
 Narbonne,Languedoc-Rosellón-Mediodía-Pirineos,43.1837757,3.0041906
 Santander,Cantabria,43.4618932,-3.8100255
 Wuchang,Heilongjiang,44.9299296,127.160945
@@ -2223,7 +2144,6 @@ Uman,Cherkasy,48.7497621,30.2203052
 Burgas,Burgas,42.4936616,27.4721276
 Shah Alam,Selangor,3.0739429,101.5185278
 Agadir,Sus-Masa-Draa,30.4205162,-9.5838532
-Valparaíso de Goiás,Goiás,,
 Santiago de Compostela,Galicia,42.8804219,-8.5458608
 Cuttack,Odisha,20.4686,85.8792
 Harrogate,Inglaterra,53.9921491,-1.5391039
@@ -2255,12 +2175,12 @@ Les Mureaux,Isla de Francia,48.9931578,1.909928
 Worthing,Inglaterra,52.7392114,0.9600121
 Olympia,Washington,47.0451022,-122.8950075
 Skikda,Skikda,36.8801317,6.9077363
-El Ejido,Andalucía,7.9185744,-80.385477
+El Ejido,Andalucía,1.7167111,-77.5118575
 Kikwit,Bandundu,-3.315252033763728,17.377087836932134
 Roseville,Minnesota,45.0060767,-93.1566107
 Castellammare di Stabia,Campania,40.6943046,14.4804813
 Colomiers,Languedoc-Rosellón-Mediodía-Pirineos,43.6112476,1.3367443
-Legnano,Lombardía,45.5936932,8.9108573
+Legnano,Lombardía,45.596345,8.916808
 Saint-Laurent-du-Var,Provenza-Alpes-Costa Azul,43.6690101,7.1906969
 Franklin,Massachusetts,42.0825801,-71.3971167
 Beauvais,Norte-Paso de Calais-Picardía,49.4300997,2.0823355
@@ -2329,20 +2249,19 @@ Mpumalanga,KwaZulu-Natal,-29.813333,30.630278
 Mostaganem,Mostaganem,35.928808,0.089978
 Lansing,Michigan,42.7338254,-84.5546295
 Kozan,Adana,37.4477857,35.8166308
-Alkmaar,Holanda Septentrional,52.600853799999996,4.817099446443963
+Alkmaar,Holanda Septentrional,52.6008538,4.817099446443963
 Hemel Hempstead,Inglaterra,51.7511784,-0.472528
 Tirunelveli,Tamil Nadu,8.7284271,77.7112925
 Varamin,Teherán,35.3242,51.6457
 East London,Cabo Oriental,-33.0191604,27.8998573
 Hickory,Carolina del Norte,35.7333312,-81.3442915
-Andijon,Andiján,40.7727796,72.34196601186889
+Andijon,Andiján,40.7833471,72.3506746
 Beni Suef,Bani Suwayf,29.0729812,31.0982562
 Salem,Tamil Nadu,11.6551982,78.1581771
 Liverpool,Inglaterra,53.4071991,-2.99168
 Grevenbroich,Renania del Norte-Westfalia,51.0905783,6.5835365
 Sanandaj,Kurdistán,35.3126047,46.9978639
 Montgeron,Isla de Francia,48.7038873,2.4605107
-Túnez,Túnez,,
 Broomfield,Colorado,39.9403995,-105.05208
 Douai,Norte-Paso de Calais-Picardía,50.3675677,3.0804641
 Yangquan,Shanxi,37.8568575,113.5739616
@@ -2364,10 +2283,10 @@ Fasa,Fars,28.9366395,53.6510677
 Schiltigheim,Alsacia-Champaña-Ardenas-Lorena,48.6047148,7.7484488
 Mary,Mary,37.5940358,61.8397935
 Peshawar,Jaiber Pajtunjuá,34.0123846,71.5787458
-Toul,Alsacia-Champaña-Ardenas-Lorena,48.6762624,5.8941759
+Toul,Alsacia-Champaña-Ardenas-Lorena,33.390511000000004,35.44879845023473
 Krasnyy Luch,Lugansk,48.1351471,38.9198948
-Hove,Inglaterra,50.8453169,-0.14974689789029522
-Manresa,Cataluña,41.7202649,1.8266326
+Hove,Inglaterra,50.8453169,-0.1497468978902952
+Manresa,Cataluña,41.730648,1.831997
 Beverly,Massachusetts,42.5489744,-70.8781883
 Craiova,Dolj,44.3190159,23.7965614
 Fairfield,Ohio,39.3458953,-84.5605031
@@ -2382,7 +2301,6 @@ Nogent-sur-Oise,Norte-Paso de Calais-Picardía,49.2720766,2.469591
 Forbach,Alsacia-Champaña-Ardenas-Lorena,49.1862822,6.8958562
 Atakpame,Plateaux,7.5320603,1.1219479
 Rochester,Nueva York,43.157285,-77.615214
-Chisináu,Chisináu,,
 Manzanillo,Colima,19.0506256,-104.3159957
 Randers,Jutlandia Central,56.4617545,10.0371476
 Ningbo,Zhejiang,29.8622194,121.6203873
@@ -2393,7 +2311,7 @@ Washington,Distrito de Columbia,38.8950368,-77.0365427
 Menia,Menia,28.0893325,30.7570623
 Hilversum,Holanda Septentrional,52.2241375,5.1719396
 Ipiales,Nariño,0.8236934,-77.6349296
-Béchar,Béchar,36.77013950738026,66.69757950661185
+Béchar,Béchar,36.7558933,66.7208878
 An Nasiriyah,Di Car,31.0439957,46.2399386
 Menemen,Izmir,38.6077359,27.0732772
 Beaune,Borgoña-Franco Condado,47.0239064,4.8380426
@@ -2427,7 +2345,7 @@ Asansol,Bengala Occidental,23.687789,86.965797
 Baia Mare,Maramures,47.6565584,23.5719843
 Hastings,Hawke's Bay,-39.6417678,176.8430781
 Vryburg,Noroeste,-26.955347,24.7300938
-Ijuí,Rio Grande do Sul,-29.653676,-53.379286
+Ijuí,Rio Grande do Sul,-32.145397,-52.143292
 Rockford,Illinois,42.2713945,-89.093966
 Cremona,Lombardía,51.5446018,-114.4930074
 Guanambi,Bahía,-14.218258,-42.777821
@@ -2458,7 +2376,7 @@ Mcallen,Texas,26.204114,-98.2300605
 Abreu e Lima,Pernambuco,-7.900719,-34.898389
 Limoges,Aquitania-Lemosín-Poitou-Charentes,45.8354243,1.2644847
 Barbacena,Minas Gerais,-21.2254524,-43.7735087
-Guayana,Bolívar,8.3223763,-62.6896622
+Guayana,Bolívar,10.5890398,-62.9440534
 Lake Charles,Luisiana,30.2305095,-93.2169807
 Paracatu,Minas Gerais,-17.2174056,-46.8707514
 Kankan,Kankan,10.3835169,-9.3069354
@@ -2486,7 +2404,6 @@ Hagen,Renania del Norte-Westfalia,51.3582945,7.473296
 Kopeysk,Cheliábinsk,55.1131951,61.6216332
 West Jordan,Utah,40.6061337,-111.9395211
 Safi,Dukala-Abda,32.29939,-9.23718
-Cuautitlán,México,,
 Ueda,Nagano,36.4021192,138.2490506
 Parla,Madrid,40.2373952,-3.7718902
 Ilorin,Kwara,8.4963657,4.5480484
@@ -2506,7 +2423,6 @@ Chalinze,Pwani,-6.6382192,38.3524926
 Florencia,Caquetá,1.6158666,-75.6143045
 Hazebrouck,Norte-Paso de Calais-Picardía,50.7226113,2.5360331
 Maradi,Maradi,13.501206,7.102534
-Garza García,Nuevo León,25.65716,-100.40268
 Pemba,Cabo Delgado,-12.9735551,40.5215098
 Bamberg,Bavaria,49.8916044,10.8868478
 New Rochelle,Nueva York,40.9115386,-73.7826363
@@ -2542,7 +2458,6 @@ Licheng,Guangdong,23.2971682,113.8185961
 Yanji,Jilin,42.9047375,129.5043827
 Kalisz,Gran Polonia,51.7624752,18.0895358
 Lippstadt,Renania del Norte-Westfalia,51.6747074,8.347194
-Goiânia,Goiás,,
 Fiumicino,Lacio,41.7712145,12.2278855
 Giyani,Limpopo,-23.315278,30.725556
 Evry,Isla de Francia,48.6241665,2.4289667
@@ -2563,7 +2478,6 @@ Marsa Matruh,Matruh,31.3528567,27.2395262
 Illkirch-Graffenstaden,Alsacia-Champaña-Ardenas-Lorena,48.5298611,7.7116218
 Murray,Utah,40.6667841,-111.888417
 Colorado Springs,Colorado,38.8339578,-104.825348
-José Bonifácio,São Paulo,,
 Manzini,Manzini,-26.4976444,31.3750815
 Bene Beraq,Tel Aviv,32.089868,34.83468
 Batman,Batman,37.8835738,41.1277565
@@ -2582,14 +2496,13 @@ Tournefeuille,Languedoc-Rosellón-Mediodía-Pirineos,43.5832062,1.3460025
 Echuca,Victoria,-36.1281405,144.7516955
 Bonneuil-sur-Marne,Isla de Francia,48.7737116,2.4869009
 Birjand,Jorasán del Sur,32.86628,59.22114
-Neuquén,Neuquén,,
 Pontevedra,Galicia,42.4318876,-8.6431592
 Kota,Chhattisgarh,22.2959163,82.0239472
 Mohammedia,Gran Casablanca,33.53333,-7.58333
 Esquina,Corrientes,-30.0170807,-59.5340904
 Brentwood,California,37.9317766,-121.696026
 Allen,Texas,33.1031744,-96.6705503
-Dieppe,Normandía,49.9246182,1.0791444
+Dieppe,Normandía,46.0966797,-64.7357347
 Yuanjiang,Hunan,28.8479285,112.3487701
 Auburn,Alabama,32.6098566,-85.4807825
 Datong,Anhui,30.8157397,117.7517513
@@ -2597,7 +2510,7 @@ Catia La Mar,Vargas,10.5992669,-67.0145106
 Avion,Norte-Paso de Calais-Picardía,50.4126128,2.8343891
 Muzaffarpur,Bihar,26.1182898,85.3857888
 Haninge,Estocolmo,59.049722,18.266667
-Gravataí,Rio Grande do Sul,-29.653676,-53.379286
+Gravataí,Rio Grande do Sul,-32.145397,-52.143292
 Arzgir,Stávropol,45.369194,44.212685
 Rivne,Rivne,50.6196175,26.2513165
 Hoover,Alabama,33.35029299999999,-86.85112299766301
@@ -2634,7 +2547,6 @@ Durban,KwaZulu-Natal,-29.861825,31.009909
 Chaoyang,Jilin,43.8477471,125.2705444
 Shkoder,Shkodër,42.0681371,19.5121437
 Calama,Antofagasta,-22.4623917,-68.9272181
-Qazvín,Qazvín,,
 São Pedro da Aldeia,Río de Janeiro,-13.0184098,40.5296588
 Copiapó,Atacama,-27.08333,-69.93333
 Saint Cloud,Minnesota,45.5616075,-94.1642004
@@ -2643,8 +2555,7 @@ Cabo de Santo Agostinho,Pernambuco,-8.2838945,-35.0320984
 Chaville,Isla de Francia,48.8086297,2.1882897
 Liaoyang,Liaoning,41.2055415,123.0889656
 Suwon,Gyeonggi,37.2633325,127.0287472
-Rolândia,Paraná,,
-Richmond,Columbia británica,39.8286897,-84.8898521
+Richmond,Columbia británica,37.5385087,-77.43428
 Artemisa,Artemisa,22.8127715,-82.7630555
 Presidente Prudente,São Paulo,-22.1225167,-51.3882528
 Viterbo,Lacio,42.4168441,12.1051148
@@ -2655,7 +2566,6 @@ Vaughan,Ontario,43.7941544,-79.5268023
 Gaya,Bihar,24.7964355,85.0079563
 Eagan,Minnesota,44.818173,-93.1659179
 Grove City,Ohio,39.8814519,-83.0929645
-Vitória de Santo Antão,Pernambuco,,
 Neunkirchen,Sarre,49.5490522,7.0595539
 Zabrze,Silesia,50.3086154,18.7863749
 Itapecerica da Serra,São Paulo,-23.7176303,-46.8492435
@@ -2673,7 +2583,6 @@ Brahmapur,Odisha,19.3098134,84.7971562
 Nicosia,Nicosia,35.1746503,33.3638783
 Cholula,Puebla,19.0519385,-98.2976151
 Champaign,Illinois,40.1164841,-88.2430932
-Cubatão,São Paulo,,
 Gebze,Kocaeli,40.8006696,29.431767
 Laguna Niguel,California,33.5225261,-117.7075526
 Harlingen,Texas,26.1907543,-97.6960599
@@ -2708,7 +2617,6 @@ Amasya,Amasya,40.6503248,35.8329148
 Jember,Java Oriental,-8.195177,113.680859
 Da Nang,Dà Nang,16.0867297,108.07342567236398
 Tinaquillo,Cojedes,9.9177602,-68.3075027
-Bragança Paulista,São Paulo,,
 Francisco Morato,São Paulo,-23.2817308,-46.7448996
 Aswan,Aswan,24.091071,32.897306
 Takamatsu,Ishikawa,36.7696432,136.7230657
@@ -2727,10 +2635,9 @@ Edmonton,Alberta,53.5462055,-113.491241
 Vereeniging,Gauteng,-26.6747222,27.9261111
 Talence,Aquitania-Lemosín-Poitou-Charentes,44.8088438,-0.5879629
 Tallinn,Harjumaa,59.4372155,24.7453688
-Calabozo,Guárico,8.9179829,-67.4173328
+Calabozo,Guárico,-36.6157774,-71.7379868
 Iranshahr,Sistán y Baluchistán,27.20245,60.68476
 Mijas,Andalucía,36.5957471,-4.6375188
-Teziutlán,Puebla,,
 Frontera,Tabasco,18.5321825,-92.6461428
 Dearborn Heights,Michigan,42.3369816,-83.2732627
 Whitby,Ontario,43.87982,-78.9421751
@@ -2746,12 +2653,9 @@ Clichy,Isla de Francia,48.9026,2.30551
 Saida,Saida,34.8302067,0.1502692
 Yalova,Yalova,40.6582529,29.2699916
 Outreau,Norte-Paso de Calais-Picardía,50.7036916,1.5845684
-Taubaté,São Paulo,,
-Sumaré,São Paulo,,
 Bangui,Bangui,4.3635118,18.5835913
 São Vicente,São Paulo,-23.957678,-46.428069
 Oriximiná,Pará,-1.7669992,-55.868285
-Vorónezh,Vorónezh,,
 League City,Texas,29.5074538,-95.0949303
 Jiangdu,Jiangsu,32.4374578,119.5647288
 Saint-Brieuc,Bretaña,48.5141134,-2.7603283
@@ -2759,7 +2663,6 @@ Sparks,Nevada,39.5404679,-119.7487235
 Breda,Brabante Septentrional,51.5887845,4.7760237
 Rajshahi,Rajshahi,24.3715513,88.5921038
 Takamatsu,Kagawa,34.3425592,134.0465338
-Bra?ov,Bra?ov,,
 Hengyang,Hunan,26.8971308,112.5666191
 Guelph,Ontario,43.5460516,-80.2493276
 Gummersbach,Renania del Norte-Westfalia,51.0277658,7.5630545
@@ -2778,7 +2681,6 @@ Neubrandenburg,Mecklemburgo-Pomerania Occidental,53.5574458,13.2602781
 Rockville,Maryland,39.0817985,-77.1516844
 Cuyahoga Falls,Ohio,41.1362729,-81.4828123
 Lawrence,Indiana,39.8386516,-86.0252612
-Jersón,Jersón,,
 Bagé,Rio Grande do Sul,42.2527659,1.8625903
 Jhansi,Uttar Pradesh,25.4502464,78.5800085
 The Colony,Texas,33.0890094,-96.8863922
@@ -2794,7 +2696,7 @@ Salta,Salta,-24.7892946,-65.4103194
 Huntington Beach,California,33.6783336,-118.000016
 Escondido,California,33.1216751,-117.0814849
 Paisley,Escocia,55.8455828,-4.4239646
-Cinisello Balsamo,Lombardía,45.544762,9.224003
+Cinisello Balsamo,Lombardía,45.559209,9.218247
 Udaipur,Tripura,23.5416162,91.4917593
 Lehi,Utah,40.3881114,-111.8486019
 Sapucaia do Sul,Rio Grande do Sul,-29.8197019,-51.1608722
@@ -2805,7 +2707,7 @@ Dewsbury,Inglaterra,53.6909103,-1.6302142
 Sinop,Mato Grosso,-11.857701,-55.4967824
 Rustenburg,Noroeste,-25.665655,27.241448
 Thanjavur,Tamil Nadu,10.7860267,79.1381497
-Quetta,Baluchistán,46.2599818,11.048611
+Quetta,Baluchistán,30.1957677,67.0172447
 Ústí nad Labem,Ústí nad Labem,50.424485,14.254064
 Richmond Hill,Ontario,43.8801166,-79.4392925
 Koshigaya,Saitama,35.8903993,139.7908633
@@ -2823,7 +2725,6 @@ Panipat,Haryana,29.3912753,76.9771675
 Les Lilas,Isla de Francia,48.8795658,2.415796
 Sagamihara,Kanagawa,35.5714621,139.3731052
 Sakai,Osaka,34.5737364,135.4828866
-San Juan del Río,Querétaro,,
 Rueil-Malmaison,Isla de Francia,48.87778,2.1802832
 Laval,Quebec,45.5571125,-73.7211779
 Valence,Auvernia-Ródano-Alpes,44.9332277,4.8920811
@@ -2842,7 +2743,6 @@ Westminster,California,33.7578725,-117.9859054
 Envigado,Antioquía,6.1701348,-75.587415
 Shrewsbury,Inglaterra,52.707755,-2.7540658
 Mococa,São Paulo,-21.464731,-47.002405
-Kostanái,Kostanái,,
 Skokie,Illinois,42.0262972,-87.7521069
 Willich,Renania del Norte-Westfalia,51.2641433,6.5446958
 Coatzacoalcos,Veracruz,18.1405019,-94.4344003
@@ -2866,7 +2766,7 @@ Londrina,Paraná,-23.3112878,-51.1595023
 Berck,Norte-Paso de Calais-Picardía,50.4052576,1.5711617
 Chorzow,Silesia,50.2978791,18.9544466
 Punta Arenas,Magallanes y Antártica Chilena,-53.1625688,-70.907822
-Blagoveshchensk,Bashkortostán,55.031143,55.981876
+Blagoveshchensk,Bashkortostán,50.2600417,127.5337378
 Richardson,Texas,32.9481789,-96.7297206
 Oakville,Ontario,43.447436,-79.666672
 Luohe,Henan,33.571189,114.0289356
@@ -2878,14 +2778,12 @@ Plaisir,Isla de Francia,48.817399,1.9476363
 Patrocínio,Minas Gerais,-18.509838,-44.291828
 Noda,Chiba,35.9549076,139.8748667
 Wafangdian,Liaoning,39.6236752,122.005039
-Cártama,Andalucía,,
 Zhoukou,Henan,33.6306299,114.6423617
 Sargodha,Punyab,32.0889657,72.6776943
 Deyang,Sichuan,31.1244028,104.39013
 Hailin,Heilongjiang,44.5733458,129.3815749
 Tembisa,Gauteng,-26.0097146,28.2314606
 Olomouc,Olomouc,49.5940567,17.251143
-Bisáu,Bisáu,,
 Bayonne,Nueva Jersey,40.6687141,-74.1143091
 Kocaeli,Kocaeli,40.7653892,29.9407361
 Mallawi,Menia,27.731944,30.8411109
@@ -2909,13 +2807,11 @@ Pueblo,Colorado,38.263995,-104.6141867
 Floridablanca,Santander,7.0625677,-73.0859086
 Ratlam,Madhya Pradesh,23.3311044,75.0360846
 Matadi,Bajo Congo,50.8659184,4.7064611
-Montbrison,Auvernia-Ródano-Alpes,45.6072875,4.0627318
 Cranston,Rhode Island,41.779588,-71.4366813
 Manisa,Manisa,38.6125793,27.4333969
 Reno,Nevada,39.5261206,-119.8126581
 Hillsboro,Oregón,45.5228939,-122.989827
 La Chorrera,Panamá,8.883567,-79.7799498
-Vesoul,Borgoña-Franco Condado,47.6197395,6.1544694
 Medford,Oregón,42.3264181,-122.8718605
 Hamme,Flanders Oriental,51.0977642,4.1377229
 Highland Park,Illinois,42.1836719,-87.7993245
@@ -2950,7 +2846,7 @@ Pompano Beach,Florida,26.2378597,-80.1247667
 Linyi,Shandong,35.1032403,118.3506988
 Passos,Minas Gerais,-20.7167803,-46.6156864
 Southampton,Inglaterra,50.9025349,-1.404189
-Najafabad,Isfahán,32.6350743,51.3636804
+Najafabad,Isfahán,33.4635432,52.5848861
 Thionville,Alsacia-Champaña-Ardenas-Lorena,49.3579272,6.1675872
 Nagaoka,Shizuoka,35.0399265,138.9476041
 Livingston,Escocia,55.8829582,-3.5175773
@@ -2979,12 +2875,11 @@ Matsumoto,Nagano,36.2382047,137.9687141
 Jiamusi,Heilongjiang,46.8037423,130.3747185
 Anyang,Gyeonggi,37.3938528,126.9570605
 Aksaray,Aksaray,38.3705416,34.026907
-Vitória da Conquista,Bahía,,
-Camocim,Ceará,-2.9009918,-40.8427389
+Camocim,Ceará,-4.1311183,-40.8749258
 Makurdi,Benue,7.7312634,8.538425
 Thiais,Isla de Francia,48.7643664,2.391024
 Ancona,Marche,43.6170137,13.5170982
-Gresham,Oregón,52.9002993,1.2209559
+Gresham,Oregón,45.4978623,-122.4329883
 Al Mahallah al Kubra,Gharbia,30.9723517,31.1683002
 Samsun,Samsun,41.2946149,36.3320596
 Cavaillon,Provenza-Alpes-Costa Azul,43.8356808,5.0383522
@@ -2997,7 +2892,6 @@ Saint-Avold,Alsacia-Champaña-Ardenas-Lorena,49.1043397,6.7071754
 Heze,Shandong,35.2477266,115.4464761
 Wuhai,Mongolia Interior,41.7587484,113.2657066
 Villeparisis,Isla de Francia,48.939344,2.6176193
-Günzburg,Bavaria,,
 Orsay,Isla de Francia,48.699184,2.187457
 San Luis Obispo,California,35.2827525,-120.659615
 Disuq,Kafr el Sheij,31.128233,30.646198
@@ -3013,8 +2907,6 @@ Linhai,Zhejiang,28.8616886,121.1402223
 Hamamatsu,Shizuoka,34.7109786,137.7259431
 Catanduva,São Paulo,-21.1331035,-48.9712817
 Orsha,Vitsyebsk,54.5107734,30.42944
-Quibdó,Chocó,,
-Zhytómyr,Zhytómyr,,
 Bisceglie,Apulia,41.2407788,16.5019124
 Ras al Khaymah,Ras al-Jaima,25.7737705,55.938232
 Huambo,Huambo,-12.7772455,15.7346713
@@ -3030,7 +2922,7 @@ Hiratsuka,Kanagawa,35.3350609,139.3494345
 Split,Split-Dalmacia,43.5116383,16.4399659
 Karimnagar,Telangana,18.4348122,79.1328042
 Castelnau-le-Lez,Languedoc-Rosellón-Mediodía-Pirineos,43.6393171,3.9133311
-Río Bravo,Tamaulipas,24.127808,-98.618727
+Río Bravo,Tamaulipas,22.74032,-82.44991
 Manteca,California,37.7986184,-121.2117148
 Pocatello,Idaho,42.8620287,-112.450627
 San Luis,San Luis,-33.3020736,-66.3369577
@@ -3041,7 +2933,7 @@ Stolberg,Renania del Norte-Westfalia,50.7702908,6.2295504
 Vallauris,Provenza-Alpes-Costa Azul,43.5761001,7.05859
 Burlington,Iowa,40.8126922,-91.1020205
 Hod HaSharon,Central,32.1561974,34.8930354
-Modena,Emilia-Romaña,44.1032377,5.1241572
+Modena,Emilia-Romaña,44.6458885,10.9255707
 Guarujá,São Paulo,-23.9927768,-46.2558332
 Sanford,Florida,28.8117345,-81.2680223
 Oyama,Tochigi,36.315537,139.8006952
@@ -3084,7 +2976,7 @@ Chengjiang,Jiangsu,24.6746076,102.914471
 San Angelo,Texas,31.4649685,-100.4405094
 Xiangfan,Hubei,32.010998,112.1163785
 Rheine,Renania del Norte-Westfalia,52.2797707,7.4373615
-Rochefort,Aquitania-Lemosín-Poitou-Charentes,45.9366592,-0.9616399
+Rochefort,Aquitania-Lemosín-Poitou-Charentes,46.9778631,6.8084757
 Maastricht,Limburgo,50.8512438,5.6909768
 Faenza,Emilia-Romaña,44.2855555,11.8832055
 Ziguinchor,Ziguinchor,12.5634929,-16.2724609
@@ -3105,9 +2997,8 @@ Santa Helena,Marañón,-24.8591735,-54.3328813
 Marion,Iowa,42.0329753,-91.5987335
 Weimar,Turingia,50.9793301,11.3297921
 Kaiyuan,Yunnan,23.7183499,103.2674592
-Çanakkale,Çanakkale,,
 Bury,Inglaterra,53.5927543,-2.2972827
-Burnaby,Columbia británica,49.2449078,-122.9534569054247
+Burnaby,Columbia británica,49.248223,-122.966319
 Diyarbakir,Diyarbakir,37.9162222,40.2363542
 Xingtai,Hebei,37.0616519,114.499746
 Chioggia,Véneto,45.218894,12.2785805
@@ -3152,7 +3043,7 @@ Epworth,Harare,-17.8877361,31.156797
 Kalundborg,Selandia,55.6833793,11.0993619
 Cumbernauld,Escocia,55.9477764,-3.9882568
 Morogoro,Morogoro,-6.8161626,37.6693891
-El Tigre,Anzoátegui,8.8862119,-64.2488754
+El Tigre,Anzoátegui,10.4674505,-67.2430444
 Jinja,Jinja,0.5477756773923,33.22139042602994
 Malatya,Malatya,38.3487153,38.3190674
 Kure,Hiroshima,34.2484488,132.5652498
@@ -3161,7 +3052,7 @@ Halesowen,Inglaterra,52.4492074,-2.0514646
 Lorient,Bretaña,47.7477336,-3.3660907
 Sousa,Paraíba,-6.7662029,-38.2319607
 Oleksandriya,Kirovohrad,48.670609,33.1169742
-Dole,Borgoña-Franco Condado,47.0921047,5.4925463
+Dole,Borgoña-Franco Condado,12.91367015,6.431177896213678
 Galway,Galway,53.2744122,-9.0490601
 Concarneau,Bretaña,47.8757017,-3.9223889
 Bergen op Zoom,Brabante Septentrional,51.4944756,4.2871541
@@ -3182,7 +3073,7 @@ Hilden,Renania del Norte-Westfalia,51.1674417,6.9307271
 Palo Negro,Aragua,10.1630257,-67.5534347
 Melun,Isla de Francia,48.539927,2.6608169
 Elbasan,Elbasan,41.1126792,20.0820858
-Lons-le-Saunier,Borgoña-Franco Condado,46.6727037,5.5589973
+Lons-le-Saunier,Borgoña-Franco Condado,46.5882145,5.642206380786638
 Barddhaman,Bengala Occidental,23.4158568,87.8297595453279
 Blanquefort,Aquitania-Lemosín-Poitou-Charentes,44.9088982,-0.6300363
 Arcoverde,Pernambuco,-8.4208643,-37.0547808
@@ -3220,7 +3111,6 @@ Jayapura,Papua,-2.5387539,140.7037389
 Den Helder,Holanda Septentrional,52.957976,4.760279
 Waiblingen,Baden-Wurtemberg,48.8908081,10.0548356
 Amstelveen,Holanda Septentrional,52.3028209,4.8596844
-Catalão,Goiás,,
 Xiantao,Hubei,30.364029,113.4486702
 Abilene,Texas,32.44645,-99.7475905
 Mount Pleasant,Carolina del Sur,32.7940651,-79.8625851
@@ -3232,7 +3122,7 @@ Shuangcheng,Heilongjiang,45.3662519,126.3046846
 Andover,Massachusetts,42.65717,-71.1408776
 Odivelas,Lisboa,38.7904338,-9.1792617
 West Palm Beach,Florida,26.715364,-80.0532942
-Rubí,Cataluña,56.3812783,22.6302495
+Rubí,Cataluña,28.1221707,93.2334312
 Samarra,Saladino,34.2,43.9
 Salon-de-Provence,Provenza-Alpes-Costa Azul,43.6405237,5.0980225
 San Ignacio,Distrito de Cayo,9.7972275,-84.162439
@@ -3269,17 +3159,14 @@ Jalna,Maharashtra,19.8393394,75.8818806
 Chiclayo,Lambayeque,-6.7716146,-79.8387175
 Kandahar,Kandahar,31.6205738,65.7157573
 Loveland,Colorado,40.3977612,-105.07498
-Apartadó,Antioquía,,
-Taboão da Serra,São Paulo,,
 Citrus Heights,California,38.7071247,-121.2810611
-Caluire-et-Cuire,Auvernia-Ródano-Alpes,45.7969952,4.8423304
 Majadahonda,Madrid,40.4728425,-3.8723542
 Delmenhorst,Baja Sajonia,53.048095,8.6286066
 Xuanhua,Hebei,40.6067217,115.072195
 Palmares,Pernambuco,-8.684226,-35.589032
 Bento Gonçalves,Rio Grande do Sul,-29.173167,-51.508196
 Tumkur,Karnataka,13.3400771,77.1006208
-Tripoli,Líbano del Norte,34.4373616,35.8348551
+Tripoli,Líbano del Norte,42.8023164,-92.2581376
 Issoire,Auvernia,45.5432962,3.2501874
 Araraquara,São Paulo,-21.7886713,-48.1773096
 Cuxhaven,Baja Sajonia,53.86878,8.698286
@@ -3315,7 +3202,7 @@ Aydin,Aydin,37.8483767,27.8435878
 Zielona Gora,Lubusz,51.9383777,15.5050408
 Chatham,Inglaterra,51.3819167,0.526559
 Paramaribo,Paramaribo,5.8247628,-55.1703941
-Shahreza,Isfahán,32.0116032,51.8651719
+Shahreza,Isfahán,34.5223,46.8079
 Bauchi,Bauchi,10.3168749,9.8410189
 Ludwigsburg,Baden-Wurtemberg,48.8953937,9.1895147
 Riberalta,El Beni,-10.997342,-66.0751504
@@ -3329,7 +3216,7 @@ Lagny-sur-Marne,Isla de Francia,48.8773018,2.7056056
 Temecula,California,33.4946353,-117.147366
 Qena,Qina,26.1593097,32.7162855
 Woonsocket,Rhode Island,42.0028761,-71.5147839
-Terneuzen,Zelanda,51.29884295,3.8422043956030683
+Terneuzen,Zelanda,51.29884295,3.842204395603068
 Pickering,Ontario,43.835765,-79.090576
 Meizhou,Guangdong,24.2918414,116.1171428
 Liubliana,Liubliana,46.0500268,14.5069289
@@ -3364,17 +3251,14 @@ Delicias,Chihuahua,28.1909814,-105.469426
 Oullins,Auvernia-Ródano-Alpes,45.7153254,4.8039331
 Villavicencio,Meta,4.1347644,-73.6201517
 Ragusa,Sicilia,36.9256833,14.7307456
-Eskilstuna,Södermanland,59.3717379,16.5051474
+Eskilstuna,Södermanland,59.333333,16.483333
 Amersfoort,Utrecht,52.1562499,5.3896944
-Guimarães,Braga,,
-Saint-Louis,Alsacia-Champaña-Ardenas-Lorena,48.7160783,7.1884164
+Saint-Louis,Alsacia-Champaña-Ardenas-Lorena,16.0280445,-16.5048686
 Pato Branco,Paraná,-26.2295984,-52.6712474
 Bastia,Corse,42.6993979,9.4509187
 Stourbridge,Inglaterra,52.4577615,-2.1474345
-Ciénaga,Magdalena,,
 Valenciennes,Norte-Paso de Calais-Picardía,50.3579317,3.5234846
-Dax,Aquitania-Lemosín-Poitou-Charentes,43.7084065,-1.0518771
-Mâcon,Borgoña-Franco Condado,,
+Dax,Aquitania-Lemosín-Poitou-Charentes,43.8085398,-1.0201446474090998
 Chipata,Oriental,33.630785,-2.38982
 Barcelona,Anzoátegui,10.1325951,-64.6819583
 Mau,Uttar Pradesh,25.9391096,83.5716125
@@ -3422,7 +3306,7 @@ Mau,Madhya Pradesh,24.35264865,81.43400009314632
 Oktyabr'skiy,Bashkortostán,50.4377349,36.3552503
 Torbali,Izmir,38.1513559,27.3616214
 Brantford,Ontario,43.1408157,-80.2631733
-Nijmegen,Güeldres,51.8431362,5.8530913
+Nijmegen,Güeldres,51.833609,5.847102
 Cuenca,Castilla-La Mancha,40.0661031,-2.1313528
 Ontario,California,34.065846,-117.64843
 Acámbaro,Guanajuato,21.021518,-101.255194
@@ -3436,7 +3320,7 @@ Balmazujvaros,Hajdú-Bihar,47.6116279,21.3437378
 Peoria,Illinois,40.6938609,-89.5891008
 Saint Petersburg,Florida,27.7700475,-82.6359078
 Tongi,Daca,23.9084932,90.3980037
-Paço do Lumiar,Marañón,38.774388,-9.166252
+Paço do Lumiar,Marañón,-2.53222,-44.1075
 Millau,Languedoc-Rosellón-Mediodía-Pirineos,44.1006693,3.0777594
 Charallave,Miranda,10.2456598,-66.8586608
 Gaborone,Sudeste,-24.6581357,25.9088474
@@ -3445,10 +3329,8 @@ Ris-Orangis,Isla de Francia,48.6538754,2.4151151
 Coppell,Texas,32.9552598,-97.0155703
 Royal Oak,Michigan,42.4894801,-83.1446485
 Fargo,Dakota del Norte,46.877229,-96.789821
-Guamúchil,Sinaloa,,
 Harlow,Inglaterra,51.7685568,0.0949036
 Elyria,Ohio,41.3673191,-82.1073583
-Carapicuíba,São Paulo,,
 La Rioja,La Rioja,-29.4127411,-66.8558795
 Longueuil,Quebec,45.521906,-73.4644578
 Zwedru,Grand Gedeh,6.068724,-8.1342735
@@ -3456,9 +3338,9 @@ Anyang,Henan,36.1023552,114.33633
 Cidade Ocidental,Goiás,-16.1000758,-47.9445014
 Norman,Oklahoma,35.2225717,-97.4394816
 Villeneuve-la-Garenne,Isla de Francia,48.9350488,2.3324727
-Rottingdean,Inglaterra,50.8058288,-0.05477791027343337
+Rottingdean,Inglaterra,50.8058288,-0.0547779102734333
 Ludwigsfelde,Brandenburgo,52.3016096,13.2610163
-Oss,Brabante Septentrional,51.778354199999995,5.532083610932192
+Oss,Brabante Septentrional,51.7783542,5.532083610932192
 Barranca,Lima,-10.7541212,-77.7609383
 Binzhou,Heilongjiang,37.3821206,117.9647262
 Homestead,Florida,25.4718946,-80.4759905
@@ -3481,7 +3363,6 @@ Cuneo,Piamonte,44.45807035,7.558136691151624
 Arlington Heights,Illinois,42.0811563,-87.9802164
 Jizzakh,Jizzakh,40.1331797,67.8234081
 Marlborough,Massachusetts,42.3468589,-71.5525188
-San José de Guanipa,Anzoátegui,,
 Chiclana de la Frontera,Andalucía,36.420992,-6.148244
 Bozeman,Montana,45.6794293,-111.044047
 Buca,Izmir,38.3880413,27.1733777
@@ -3497,10 +3378,9 @@ Vanadzor,Lori,40.8112384,44.4851821
 Chevilly-Larue,Isla de Francia,48.7714153,2.3469255
 Coari,Amazonas,-4.0885957,-63.1431166
 Mutare,Manicalandia,-18.974656,32.670473
-Semnán,Semnán,,
 Pietermaritzburg,KwaZulu-Natal,-29.6,30.3788889
 Itamaraju,Bahía,-17.0340092,-39.5315525
-Treviglio,Lombardía,45.5150726,9.5886703
+Treviglio,Lombardía,45.520592,9.589443
 Oradea,Bihor,47.0549163,21.9285231
 Greenwood,Indiana,39.6136987,-86.1095429
 Cape Coast,Central,5.107467,-1.2430793
@@ -3514,10 +3394,9 @@ Birobidzhan,Yevrey,48.797572,132.910148
 Rize,Rize,41.0248249,40.5199142
 Ann Arbor,Michigan,42.2813722,-83.7484616
 North Miami,Florida,25.8900949,-80.1867138
-Berrechid,Chauía-Uardiga,33.5715141,-7.5971441
+Berrechid,Chauía-Uardiga,33.265354,-7.581039
 Tanta,Gharbia,30.78847,31.00192
 Umraniye,Estambul,41.0256362,29.0963049
-Poços de Caldas,Minas Gerais,,
 Rancho Cucamonga,California,34.1033192,-117.575173
 Shahriar,Teherán,35.6589015,51.0586022
 Mason,Ohio,39.3600586,-84.309939
@@ -3542,7 +3421,6 @@ Cherbourg-Octeville,Normandía,49.63984,-1.61636
 Al Khums,Al Marqab,32.652183,14.26801
 Khemisset,Rabat-Salé-Zemur-Zaer,33.830287,-6.072605
 Girga,Suhaj,26.337437,31.8911758
-Mérida,Mérida,,
 Lichinga,Niassa,-13.2999118,35.2458642
 Camaragibe,Pernambuco,-8.0213832,-34.9810768
 Stakhanov,Lugansk,48.5595971,38.6499847
@@ -3562,7 +3440,7 @@ Rosenheim,Bavaria,47.8539273,12.127262
 Jamestown,Nueva York,42.0965167,-79.2380322
 Billings,Montana,45.7874957,-108.49607
 Coxs B?z?r,Chittagong,43.3227155,3.35544795614217
-Itapeva,São Paulo,-22.7690638,-46.221934
+Itapeva,São Paulo,-23.9849105,-48.8803886
 Damanhur,Al Buhayrah,31.0374982,30.4710625
 Murray,Kentucky,36.6106122,-88.3021092
 Oak Park,Michigan,42.4595317,-83.1821445
@@ -3573,10 +3451,9 @@ Draper,Utah,40.5247777,-111.8627989
 Musoma,Mara,-1.4998186,33.8083018
 Allauch,Provenza-Alpes-Costa Azul,43.3351381,5.4832687
 Teramo,Abruzos,42.6612893,13.6983524
-Upplands Väsby,Estocolmo,59.520878,17.8990206
+Upplands Väsby,Estocolmo,59.51839,17.91128
 Carol Stream,Illinois,41.9125286,-88.1347927
 Deltona,Florida,28.904843,-81.2273119
-Gyula,Békés,46.6438656,21.2747575
 Conroe,Texas,30.3118769,-95.4560512
 Louviers,Normandía,49.2157245,1.1646335
 Cercola,Campania,40.8600227,14.3589664
@@ -3605,7 +3482,7 @@ Dzhezkazgan,Karagandá,47.78333,67.76667
 Ghaziabad,Uttar Pradesh,28.6711527,77.4120356
 Independence,Misuri,39.0924792,-94.4137923
 Kortrijk,Flanders Occidental,50.8276429,3.2659884
-Taldyqorghan,Almaty,45,77.91667
+Taldyqorghan,Almaty,45.0,77.91667
 Bharatpur,Rajastán,27.6811896,84.4301652
 Kawaguchi,Chiba,35.711773,140.59509
 Stafford,Inglaterra,52.8063157,-2.1163818
@@ -3614,11 +3491,10 @@ Romeoville,Illinois,41.6475306,-88.0895061
 Yuncheng,Shanxi,35.027637,111.002141
 Toliara,Atsimo-Andrefana,-23.354173,43.66966
 Ormond Beach,Florida,29.2854132,-81.0557921
-Bingöl,Bingöl,,
 Hadera,Haifa,32.43699,34.9198258
 Focsani,Vrancea,45.697274,27.1856921
 Kazerun,Fars,29.6203251,51.6520826
-Barra do Piraí,Río de Janeiro,,
+Barra do Piraí,Río de Janeiro,-22.478149,-43.831573
 Hardenberg,Overijssel,52.5754706,6.6188242
 Junín,Buenos Aires (provincia),35.1757385,118.8296704
 Phuntsholing,Chukha,26.8639605,89.3837363
@@ -3629,7 +3505,7 @@ Pazardzhik,Pazardzhik,42.1884549,24.3318993
 Sanming,Fujian,26.2671531,117.634008
 San Carlos del Zulia,Zulia,9.000518,-71.9259356
 Holyoke,Massachusetts,42.2071184,-72.6075851
-Bhilwara,Rajastán,25.348,74.636
+Bhilwara,Rajastán,24.8931518,73.9883065
 Park Ridge,Illinois,42.0112329,-87.8406031
 Laurel,Maryland,39.0984317,-76.8485094
 Villeneuve-Saint-Georges,Isla de Francia,48.7305272,2.44782
@@ -3650,7 +3526,7 @@ Fulda,Hesse,50.5542328,9.6770448
 Cubuk,Ankara,40.2388964,33.028947
 Boksburg,Gauteng,-26.2124639,28.2617471
 Karaman,Karaman,37.1808502,33.2194554
-Las Cruces,Nuevo México,-33.4996501,-71.6238636
+Las Cruces,Nuevo México,32.3140354,-106.779807
 Roseville,Michigan,42.4972583,-82.9371409
 East Orange,Nueva Jersey,40.7642404,-74.215011
 Ponteareas,Galicia,42.1741836,-8.5050427
@@ -3693,7 +3569,6 @@ Stara Zagora,Stara Zagora,42.4248111,25.6257479
 Zabol,Sistán y Baluchistán,31.0287,61.5012
 Chigasaki,Kanagawa,35.329479,139.405371
 Katsushika-ku,Tokio,35.7433912,139.8473472
-El Aaiún,El Aaiún,,
 Neyshabur,Jorasán Razaví,36.21329,58.79576
 Juliaca,Puno,-15.4932314,-70.1356177
 Tartu,Tartu,58.3801207,26.72245
@@ -3701,7 +3576,6 @@ Seropédica,Río de Janeiro,15.9199368,-16.3975489
 Braga,Braga,41.5510583,-8.4280045
 Burlington,Ontario,43.3248924,-79.7966835
 Moissy-Cramayel,Isla de Francia,48.6272298,2.5937073
-Montería,Córdoba,,
 Deer Park,Texas,29.7052284,-95.1238204
 Qidong,Jiangsu,31.7951489,121.6509342
 Commerce City,Colorado,39.8083196,-104.9338675
@@ -3750,7 +3624,7 @@ El Escorial,Madrid,40.5836411,-4.1281427
 Woodstock,Georgia,34.1014112,-84.5192192
 Missoula,Montana,46.8701049,-113.995267
 Contagem,Minas Gerais,-19.9132749,-44.0840953
-Sète,Languedoc-Rosellón-Mediodía-Pirineos,,
+Sète,Languedoc-Rosellón-Mediodía-Pirineos,22.43333,102.4
 Takestan,Qazvín,36.0726006,49.6937027
 Benoni,Gauteng,-26.1930356,28.3082376
 Lindenhurst,Nueva York,40.6867667,-73.3734547
@@ -3761,7 +3635,7 @@ Campo Limpo Paulista,São Paulo,-23.207791,-46.788919
 Tottori,Tottori,35.4943948,134.2219282
 Limbe,Ouest del Sur,4.010289,9.207058
 Senlis,Norte-Paso de Calais-Picardía,49.2065404,2.5846582
-Asti,Piamonte,44.826012649999996,8.202686328987273
+Asti,Piamonte,44.82601265,8.202686328987273
 Yucaipa,California,34.033625,-117.0430865
 Volksrust,Mpumalanga,-27.3627778,29.8825
 Pico Rivera,California,33.9830688,-118.096735
@@ -3771,3 +3645,121 @@ Anglet,Aquitania-Lemosín-Poitou-Charentes,43.4813927,-1.5149935
 Tongling,Anhui,30.9474585,117.805068
 Nashua,Nuevo Hampshire,42.7656251,-71.4677032
 Pinar del Río,Pinar del Río,22.4175,-83.69806
+Order City,Order State,Dest_Lat,Dest_Lon
+Jerusalén,Jerusalén,31.7788472,35.2257856
+Bélgorod,Bélgorod,50.5955595,36.5873394
+Cheliábinsk,Cheliábinsk,55.1598408,61.4025547
+Eunápolis,Bahía,-16.3766148,-39.586449
+Caçador,Santa Catarina,-26.7737784,-51.0134844
+Camagüey,Camagüey,21.3791765,-77.9183681
+San Cristóbal,Táchira,7.7756663,-72.2214154
+El Limón,Aragua,10.2925851,-67.6298607
+Namangán,Namangán,40.9996482,71.6726238
+Mossoró,Río Grande del Norte,-5.1904332,-37.3443872
+Fayún,Fayún,29.3074076,30.8399651
+Jataí,Goiás,-17.8856178,-51.7202967
+Gómel,Gómel,52.4238936,31.0131698
+Araçatuba,São Paulo,-21.207992,-50.4390225
+Vínnytsia,Vínnytsia,49.2320162,28.467975
+Mazyr,Gómel,52.0494531,29.2676261
+Querétaro,Querétaro,20.5922997,-100.3917424
+Asunción,Asunción,-25.30066,-57.63591
+Córdoba,Córdoba,37.8845813,-4.7760138
+Santo André,São Paulo,-23.6533509,-46.5279039
+Consolación del Sur,Pinar del Río,22.5040475,-83.5154619
+Astracán,Astracán,46.3498308,48.0326203
+Mérida,Yucatán,20.9670759,-89.6237402
+San Luis Río Colorado,Sonora,32.4822164,-114.7816893
+San Miguelito,Panamá,13.7417467,-87.4935547
+Culiacán,Sinaloa,24.7978965,-107.393395
+Shanghái,Shanghái,31.2323437,121.4691024
+Kütahya,Kütahya,39.4199106,29.9857886
+Ocotlán,Jalisco,20.3514474,-102.768809
+San Pedro de Macorís,San Pedro de Macorís,18.4617093,-69.3031847
+Valparaíso,Valparaíso,1.1961248,-75.7059684
+Arraiján,Panamá,8.9453238,-79.6422757
+Camaçari,Bahía,-12.6998188,-38.3260762
+San Luis Potosí,San Luis Potosí,22.1516472,-100.9763993
+Apatzingán de la Constitución,Michoacán,19.0913792,-102.3537356
+Anápolis,Goiás,-16.3332828,-48.9525756
+Paysandú,Paysandú,-32.3217257,-58.0892136
+Klaipėda,Klaipėda,55.7127529,21.1350469
+Teherán,Teherán,35.6892523,51.3896004
+Ilhéus,Bahía,-14.792599,-39.0453843
+Águas Lindas de Goiás,Goiás,-15.7392283,-48.2793357
+Medellín,Antioquía,6.2443382,-75.573553
+Tehuacán,Puebla,18.4599877,-97.3903616
+Járkov,Járkov,49.9923181,36.2310146
+Grajaú,Marañón,-5.8154034,-46.1361454
+Seúl,Seúl,37.539619,127.009676
+Açu,Río Grande del Norte,-5.5836471,-36.9139421
+Amatitlán,Guatemala,14.4792381,-90.6195248
+León,León,42.5989995,-5.5682413
+Vitória,Espíritu Santo,-20.3200917,-40.3376682
+Colón,Colón,9.3553005,-79.8974085
+São Gonçalo,Río de Janeiro,-22.8219014,-43.0309252
+Francisco Beltrão,Paraná,-26.0790979,-53.0533527
+Lençóis Paulista,São Paulo,-22.6029897,-48.8031367
+São José dos Campos,São Paulo,-23.1867782,-45.8854538
+Kahramanmaraş,Kahramanmaraş,37.5812744,36.927509
+Malambo,Atlántico,10.8653387,-74.7746194
+Lázaro Cárdenas,Michoacán,19.4893501,-100.4847041
+Holguín,Holguín,20.8869704,-76.2591995
+Melchor Ocampo,México,19.7063556,-99.1431933
+Santarém,Pará,-2.438489,-54.699611
+Potosí,Potosí,-19.5892896,-65.7534713
+Concepción del Uruguay,Entre Ríos,-32.4851849,-58.2320232
+Ibiúna,São Paulo,-23.6544825,-47.220856
+San Martín,Cuscatlán,-6.4095133,-76.87125814951699
+San Francisco de Macorís,Duarte,19.2974432,-70.2573332
+Jacareí,São Paulo,-23.3050682,-45.9723075
+Balneário Camboriú,Santa Catarina,-26.9924395,-48.6339782
+Bolívar,Bolívar,0.5021182,-77.9051113
+Araucária,Paraná,-25.5861107,-49.4051209
+Jundiaí,São Paulo,-23.1887668,-46.884506
+Ibagué,Tolima,4.4386033,-75.2108857
+Tetouan,Tánger-Tetuán,35.570175,-5.3742776
+Sant Boi de Llobregat,Cataluña,41.3459033,2.0413673
+Chillán,Bío-Bío,-37.2235455,-71.3030306
+Ternópil,Ternópil,49.5557908,25.5923753
+Valparaíso de Goiás,Goiás,-16.0686394,-47.9764907
+Túnez,Túnez,36.8002068,10.1857757
+Chisináu,Chisináu,47.0245117,28.8322923
+Cuautitlán,México,19.6730302,-99.1693207
+Garza García,Nuevo León,24.854831,-99.2825304
+Goiânia,Goiás,-16.680882,-49.2532691
+José Bonifácio,São Paulo,-21.055062,-49.689233
+Neuquén,Neuquén,-38.9519679,-68.0591741
+Qazvín,Qazvín,36.2804074,50.006663
+Rolândia,Paraná,-23.3119901,-51.3674145
+Vitória de Santo Antão,Pernambuco,-8.1209019,-35.2944858
+Cubatão,São Paulo,-23.8842077,-46.4213061
+Bragança Paulista,São Paulo,-22.9520235,-46.5418586
+Teziutlán,Puebla,19.8170336,-97.3601226
+Taubaté,São Paulo,-23.031448,-45.5612792
+Sumaré,São Paulo,-22.8217964,-47.267105
+Vorónezh,Vorónezh,51.6605982,39.2005858
+Brașov,Brașov,45.6525105,25.6105654
+Jersón,Jersón,46.6401295,32.6143922
+San Juan del Río,Querétaro,20.3867547,-99.9931982
+Kostanái,Kostanái,53.2146604,63.632607
+Cártama,Andalucía,36.7100716,-4.631539
+Bisáu,Bisáu,11.861324,-15.583055
+Montbrison,Auvernia-Ródano-Alpes,45.6072875,4.0627318
+Vesoul,Borgoña-Franco Condado,47.6197395,6.1544694
+Vitória da Conquista,Bahía,-14.8567487,-40.8414804
+Günzburg,Bavaria,48.4555244,10.2766213
+Quibdó,Chocó,5.6923407,-76.6583801
+Zhytómyr,Zhytómyr,50.2601065,28.6696281
+Çanakkale,Çanakkale,40.146271,26.4028892
+Catalão,Goiás,-18.1702546,-47.9447082
+Apartadó,Antioquía,7.8849011,-76.6227461
+Taboão da Serra,São Paulo,-23.6121912,-46.7790539
+Caluire-et-Cuire,Auvernia-Ródano-Alpes,45.7969952,4.8423304
+Guimarães,Braga,41.4417677,-8.2955712
+Ciénaga,Magdalena,11.0062433,-74.241022
+Mâcon,Borgoña-Franco Condado,46.3036683,4.8322266
+Guamúchil,Sinaloa,25.4575492,-108.0755437
+Carapicuíba,São Paulo,-23.5234673,-46.8406808
+San José de Guanipa,Anzoátegui,8.8853988,-64.1623504
+Semnán,Semnán,35.5834074,53.3882906

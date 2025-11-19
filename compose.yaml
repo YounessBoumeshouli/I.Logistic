@@ -17,7 +17,7 @@ services:
 
   # 2. Le "Master" Apache Spark
   spark-master:
-    image: docker.io/apache/spark:3.5.0
+    build: .
     ports:
       - "8088:8080"  # UI Web de Spark
       - "7077:7077"  # Port du cluster
@@ -28,7 +28,7 @@ services:
 
   # 3. Un "Worker" Apache Spark
   spark-worker:
-    image: docker.io/apache/spark:3.5.0
+    build: .
     depends_on:
       - spark-master
     command: /opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker spark://spark-master:7077

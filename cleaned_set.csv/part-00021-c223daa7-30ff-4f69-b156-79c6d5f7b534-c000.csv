@@ -1,0 +1,663 @@
+Late_delivery_risk,Days for shipment (scheduled),order date (DateOrders),Shipping Mode,Market,Order Region,Latitude,Longitude,Category Name,Department Name,Order Item Quantity,Product Status,Customer Segment,Order Item Total,Order Profit Per Order,Order Item Discount Rate,Order City,Order State
+1,1,2/22/2016 2:23,First Class,Pacific Asia,Eastern Asia,29.51066399,-98.54441071,Fishing,Fan Shop,1,0,Home Office,359.980011,47.88000107,0.100000001,Hiratsuka,Kanagawa
+1,1,2/22/2016 2:23,First Class,Pacific Asia,Eastern Asia,29.51066399,-98.54441071,Fishing,Fan Shop,1,0,Home Office,351.980011,110.1699982,0.119999997,Hiratsuka,Kanagawa
+1,1,2/22/2016 2:02,First Class,Pacific Asia,Eastern Asia,18.25392532,-66.37055969,Fishing,Fan Shop,1,0,Corporate,347.980011,156.5899963,0.129999995,Hiratsuka,Kanagawa
+0,4,2/22/2016 1:41,Standard Class,Pacific Asia,Oceania,18.21715546,-66.3706131,Fishing,Fan Shop,1,0,Home Office,339.980011,95.19999695,0.150000006,Wollongong,Nueva Gales del Sur
+1,4,2/22/2016 0:38,Standard Class,Pacific Asia,Southeast Asia,18.21931267,-66.37059021,Fishing,Fan Shop,1,0,Consumer,335.980011,-4.699999809,0.159999996,Manila,Capital Nacional
+0,4,2/21/2016 23:56,Standard Class,Pacific Asia,Eastern Asia,33.78245163,-118.1922455,Fishing,Fan Shop,1,0,Corporate,331.980011,-62.40999985,0.170000002,Fukui,Fukui
+0,2,2/21/2016 23:35,Second Class,Pacific Asia,Eastern Asia,18.28589821,-66.37049866,Fishing,Fan Shop,1,0,Corporate,327.980011,24.60000038,0.180000007,Fukui,Fukui
+1,4,2/21/2016 22:53,Standard Class,Pacific Asia,Eastern Asia,33.87979126,-117.9998474,Fishing,Fan Shop,1,0,Corporate,319.980011,-511.9700012,0.200000003,Fukui,Fukui
+0,4,2/21/2016 22:11,Standard Class,Pacific Asia,Eastern Asia,18.27503395,-66.37052155,Fishing,Fan Shop,1,0,Home Office,299.9899902,146.9900055,0.25,Huaiyin,Jiangsu
+1,4,2/21/2016 21:08,Standard Class,Pacific Asia,Oceania,34.13899231,-118.3884659,Fishing,Fan Shop,1,0,Consumer,399.980011,35.20000076,0.0,Melbourne,Victoria
+1,1,2/21/2016 20:26,First Class,Pacific Asia,South Asia,41.30748749,-81.83231354,Fishing,Fan Shop,1,0,Corporate,395.980011,194.0299988,0.01,Muzaffarpur,Bihar
+1,4,2/21/2016 19:44,Standard Class,Pacific Asia,South Asia,40.72668076,-73.97971344,Fishing,Fan Shop,1,0,Consumer,391.980011,101.9100037,0.02,Chandigarh,Chandigarh
+1,4,2/21/2016 19:23,Standard Class,Pacific Asia,South Asia,39.54880905,-104.9422302,Fishing,Fan Shop,1,0,Corporate,387.980011,140.8399963,0.029999999,Jalna,Maharashtra
+1,4,2/21/2016 19:23,Standard Class,Pacific Asia,South Asia,39.54880905,-104.9422302,Fishing,Fan Shop,1,0,Corporate,383.980011,184.3099976,0.039999999,Jalna,Maharashtra
+1,4,2/21/2016 17:38,Standard Class,Pacific Asia,Eastern Asia,41.26742172,-73.26482391,Fishing,Fan Shop,1,0,Home Office,379.980011,26.60000038,0.050000001,Xuzhou,Jiangsu
+1,0,2/21/2016 14:28,Same Day,Pacific Asia,Oceania,18.21640396,-66.37058258,Fishing,Fan Shop,1,0,Home Office,377.980011,-66.51999664,0.059999999,Melbourne,Victoria
+1,4,2/21/2016 14:07,Standard Class,Pacific Asia,Oceania,18.35909462,-66.07995606,Fishing,Fan Shop,1,0,Corporate,371.980011,125.7300034,0.07,Melbourne,Victoria
+0,4,2/21/2016 13:25,Standard Class,Pacific Asia,South Asia,43.55168533,-116.3939133,Fishing,Fan Shop,1,0,Consumer,363.980011,63.70000076,0.090000004,Delhi,Delhi
+0,4,2/21/2016 13:25,Standard Class,Pacific Asia,South Asia,43.55168533,-116.3939133,Fishing,Fan Shop,1,0,Consumer,359.980011,40.68000031,0.100000001,Delhi,Delhi
+0,0,2/21/2016 9:13,Same Day,Pacific Asia,Oceania,38.80710983,-90.29780579,Fishing,Fan Shop,1,0,Consumer,351.980011,-281.5899963,0.119999997,Queanbeyan,Nueva Gales del Sur
+0,0,2/21/2016 8:52,Same Day,Pacific Asia,Oceania,28.55625916,-81.27587128,Fishing,Fan Shop,1,0,Corporate,347.980011,-82.8199997,0.129999995,Queanbeyan,Nueva Gales del Sur
+0,0,2/21/2016 8:10,Same Day,Pacific Asia,Southeast Asia,34.22850037,-119.185585,Fishing,Fan Shop,1,0,Corporate,339.980011,40.79999924,0.150000006,Bangkok,Bangkok
+0,0,2/21/2016 8:10,Same Day,Pacific Asia,Southeast Asia,34.22850037,-119.185585,Fishing,Fan Shop,1,0,Corporate,335.980011,131.0299988,0.159999996,Bangkok,Bangkok
+0,0,2/21/2016 6:04,Same Day,Pacific Asia,Oceania,18.24850655,-66.37054443,Fishing,Fan Shop,1,0,Corporate,331.980011,54.11000061,0.170000002,Bundaberg,Queensland
+0,4,2/21/2016 4:19,Standard Class,Pacific Asia,South Asia,21.32080078,-157.8613892,Fishing,Fan Shop,1,0,Corporate,327.980011,26.23999977,0.180000007,Belgaum,Karnataka
+1,4,2/21/2016 3:58,Standard Class,Pacific Asia,Southeast Asia,39.67436981,-75.76576996,Fishing,Fan Shop,1,0,Corporate,319.980011,116.1500015,0.200000003,Tasikmalaya,Java Occidental
+1,4,2/21/2016 2:13,Standard Class,Pacific Asia,Oceania,35.818367,-86.14837647,Fishing,Fan Shop,1,0,Consumer,299.9899902,51.0,0.25,Hobart,Tasmania
+1,1,2/21/2016 0:28,First Class,Pacific Asia,Eastern Asia,40.62839508,-73.94129944,Fishing,Fan Shop,1,0,Consumer,399.980011,125.1900024,0.0,Harbin,Heilongjiang
+1,2,2/20/2016 23:25,Second Class,Pacific Asia,Oceania,26.01161957,-80.17346954,Fishing,Fan Shop,1,0,Home Office,395.980011,190.0700073,0.01,Sydney,Nueva Gales del Sur
+0,4,2/20/2016 21:18,Standard Class,Pacific Asia,South Asia,33.87208557,-117.5922241,Fishing,Fan Shop,1,0,Corporate,391.980011,-326.519989,0.02,Visakhapatnam,Andhra Pradesh
+1,4,2/20/2016 20:36,Standard Class,Pacific Asia,Southeast Asia,18.27907372,-66.37055969,Fishing,Fan Shop,1,0,Consumer,387.980011,100.8700027,0.029999999,Semarang,Java Central
+1,4,2/20/2016 20:36,Standard Class,Pacific Asia,Southeast Asia,18.27907372,-66.37055969,Fishing,Fan Shop,1,0,Consumer,383.980011,191.9900055,0.039999999,Semarang,Java Central
+1,1,2/20/2016 18:09,First Class,Pacific Asia,Southeast Asia,39.26515198,-76.77284241,Fishing,Fan Shop,1,0,Consumer,379.980011,148.1900024,0.050000001,Depok,Yogyakarta
+1,4,2/20/2016 17:27,Standard Class,Pacific Asia,South Asia,18.43013001,-66.48731232,Fishing,Fan Shop,1,0,Corporate,377.980011,-75.59999847,0.059999999,Mumbai,Maharashtra
+1,2,2/20/2016 16:24,Second Class,Pacific Asia,Eastern Asia,18.22760201,-66.04357147,Fishing,Fan Shop,1,0,Consumer,371.980011,100.4300003,0.07,Fushun,Liaoning
+1,4,2/20/2016 15:42,Standard Class,Pacific Asia,Eastern Asia,18.29872131,-66.37060547,Fishing,Fan Shop,1,0,Corporate,363.980011,167.4299927,0.090000004,Shanghái,Shanghái
+0,4,2/20/2016 14:18,Standard Class,Pacific Asia,Eastern Asia,41.12160111,-87.73418427,Fishing,Fan Shop,1,0,Consumer,359.980011,130.6699982,0.100000001,Shanghái,Shanghái
+1,4,2/20/2016 13:57,Standard Class,Pacific Asia,Southeast Asia,40.74726105,-74.04908752,Fishing,Fan Shop,1,0,Consumer,351.980011,-281.5899963,0.119999997,Ho Chi Minh City,Ciudad Ho Chi Minh
+0,4,2/20/2016 11:09,Standard Class,Pacific Asia,Eastern Asia,18.25870705,-66.37063599,Fishing,Fan Shop,1,0,Corporate,347.980011,173.9900055,0.129999995,Seúl,Seúl
+0,4,2/20/2016 10:48,Standard Class,Pacific Asia,Eastern Asia,42.22761917,-83.64476776,Fishing,Fan Shop,1,0,Consumer,339.980011,156.3899994,0.150000006,Seúl,Seúl
+1,4,2/20/2016 10:27,Standard Class,Pacific Asia,Eastern Asia,18.26919365,-66.37054443,Fishing,Fan Shop,1,0,Consumer,335.980011,90.72000122,0.159999996,Sakai,Ibaraki
+0,4,2/20/2016 9:24,Standard Class,Pacific Asia,Eastern Asia,18.26921082,-66.37062073,Fishing,Fan Shop,1,0,Consumer,331.980011,83.0,0.170000002,Shangzhi,Heilongjiang
+1,4,2/20/2016 8:42,Standard Class,Pacific Asia,Eastern Asia,18.21918869,-66.37059021,Fishing,Fan Shop,1,0,Consumer,327.980011,154.1499939,0.180000007,Baotou,Mongolia Interior
+0,4,2/20/2016 7:39,Standard Class,Pacific Asia,Oceania,33.10355759,-117.2678757,Fishing,Fan Shop,1,0,Consumer,319.980011,153.5899963,0.200000003,Melbourne,Victoria
+0,4,2/20/2016 7:18,Standard Class,Pacific Asia,Oceania,33.8030777,-117.9584045,Fishing,Fan Shop,1,0,Consumer,299.9899902,6.0,0.25,Melbourne,Victoria
+1,4,2/20/2016 6:57,Standard Class,Pacific Asia,Oceania,18.22282028,-66.37057495,Fishing,Fan Shop,1,0,Home Office,399.980011,35.20000076,0.0,Melbourne,Victoria
+1,4,2/20/2016 4:50,Standard Class,Pacific Asia,South Asia,18.28544998,-66.37062073,Fishing,Fan Shop,1,0,Corporate,395.980011,99.0,0.01,Varanasi,Uttar Pradesh
+0,4,2/20/2016 2:44,Standard Class,Pacific Asia,Southeast Asia,33.63859177,-112.0436478,Fishing,Fan Shop,1,0,Home Office,391.980011,117.5899963,0.02,Binjai,Sumatra Septentrional
+0,4,2/20/2016 0:17,Standard Class,Pacific Asia,Southeast Asia,38.10829163,-122.2123947,Fishing,Fan Shop,1,0,Corporate,387.980011,131.1399994,0.029999999,Bangkok,Bangkok
+1,1,2/19/2016 23:14,First Class,Pacific Asia,South Asia,40.78068543,-73.24616242,Fishing,Fan Shop,1,0,Consumer,383.980011,61.43999863,0.039999999,Fatehpur,Rajastán
+0,4,2/19/2016 20:47,Standard Class,Pacific Asia,Eastern Asia,27.50863648,-99.50951386,Fishing,Fan Shop,1,0,Consumer,379.980011,99.94000244,0.050000001,Yantai,Shandong
+0,4,2/19/2016 19:44,Standard Class,Pacific Asia,South Asia,18.22759628,-66.04355621,Fishing,Fan Shop,1,0,Consumer,377.980011,102.0500031,0.059999999,Daca,Daca
+1,1,2/19/2016 17:38,First Class,Pacific Asia,Oceania,35.90821838,-79.04585266,Fishing,Fan Shop,1,0,Corporate,371.980011,96.72000122,0.07,Sydney,Nueva Gales del Sur
+0,4,2/19/2016 13:47,Standard Class,Pacific Asia,Southeast Asia,32.87078095,-97.32335663,Fishing,Fan Shop,1,0,Consumer,363.980011,101.9100037,0.090000004,Hanoi,Th? Dô Hà N?i
+0,4,2/19/2016 12:23,Standard Class,Pacific Asia,Southeast Asia,18.24876404,-66.3706131,Fishing,Fan Shop,1,0,Consumer,359.980011,-25.55999947,0.100000001,Ho Chi Minh City,Ciudad Ho Chi Minh
+0,2,2/19/2016 10:16,Second Class,Pacific Asia,South Asia,37.3900528,-121.4688492,Fishing,Fan Shop,1,0,Home Office,351.980011,63.36000061,0.119999997,Darbhanga,Bihar
+0,2,2/19/2016 10:16,Second Class,Pacific Asia,South Asia,37.3900528,-121.4688492,Fishing,Fan Shop,1,0,Home Office,347.980011,130.4900055,0.129999995,Darbhanga,Bihar
+0,2,2/19/2016 8:31,Second Class,Pacific Asia,South Asia,45.06418228,-123.0758667,Fishing,Fan Shop,1,0,Consumer,339.980011,127.4899979,0.150000006,Rawalpindi,Punyab
+0,4,2/19/2016 7:28,Standard Class,Pacific Asia,Eastern Asia,18.29062271,-66.3706131,Fishing,Fan Shop,1,0,Consumer,335.980011,-279.8699951,0.159999996,Yunyang,Henan
+0,4,2/19/2016 7:07,Standard Class,Pacific Asia,South Asia,44.72552109,-93.20613098,Fishing,Fan Shop,1,0,Consumer,331.980011,37.50999832,0.170000002,Asansol,Bengala Occidental
+1,4,2/19/2016 6:25,Standard Class,Pacific Asia,Eastern Asia,18.23476601,-66.37056732,Fishing,Fan Shop,1,0,Corporate,327.980011,119.0599976,0.180000007,Xintai,Shandong
+1,2,2/19/2016 5:43,Second Class,Pacific Asia,Oceania,39.31198883,-84.49658966,Fishing,Fan Shop,1,0,Corporate,319.980011,147.1900024,0.200000003,Sydney,Nueva Gales del Sur
+1,2,2/19/2016 4:19,Second Class,Pacific Asia,Southeast Asia,18.28199196,-66.3706131,Fishing,Fan Shop,1,0,Home Office,299.9899902,33.90000153,0.25,Bangkok,Bangkok
+1,2,2/19/2016 3:58,Second Class,Pacific Asia,Southeast Asia,18.20767784,-66.37051392,Fishing,Fan Shop,1,0,Home Office,399.980011,171.9900055,0.0,Bangkok,Bangkok
+0,0,2/19/2016 3:16,Same Day,Pacific Asia,Southeast Asia,18.26540375,-66.37059021,Fishing,Fan Shop,1,0,Consumer,395.980011,-69.30000305,0.01,Bangkok,Bangkok
+0,4,2/19/2016 1:31,Standard Class,Pacific Asia,Southeast Asia,46.81184387,-100.7877197,Fishing,Fan Shop,1,0,Consumer,391.980011,127.3899994,0.02,Kuala Lumpur,Kuala Lumpur
+0,0,2/19/2016 0:07,Same Day,Pacific Asia,Oceania,37.56406784,-121.9806442,Fishing,Fan Shop,1,0,Consumer,387.980011,128.0299988,0.029999999,Port Macquarie,Nueva Gales del Sur
+1,4,2/18/2016 23:04,Standard Class,Pacific Asia,Oceania,18.26675415,-66.37052155,Fishing,Fan Shop,1,0,Corporate,383.980011,-81.79000092,0.039999999,Cessnock,Nueva Gales del Sur
+1,4,2/18/2016 23:04,Standard Class,Pacific Asia,Oceania,18.26675415,-66.37052155,Fishing,Fan Shop,1,0,Corporate,379.980011,113.9899979,0.050000001,Cessnock,Nueva Gales del Sur
+1,4,2/18/2016 21:40,Standard Class,Pacific Asia,Oceania,26.21472931,-80.23004913,Fishing,Fan Shop,1,0,Corporate,377.980011,-47.25,0.059999999,Darwin,Territorio del Norte
+1,4,2/18/2016 21:19,Standard Class,Pacific Asia,Southeast Asia,40.65486527,-73.58707428,Fishing,Fan Shop,1,0,Home Office,371.980011,-37.20000076,0.07,Medan,Sumatra Septentrional
+0,2,2/18/2016 20:37,Second Class,Pacific Asia,Southeast Asia,18.22757721,-66.04562378,Fishing,Fan Shop,1,0,Consumer,363.980011,163.7899933,0.090000004,Can Tho,T?nh C?n Th?
+1,2,2/18/2016 19:34,Second Class,Pacific Asia,Southeast Asia,18.28443718,-66.37062073,Fishing,Fan Shop,1,0,Consumer,359.980011,97.19999695,0.100000001,Bekasi,Java Occidental
+0,1,2/18/2016 17:48,First Class,Pacific Asia,South Asia,18.22757721,-66.04453278,Fishing,Fan Shop,1,0,Consumer,351.980011,91.51999664,0.119999997,Gorakhpur,Uttar Pradesh
+1,1,2/18/2016 17:27,First Class,Pacific Asia,Southeast Asia,29.76454735,-95.37255096,Fishing,Fan Shop,1,0,Home Office,347.980011,97.44000244,0.129999995,Malang,Java Oriental
+1,1,2/18/2016 16:45,First Class,Pacific Asia,Southeast Asia,35.06517029,-106.6699524,Fishing,Fan Shop,1,0,Corporate,339.980011,85.0,0.150000006,Malang,Java Oriental
+1,1,2/18/2016 15:42,First Class,Pacific Asia,Southeast Asia,29.7805748,-95.17199707,Fishing,Fan Shop,1,0,Consumer,335.980011,30.23999977,0.159999996,Malang,Java Oriental
+0,4,2/18/2016 13:36,Standard Class,Pacific Asia,South Asia,40.11086273,-74.91168213,Fishing,Fan Shop,1,0,Consumer,331.980011,-846.5599976,0.170000002,Indore,Madhya Pradesh
+1,2,2/18/2016 12:33,Second Class,Pacific Asia,South Asia,36.78120422,-119.7815475,Fishing,Fan Shop,1,0,Consumer,327.980011,-113.1500015,0.180000007,Thanjavur,Tamil Nadu
+1,1,2/18/2016 10:27,First Class,Pacific Asia,South Asia,32.8493309,-116.6139984,Fishing,Fan Shop,1,0,Consumer,319.980011,-36.15999985,0.200000003,Coxs B?z?r,Chittagong
+1,1,2/18/2016 9:45,First Class,Pacific Asia,Oceania,42.41482544,-82.9394455,Fishing,Fan Shop,1,0,Consumer,299.9899902,15.0,0.25,Adelaide,Australia del Sur
+1,1,2/18/2016 9:45,First Class,Pacific Asia,Oceania,42.41482544,-82.9394455,Fishing,Fan Shop,1,0,Consumer,399.980011,139.9900055,0.0,Adelaide,Australia del Sur
+1,1,2/18/2016 9:24,First Class,Pacific Asia,Eastern Asia,36.91083145,-76.12958527,Fishing,Fan Shop,1,0,Consumer,395.980011,190.0700073,0.01,Tieling,Liaoning
+0,4,2/18/2016 8:42,Standard Class,Pacific Asia,South Asia,36.97071075,-120.0588531,Fishing,Fan Shop,1,0,Home Office,391.980011,192.0700073,0.02,Patna,Bihar
+1,4,2/18/2016 5:54,Standard Class,Pacific Asia,Southeast Asia,34.11592865,-117.2950821,Fishing,Fan Shop,1,0,Corporate,387.980011,121.4400024,0.029999999,Rangún,Rangún
+1,4,2/18/2016 5:54,Standard Class,Pacific Asia,Southeast Asia,34.11592865,-117.2950821,Fishing,Fan Shop,1,0,Corporate,383.980011,157.4299927,0.039999999,Rangún,Rangún
+1,4,2/18/2016 3:48,Standard Class,Pacific Asia,Eastern Asia,40.65381622,-73.94403839,Fishing,Fan Shop,1,0,Consumer,379.980011,68.40000153,0.050000001,Yancheng,Jiangsu
+1,4,2/18/2016 2:24,Standard Class,Pacific Asia,Eastern Asia,38.77838135,-90.50777435,Fishing,Fan Shop,1,0,Home Office,377.980011,181.4299927,0.059999999,Yancheng,Jiangsu
+0,4,2/18/2016 0:59,Standard Class,Pacific Asia,South Asia,18.27657318,-66.03531647,Fishing,Fan Shop,1,0,Corporate,371.980011,125.7300034,0.07,Hyderabad,Telangana
+1,1,2/17/2016 23:56,First Class,Pacific Asia,Southeast Asia,42.10625076,-84.4058075,Fishing,Fan Shop,1,0,Consumer,363.980011,105.5500031,0.090000004,Padang,Sumatra Occidental
+1,1,2/17/2016 22:53,First Class,Pacific Asia,Southeast Asia,29.51066399,-98.54441071,Fishing,Fan Shop,1,0,Home Office,359.980011,31.68000031,0.100000001,Banjarmasin,Borneo Meridional
+0,0,2/17/2016 18:41,Same Day,Pacific Asia,Southeast Asia,18.21823883,-66.37050629,Fishing,Fan Shop,1,0,Corporate,351.980011,147.8300018,0.119999997,Yakarta,Yakarta
+0,4,2/17/2016 17:59,Standard Class,Pacific Asia,South Asia,33.33686447,-111.970314,Fishing,Fan Shop,1,0,Consumer,347.980011,-539.3699951,0.129999995,Kabul,Kabul
+0,4,2/17/2016 17:59,Standard Class,Pacific Asia,South Asia,33.33686447,-111.970314,Fishing,Fan Shop,1,0,Consumer,339.980011,114.9100037,0.150000006,Kabul,Kabul
+1,4,2/17/2016 17:17,Standard Class,Pacific Asia,Southeast Asia,33.29928207,-111.8414688,Fishing,Fan Shop,1,0,Consumer,335.980011,117.5899963,0.159999996,Bangkok,Bangkok
+0,4,2/17/2016 16:56,Standard Class,Pacific Asia,Eastern Asia,18.28322411,-66.37062073,Fishing,Fan Shop,1,0,Consumer,331.980011,136.1100006,0.170000002,Leshan,Sichuan
+0,4,2/17/2016 16:56,Standard Class,Pacific Asia,Eastern Asia,18.28322411,-66.37062073,Fishing,Fan Shop,1,0,Consumer,327.980011,-393.5799866,0.180000007,Leshan,Sichuan
+0,4,2/17/2016 14:50,Standard Class,Pacific Asia,Southeast Asia,40.89221191,-73.86271668,Fishing,Fan Shop,1,0,Consumer,319.980011,111.9899979,0.200000003,Da Nang,Dà Nang
+0,4,2/17/2016 14:29,Standard Class,Pacific Asia,Oceania,32.85476685,-96.73997498,Fishing,Fan Shop,1,0,Consumer,299.9899902,78.0,0.25,Melbourne,Victoria
+1,4,2/17/2016 13:47,Standard Class,Pacific Asia,Oceania,34.0015831,-118.4321518,Fishing,Fan Shop,1,0,Consumer,399.980011,191.9900055,0.0,Sydney,Nueva Gales del Sur
+0,4,2/17/2016 13:05,Standard Class,Pacific Asia,Eastern Asia,38.30201721,-122.1991196,Fishing,Fan Shop,1,0,Consumer,395.980011,-290.25,0.01,Baotou,Mongolia Interior
+0,4,2/17/2016 9:14,Standard Class,Pacific Asia,Southeast Asia,18.29114914,-66.3706131,Fishing,Fan Shop,1,0,Corporate,391.980011,195.9900055,0.02,Bangkok,Bangkok
+1,4,2/17/2016 8:31,Standard Class,Pacific Asia,Southeast Asia,18.25616074,-66.37062073,Fishing,Fan Shop,1,0,Consumer,387.980011,-1028.150024,0.029999999,Bangkok,Bangkok
+1,4,2/17/2016 7:07,Standard Class,Pacific Asia,Eastern Asia,26.19086266,-97.69604492,Fishing,Fan Shop,1,0,Consumer,383.980011,61.43999863,0.039999999,Shenzhen,Guangdong
+0,4,2/17/2016 5:43,Standard Class,Pacific Asia,Oceania,42.34962845,-71.15328217,Fishing,Fan Shop,1,0,Consumer,379.980011,47.5,0.050000001,Adelaide,Australia del Sur
+1,1,2/17/2016 3:16,First Class,Pacific Asia,Southeast Asia,33.94185257,-84.08663178,Fishing,Fan Shop,1,0,Corporate,377.980011,-23.43000031,0.059999999,Manila,Capital Nacional
+1,1,2/17/2016 2:55,First Class,Pacific Asia,Southeast Asia,26.21472931,-80.23004913,Fishing,Fan Shop,1,0,Consumer,371.980011,88.52999878,0.07,Manila,Capital Nacional
+0,4,2/17/2016 2:34,Standard Class,Pacific Asia,Southeast Asia,41.69280624,-87.61715698,Fishing,Fan Shop,1,0,Consumer,363.980011,-151.7799988,0.090000004,Manila,Capital Nacional
+1,4,2/17/2016 1:52,Standard Class,Pacific Asia,Oceania,18.2881527,-66.37059784,Fishing,Fan Shop,1,0,Consumer,359.980011,-917.9500122,0.100000001,Caloundra,Queensland
+0,4,2/17/2016 1:10,Standard Class,Pacific Asia,Oceania,39.05631256,-77.16165924,Fishing,Fan Shop,1,0,Consumer,351.980011,172.4700012,0.119999997,Wollongong,Nueva Gales del Sur
+1,4,2/16/2016 23:46,Standard Class,Pacific Asia,Eastern Asia,34.11491013,-118.2400131,Fishing,Fan Shop,1,0,Corporate,347.980011,-556.7700195,0.129999995,Himeji,Hyogo
+1,4,2/16/2016 22:01,Standard Class,Pacific Asia,Oceania,40.64059448,-73.97518921,Fishing,Fan Shop,1,0,Corporate,339.980011,159.7899933,0.150000006,Geelong,Victoria
+0,4,2/16/2016 21:19,Standard Class,Pacific Asia,Oceania,42.39391327,-83.00836945,Fishing,Fan Shop,1,0,Consumer,335.980011,157.9100037,0.159999996,Geelong,Victoria
+0,4,2/16/2016 19:55,Standard Class,Pacific Asia,Eastern Asia,18.22757721,-66.04398346,Fishing,Fan Shop,1,0,Home Office,331.980011,112.8700027,0.170000002,Matsubara,Oita
+1,4,2/16/2016 17:07,Standard Class,Pacific Asia,Eastern Asia,18.25518417,-66.3706131,Fishing,Fan Shop,1,0,Home Office,327.980011,88.55999756,0.180000007,Jilin,Jilin
+1,1,2/16/2016 15:00,First Class,Pacific Asia,Eastern Asia,41.8144989,-87.70298767,Fishing,Fan Shop,1,0,Corporate,319.980011,102.3899994,0.200000003,Zhangzhou,Fujian
+0,4,2/16/2016 14:39,Standard Class,Pacific Asia,Eastern Asia,18.25590706,-66.37062073,Fishing,Fan Shop,1,0,Home Office,299.9899902,-119.9899979,0.25,Xiangtan,Hunan
+1,1,2/16/2016 14:18,First Class,Pacific Asia,Eastern Asia,41.98436737,-87.8228302,Fishing,Fan Shop,1,0,Corporate,399.980011,131.9900055,0.0,Xiangtan,Hunan
+1,2,2/16/2016 13:15,Second Class,Pacific Asia,Oceania,18.26157761,-66.37051392,Fishing,Fan Shop,1,0,Home Office,395.980011,64.54000092,0.01,Lismore,Nueva Gales del Sur
+1,2,2/16/2016 12:54,Second Class,Pacific Asia,Oceania,18.21547127,-66.37055206,Fishing,Fan Shop,1,0,Home Office,391.980011,192.0700073,0.02,Lismore,Nueva Gales del Sur
+1,2,2/16/2016 12:54,Second Class,Pacific Asia,Oceania,18.21547127,-66.37055206,Fishing,Fan Shop,1,0,Home Office,387.980011,131.1399994,0.029999999,Lismore,Nueva Gales del Sur
+0,4,2/16/2016 9:03,Standard Class,Pacific Asia,Southeast Asia,42.9666214,-78.74194336,Fishing,Fan Shop,1,0,Consumer,383.980011,-614.3699951,0.039999999,Manila,Capital Nacional
+1,2,2/16/2016 7:18,Second Class,Pacific Asia,Southeast Asia,30.18182945,-81.74115753,Fishing,Fan Shop,1,0,Consumer,379.980011,137.9299927,0.050000001,Yakarta,Yakarta
+1,4,2/16/2016 6:36,Standard Class,Pacific Asia,Southeast Asia,33.50452042,-82.15914154,Fishing,Fan Shop,1,0,Consumer,377.980011,-566.9699707,0.059999999,Calamba,Calabarzón
+1,4,2/16/2016 4:51,Standard Class,Pacific Asia,South Asia,33.64781952,-112.0518799,Fishing,Fan Shop,1,0,Consumer,371.980011,174.8300018,0.07,Kota,Chhattisgarh
+1,4,2/16/2016 4:30,Standard Class,Pacific Asia,South Asia,18.24955368,-66.37062836,Fishing,Fan Shop,1,0,Consumer,363.980011,59.33000183,0.090000004,Asansol,Bengala Occidental
+0,4,2/16/2016 3:27,Standard Class,Pacific Asia,Southeast Asia,18.23424149,-66.37052155,Fishing,Fan Shop,1,0,Consumer,359.980011,46.79999924,0.100000001,Surabaya,Java Oriental
+0,4,2/16/2016 2:24,Standard Class,Pacific Asia,Eastern Asia,40.1901207,-105.1010666,Fishing,Fan Shop,1,0,Consumer,351.980011,77.44000244,0.119999997,Zhengzhou,Henan
+0,4,2/16/2016 2:03,Standard Class,Pacific Asia,Eastern Asia,38.9848671,-76.98126221,Fishing,Fan Shop,1,0,Corporate,347.980011,100.9100037,0.129999995,Zhengzhou,Henan
+0,4,2/16/2016 1:42,Standard Class,Pacific Asia,South Asia,40.87030411,-73.87062073,Fishing,Fan Shop,1,0,Consumer,339.980011,-76.5,0.150000006,Coimbatore,Tamil Nadu
+0,4,2/16/2016 1:42,Standard Class,Pacific Asia,South Asia,40.87030411,-73.87062073,Fishing,Fan Shop,1,0,Consumer,335.980011,-21.17000008,0.159999996,Coimbatore,Tamil Nadu
+0,4,2/15/2016 23:57,Standard Class,Pacific Asia,Eastern Asia,35.07479858,-90.01981354,Fishing,Fan Shop,1,0,Home Office,331.980011,152.7100067,0.170000002,Mianyang,Sichuan
+1,2,2/15/2016 21:50,Second Class,Pacific Asia,Southeast Asia,18.22298622,-66.37062836,Fishing,Fan Shop,1,0,Home Office,327.980011,157.4299927,0.180000007,Padang,Sumatra Occidental
+1,1,2/15/2016 20:47,First Class,Pacific Asia,Southeast Asia,18.37145042,-66.20330811,Fishing,Fan Shop,1,0,Corporate,319.980011,96.0,0.200000003,Caloocan,Capital Nacional
+1,4,2/15/2016 20:05,Standard Class,Pacific Asia,Southeast Asia,18.20848084,-66.37054443,Fishing,Fan Shop,1,0,Consumer,299.9899902,-3.900000095,0.25,Caloocan,Capital Nacional
+1,4,2/15/2016 19:44,Standard Class,Pacific Asia,Eastern Asia,42.50378037,-90.6690979,Fishing,Fan Shop,1,0,Consumer,399.980011,0.0,0.0,Daegu,Daegu
+0,4,2/15/2016 19:23,Standard Class,Pacific Asia,Southeast Asia,26.0984993,-80.27095032,Fishing,Fan Shop,1,0,Home Office,395.980011,-316.7799988,0.01,Seremban,Negeri Sembilan
+0,4,2/15/2016 19:02,Standard Class,Pacific Asia,Southeast Asia,18.28275681,-66.37052918,Fishing,Fan Shop,1,0,Corporate,391.980011,132.4900055,0.02,Pasig,Capital Nacional
+1,4,2/15/2016 17:59,Standard Class,Pacific Asia,South Asia,33.71219254,-117.1819229,Fishing,Fan Shop,1,0,Corporate,387.980011,29.10000038,0.029999999,Patna,Bihar
+1,4,2/15/2016 14:50,Standard Class,Pacific Asia,Eastern Asia,38.77738571,-90.28092957,Fishing,Fan Shop,1,0,Home Office,383.980011,7.679999828,0.039999999,Nanning,Guangxi
+1,4,2/15/2016 11:20,Standard Class,Pacific Asia,Oceania,33.14486313,-117.1681213,Fishing,Fan Shop,1,0,Consumer,379.980011,123.4899979,0.050000001,Lismore,Nueva Gales del Sur
+0,4,2/15/2016 10:17,Standard Class,Pacific Asia,Eastern Asia,18.22406197,-66.04709625,Fishing,Fan Shop,1,0,Consumer,377.980011,-48.75999832,0.059999999,Kunming,Yunnan
+1,2,2/15/2016 6:04,Second Class,Pacific Asia,Oceania,37.29223251,-121.881279,Fishing,Fan Shop,1,0,Consumer,371.980011,178.5500031,0.07,Mildura,Victoria
+0,4,2/15/2016 1:31,Standard Class,Pacific Asia,South Asia,34.69719696,-118.0742645,Fishing,Fan Shop,1,0,Consumer,363.980011,132.1300049,0.090000004,Daca,Daca
+0,4,2/14/2016 23:25,Standard Class,Pacific Asia,Oceania,37.28808594,-121.9490814,Fishing,Fan Shop,1,0,Corporate,359.980011,165.5899963,0.100000001,Perth,Australia Occidental
+1,4,2/14/2016 23:04,Standard Class,Pacific Asia,Oceania,18.29506111,-66.37051392,Fishing,Fan Shop,1,0,Corporate,351.980011,26.39999962,0.119999997,Perth,Australia Occidental
+0,4,2/14/2016 22:22,Standard Class,Pacific Asia,Eastern Asia,42.52627564,-70.92703247,Fishing,Fan Shop,1,0,Consumer,347.980011,142.6699982,0.129999995,Dongguan,Guangdong
+1,1,2/14/2016 20:16,First Class,Pacific Asia,South Asia,18.24754334,-66.0253067,Fishing,Fan Shop,1,0,Home Office,339.980011,-226.7700043,0.150000006,Delhi,Delhi
+1,1,2/14/2016 19:34,First Class,Pacific Asia,South Asia,18.21932411,-66.37062073,Fishing,Fan Shop,1,0,Consumer,335.980011,117.5899963,0.159999996,Visakhapatnam,Andhra Pradesh
+0,4,2/14/2016 15:22,Standard Class,Pacific Asia,Eastern Asia,18.35910034,-66.07790375,Fishing,Fan Shop,1,0,Consumer,331.980011,37.50999832,0.170000002,Ulsan,Ulsan
+0,4,2/14/2016 12:54,Standard Class,Pacific Asia,Eastern Asia,18.21056938,-66.37058258,Fishing,Fan Shop,1,0,Home Office,327.980011,41.0,0.180000007,Pekín,Pekín
+0,4,2/14/2016 11:51,Standard Class,Pacific Asia,Southeast Asia,26.19762421,-98.19145203,Fishing,Fan Shop,1,0,Consumer,319.980011,153.5899963,0.200000003,Bogor,Java Occidental
+1,4,2/14/2016 10:27,Standard Class,Pacific Asia,South Asia,38.6506691,-90.1997757,Fishing,Fan Shop,1,0,Consumer,299.9899902,107.9899979,0.25,Guwahati,Assam
+0,4,2/14/2016 5:54,Standard Class,Pacific Asia,South Asia,44.07210541,-12.13232708,Fishing,Fan Shop,1,0,Corporate,399.980011,-65.19999695,0.0,Kanpur,Uttar Pradesh
+1,4,2/14/2016 5:33,Standard Class,Pacific Asia,South Asia,34.04514694,-118.2484818,Fishing,Fan Shop,1,0,Home Office,395.980011,143.7400055,0.01,Kanpur,Uttar Pradesh
+1,4,2/14/2016 5:33,Standard Class,Pacific Asia,South Asia,34.04514694,-118.2484818,Fishing,Fan Shop,1,0,Home Office,391.980011,122.6900024,0.02,Kanpur,Uttar Pradesh
+1,4,2/14/2016 5:12,Standard Class,Pacific Asia,South Asia,18.24826241,-66.37055969,Fishing,Fan Shop,1,0,Consumer,387.980011,140.8399963,0.029999999,Kanpur,Uttar Pradesh
+0,4,2/14/2016 1:21,Standard Class,Pacific Asia,Southeast Asia,18.29357147,-66.37059021,Fishing,Fan Shop,1,0,Consumer,383.980011,62.59000015,0.039999999,Hanoi,Th? Dô Hà N?i
+1,4,2/13/2016 20:48,Standard Class,Pacific Asia,Oceania,18.22994804,-66.37055969,Fishing,Fan Shop,1,0,Corporate,379.980011,-303.980011,0.050000001,Geraldton,Australia Occidental
+1,4,2/13/2016 20:27,Standard Class,Pacific Asia,South Asia,34.06108093,-118.2774735,Fishing,Fan Shop,1,0,Consumer,377.980011,71.05999756,0.059999999,Nasik,Maharashtra
+1,2,2/13/2016 18:20,Second Class,Pacific Asia,Southeast Asia,18.27434158,-66.37055969,Fishing,Fan Shop,1,0,Consumer,371.980011,104.1500015,0.07,Depok,Java Occidental
+0,4,2/13/2016 13:05,Standard Class,Pacific Asia,Eastern Asia,18.21827698,-66.37052918,Fishing,Fan Shop,1,0,Corporate,363.980011,-84.80999756,0.090000004,Jining,Shandong
+1,4,2/13/2016 12:02,Standard Class,Pacific Asia,Eastern Asia,40.62810135,-73.96759033,Fishing,Fan Shop,1,0,Consumer,359.980011,27.0,0.100000001,Jinhua,Zhejiang
+0,4,2/13/2016 11:20,Standard Class,Pacific Asia,Oceania,31.76563644,-106.4039764,Fishing,Fan Shop,1,0,Corporate,351.980011,-95.38999939,0.119999997,Adelaide,Australia del Sur
+0,4,2/13/2016 10:59,Standard Class,Pacific Asia,Oceania,18.26138115,-66.37056732,Fishing,Fan Shop,1,0,Home Office,347.980011,121.7900009,0.129999995,Adelaide,Australia del Sur
+0,2,2/13/2016 7:08,Second Class,Pacific Asia,Oceania,38.98765183,-76.98097229,Fishing,Fan Shop,1,0,Home Office,339.980011,110.4899979,0.150000006,Newcastle,Nueva Gales del Sur
+1,4,2/13/2016 2:55,Standard Class,Pacific Asia,Eastern Asia,37.33271027,-121.8783722,Fishing,Fan Shop,1,0,Consumer,335.980011,164.6300049,0.159999996,Funabashi,Chiba
+0,4,2/13/2016 2:13,Standard Class,Pacific Asia,Southeast Asia,33.71007919,-84.11247253,Fishing,Fan Shop,1,0,Corporate,331.980011,-77.34999847,0.170000002,Semarang,Java Central
+1,2,2/13/2016 1:10,Second Class,Pacific Asia,Oceania,33.21637344,-117.372818,Fishing,Fan Shop,1,0,Corporate,327.980011,-24.60000038,0.180000007,Gawler,Australia del Sur
+0,4,2/12/2016 23:04,Standard Class,Pacific Asia,Oceania,37.28808594,-121.9490814,Fishing,Fan Shop,1,0,Consumer,319.980011,111.9899979,0.200000003,Brisbane,Queensland
+0,4,2/12/2016 22:43,Standard Class,Pacific Asia,Oceania,18.20776367,-66.37052918,Fishing,Fan Shop,1,0,Home Office,299.9899902,84.0,0.25,Brisbane,Queensland
+0,4,2/12/2016 21:40,Standard Class,Pacific Asia,South Asia,35.36254501,-119.0186996,Fishing,Fan Shop,1,0,Corporate,399.980011,115.9899979,0.0,Lahore,Punyab
+0,4,2/12/2016 21:19,Standard Class,Pacific Asia,South Asia,31.84699822,-106.5490112,Fishing,Fan Shop,1,0,Home Office,395.980011,110.8700027,0.01,Korba,Chhattisgarh
+1,2,2/12/2016 19:55,Second Class,Pacific Asia,Southeast Asia,39.26515198,-76.77284241,Fishing,Fan Shop,1,0,Consumer,391.980011,7.840000153,0.02,Bangkok,Bangkok
+1,1,2/12/2016 19:13,First Class,Pacific Asia,South Asia,38.55750656,-90.2736969,Fishing,Fan Shop,1,0,Consumer,387.980011,93.12000275,0.029999999,Daca,Daca
+1,1,2/12/2016 18:31,First Class,Pacific Asia,South Asia,32.71303558,-96.69631958,Fishing,Fan Shop,1,0,Consumer,383.980011,157.4299927,0.039999999,Daca,Daca
+0,4,2/12/2016 17:28,Standard Class,Pacific Asia,South Asia,18.21136856,-66.37055969,Fishing,Fan Shop,1,0,Consumer,379.980011,34.20000076,0.050000001,Daca,Daca
+1,0,2/12/2016 13:58,Same Day,Pacific Asia,Oceania,45.54113007,-122.7773743,Fishing,Fan Shop,1,0,Consumer,377.980011,170.0899963,0.059999999,Geelong,Victoria
+0,4,2/12/2016 13:37,Standard Class,Pacific Asia,South Asia,18.25411797,-66.37049866,Fishing,Fan Shop,1,0,Home Office,371.980011,70.68000031,0.07,Parbhani,Maharashtra
+1,4,2/12/2016 12:55,Standard Class,Pacific Asia,Eastern Asia,18.26521111,-66.37055206,Fishing,Fan Shop,1,0,Consumer,363.980011,-564.1699829,0.090000004,Tianjin,Tianjin
+1,2,2/12/2016 5:33,Second Class,Pacific Asia,Eastern Asia,36.91552353,-121.3549042,Fishing,Fan Shop,1,0,Home Office,359.980011,169.1900024,0.100000001,Atsugacho,Hokkaido
+1,1,2/12/2016 3:27,First Class,Pacific Asia,South Asia,33.41001129,-111.7717972,Fishing,Fan Shop,1,0,Consumer,351.980011,105.5899963,0.119999997,Ludhiana,Punyab
+0,4,2/12/2016 2:03,Standard Class,Pacific Asia,South Asia,25.83031082,-80.27851105,Fishing,Fan Shop,1,0,Corporate,347.980011,170.5099945,0.129999995,Bokaro,Jharkhand
+1,4,2/12/2016 0:39,Standard Class,Pacific Asia,Oceania,33.40356064,-112.0214005,Fishing,Fan Shop,1,0,Consumer,339.980011,132.5899963,0.150000006,Albury,Nueva Gales del Sur
+0,2,2/11/2016 23:36,Second Class,Pacific Asia,South Asia,39.49591446,-98.98998261,Fishing,Fan Shop,1,0,Consumer,335.980011,113.5599976,0.159999996,Meerut,Uttar Pradesh
+1,2,2/11/2016 20:48,Second Class,Pacific Asia,Eastern Asia,42.93608093,-85.52552033,Fishing,Fan Shop,1,0,Consumer,331.980011,37.50999832,0.170000002,Zhaoyuan,Heilongjiang
+1,2,2/11/2016 19:45,Second Class,Pacific Asia,Southeast Asia,18.22238922,-66.3706131,Fishing,Fan Shop,1,0,Consumer,327.980011,98.40000153,0.180000007,Bangkok,Bangkok
+1,2,2/11/2016 19:03,Second Class,Pacific Asia,Eastern Asia,18.38596916,-66.0940094,Fishing,Fan Shop,1,0,Consumer,319.980011,137.5899963,0.200000003,Takamatsu,Kagawa
+0,4,2/11/2016 15:11,Standard Class,Pacific Asia,South Asia,18.23944473,-66.37050629,Fishing,Fan Shop,1,0,Consumer,299.9899902,-22.5,0.25,Mumbai,Maharashtra
+0,4,2/11/2016 13:47,Standard Class,Pacific Asia,Southeast Asia,18.25424767,-66.37056732,Fishing,Fan Shop,1,0,Corporate,399.980011,103.9899979,0.0,Baguio City,Cordillera
+0,4,2/11/2016 13:05,Standard Class,Pacific Asia,Southeast Asia,39.522995,-104.9482193,Fishing,Fan Shop,1,0,Consumer,395.980011,-692.9699707,0.01,Kuala Lumpur,Kuala Lumpur
+0,4,2/11/2016 11:41,Standard Class,Pacific Asia,South Asia,40.63061905,-73.92346191,Fishing,Fan Shop,1,0,Home Office,391.980011,101.9100037,0.02,Bhopal,Madhya Pradesh
+0,4,2/11/2016 11:41,Standard Class,Pacific Asia,South Asia,40.63061905,-73.92346191,Fishing,Fan Shop,1,0,Home Office,387.980011,43.84000015,0.029999999,Bhopal,Madhya Pradesh
+0,0,2/11/2016 10:17,Same Day,Pacific Asia,Southeast Asia,18.2037735,-66.37056732,Fishing,Fan Shop,1,0,Consumer,383.980011,38.40000153,0.039999999,Depok,Yogyakarta
+0,4,2/11/2016 4:41,Standard Class,Pacific Asia,Southeast Asia,33.98764038,-118.2705536,Fishing,Fan Shop,1,0,Consumer,379.980011,174.7899933,0.050000001,Bangkok,Bangkok
+0,4,2/11/2016 4:20,Standard Class,Pacific Asia,Southeast Asia,18.28970528,-66.3705368,Fishing,Fan Shop,1,0,Consumer,377.980011,28.35000038,0.059999999,Bangkok,Bangkok
+1,4,2/11/2016 3:38,Standard Class,Pacific Asia,Southeast Asia,18.24285507,-66.37056732,Fishing,Fan Shop,1,0,Consumer,371.980011,116.4300003,0.07,Bangkok,Bangkok
+0,4,2/11/2016 3:17,Standard Class,Pacific Asia,Southeast Asia,40.5020752,-74.40885162,Fishing,Fan Shop,1,0,Corporate,363.980011,-303.2000122,0.090000004,Bangkok,Bangkok
+1,1,2/11/2016 1:53,First Class,Pacific Asia,South Asia,18.23423767,-66.37060547,Fishing,Fan Shop,1,0,Consumer,359.980011,121.6699982,0.100000001,Delhi,Delhi
+1,4,2/11/2016 0:07,Standard Class,Pacific Asia,Southeast Asia,18.26496697,-66.37063599,Fishing,Fan Shop,1,0,Consumer,351.980011,44.0,0.119999997,Yakarta,Yakarta
+0,4,2/10/2016 23:46,Standard Class,Pacific Asia,Southeast Asia,32.64635468,-117.0613861,Fishing,Fan Shop,1,0,Corporate,347.980011,-82.8199997,0.129999995,Yakarta,Yakarta
+1,2,2/10/2016 20:37,Second Class,Pacific Asia,South Asia,34.09844971,-118.1469803,Fishing,Fan Shop,1,0,Consumer,339.980011,29.92000008,0.150000006,Puducherry,Puducherry
+0,2,2/10/2016 19:34,Second Class,Pacific Asia,South Asia,48.77095795,-122.4511185,Fishing,Fan Shop,1,0,Home Office,335.980011,164.6300049,0.159999996,Puducherry,Puducherry
+1,2,2/10/2016 19:13,Second Class,Pacific Asia,South Asia,18.28803253,-66.37057495,Fishing,Fan Shop,1,0,Consumer,331.980011,49.79999924,0.170000002,Puducherry,Puducherry
+1,0,2/10/2016 17:07,Same Day,Pacific Asia,Oceania,18.27152634,-66.37050629,Fishing,Fan Shop,1,0,Corporate,327.980011,154.1499939,0.180000007,Canberra,Territorio de la Capital Australiana
+0,4,2/10/2016 16:46,Standard Class,Pacific Asia,Oceania,18.23377228,-66.37057495,Fishing,Fan Shop,1,0,Consumer,319.980011,150.3899994,0.200000003,Canberra,Territorio de la Capital Australiana
+0,4,2/10/2016 16:46,Standard Class,Pacific Asia,Oceania,18.23377228,-66.37057495,Fishing,Fan Shop,1,0,Consumer,299.9899902,78.0,0.25,Canberra,Territorio de la Capital Australiana
+1,4,2/10/2016 15:43,Standard Class,Pacific Asia,Oceania,40.93531036,-73.8874588,Fishing,Fan Shop,1,0,Corporate,399.980011,175.9900055,0.0,Adelaide,Australia del Sur
+1,4,2/10/2016 15:43,Standard Class,Pacific Asia,Oceania,40.93531036,-73.8874588,Fishing,Fan Shop,1,0,Corporate,395.980011,-290.25,0.01,Adelaide,Australia del Sur
+0,4,2/10/2016 14:40,Standard Class,Pacific Asia,South Asia,32.71671677,-116.997261,Fishing,Fan Shop,1,0,Consumer,391.980011,127.3899994,0.02,Mangalore,Karnataka
+0,4,2/10/2016 11:31,Standard Class,Pacific Asia,Oceania,18.2953701,-66.3706131,Fishing,Fan Shop,1,0,Consumer,387.980011,14.73999977,0.029999999,Brisbane,Queensland
+1,2,2/10/2016 10:28,Second Class,Pacific Asia,South Asia,32.19884491,-111.0877686,Fishing,Fan Shop,1,0,Home Office,383.980011,115.1900024,0.039999999,Multan,Punyab
+1,2,2/10/2016 6:57,Second Class,Pacific Asia,Oceania,39.32117081,-76.61475372,Fishing,Fan Shop,1,0,Consumer,379.980011,64.59999847,0.050000001,Perth,Australia Occidental
+1,2,2/10/2016 6:15,Second Class,Pacific Asia,South Asia,18.26879501,-66.37055206,Fishing,Fan Shop,1,0,Corporate,377.980011,47.25,0.059999999,Srinagar,Jammu y Cachemira
+0,4,2/10/2016 4:09,Standard Class,Pacific Asia,Oceania,18.26225281,-66.37060547,Fishing,Fan Shop,1,0,Consumer,371.980011,135.0299988,0.07,Wollongong,Nueva Gales del Sur
+0,4,2/9/2016 23:15,Standard Class,Pacific Asia,South Asia,40.20738983,-74.79347992,Fishing,Fan Shop,1,0,Consumer,363.980011,118.2900009,0.090000004,Hyderabad,Telangana
+1,1,2/9/2016 22:12,First Class,Pacific Asia,Eastern Asia,38.00925446,-122.1187134,Fishing,Fan Shop,1,0,Consumer,359.980011,93.59999847,0.100000001,Kawagoe,Saitama
+0,2,2/9/2016 20:48,Second Class,Pacific Asia,Southeast Asia,37.43395615,-121.8810654,Fishing,Fan Shop,1,0,Consumer,351.980011,70.40000153,0.119999997,Manila,Capital Nacional
+1,1,2/9/2016 19:45,First Class,Pacific Asia,Eastern Asia,18.23420334,-66.37060547,Fishing,Fan Shop,1,0,Corporate,347.980011,-260.9899902,0.129999995,Heze,Shandong
+1,1,2/9/2016 19:24,First Class,Pacific Asia,Eastern Asia,38.79064941,-90.61938477,Fishing,Fan Shop,1,0,Consumer,339.980011,4.079999924,0.150000006,Donghai,Guangdong
+1,1,2/9/2016 19:24,First Class,Pacific Asia,Eastern Asia,38.79064941,-90.61938477,Fishing,Fan Shop,1,0,Consumer,335.980011,25.20000076,0.159999996,Donghai,Guangdong
+1,4,2/9/2016 18:42,Standard Class,Pacific Asia,South Asia,37.43395615,-121.8810654,Fishing,Fan Shop,1,0,Corporate,331.980011,124.4899979,0.170000002,Daca,Daca
+0,4,2/9/2016 17:39,Standard Class,Pacific Asia,Oceania,40.62195587,-111.9332733,Fishing,Fan Shop,1,0,Home Office,327.980011,119.0599976,0.180000007,Melbourne,Victoria
+0,4,2/9/2016 17:39,Standard Class,Pacific Asia,Oceania,40.62195587,-111.9332733,Fishing,Fan Shop,1,0,Home Office,319.980011,108.1500015,0.200000003,Melbourne,Victoria
+0,2,2/9/2016 15:33,Second Class,Pacific Asia,Eastern Asia,41.90405655,-87.63127899,Fishing,Fan Shop,1,0,Consumer,299.9899902,99.0,0.25,Fuji,Shizuoka
+1,4,2/9/2016 15:12,Standard Class,Pacific Asia,Eastern Asia,18.22066879,-66.37062836,Fishing,Fan Shop,1,0,Corporate,399.980011,90.0,0.0,Fuji,Shizuoka
+0,4,2/9/2016 14:29,Standard Class,Pacific Asia,Oceania,34.80184555,-81.09809113,Fishing,Fan Shop,1,0,Consumer,395.980011,74.44000244,0.01,Caloundra,Queensland
+0,4,2/9/2016 14:08,Standard Class,Pacific Asia,Oceania,42.32353973,-83.17635346,Fishing,Fan Shop,1,0,Consumer,391.980011,-156.7899933,0.02,Melbourne,Victoria
+1,1,2/9/2016 13:05,First Class,Pacific Asia,Oceania,18.26751518,-66.37056732,Fishing,Fan Shop,1,0,Consumer,387.980011,97.0,0.029999999,Geelong,Victoria
+1,2,2/9/2016 12:23,Second Class,Pacific Asia,Oceania,33.76404572,-84.25080872,Fishing,Fan Shop,1,0,Corporate,383.980011,48.0,0.039999999,Geraldton,Australia Occidental
+0,1,2/9/2016 12:02,First Class,Pacific Asia,Oceania,26.20306206,-98.30255127,Fishing,Fan Shop,1,0,Corporate,379.980011,182.3899994,0.050000001,Geraldton,Australia Occidental
+1,4,2/9/2016 8:11,Standard Class,Pacific Asia,Eastern Asia,34.0700798,-117.9371948,Fishing,Fan Shop,1,0,Corporate,377.980011,181.4299927,0.059999999,Shantou,Guangdong
+0,4,2/9/2016 7:08,Standard Class,Pacific Asia,Eastern Asia,18.24751854,-66.02529907,Fishing,Fan Shop,1,0,Corporate,371.980011,122.75,0.07,Guangzhou,Guangdong
+1,4,2/9/2016 6:26,Standard Class,Pacific Asia,Southeast Asia,33.03203583,-96.84355927,Fishing,Fan Shop,1,0,Consumer,363.980011,105.5500031,0.090000004,Shah Alam,Selangor
+0,4,2/9/2016 5:02,Standard Class,Pacific Asia,Southeast Asia,18.20661926,-66.37062836,Fishing,Fan Shop,1,0,Consumer,359.980011,176.3899994,0.100000001,Semarang,Java Central
+1,4,2/9/2016 4:20,Standard Class,Pacific Asia,Oceania,18.26732063,-66.37062073,Fishing,Fan Shop,1,0,Consumer,351.980011,123.1900024,0.119999997,Brisbane,Queensland
+0,4,2/9/2016 3:59,Standard Class,Pacific Asia,Oceania,18.27624703,-66.37054443,Fishing,Fan Shop,1,0,Consumer,347.980011,160.0700073,0.129999995,Brisbane,Queensland
+1,1,2/9/2016 2:56,First Class,Pacific Asia,Eastern Asia,18.23419571,-66.37050629,Fishing,Fan Shop,1,0,Corporate,339.980011,-237.9900055,0.150000006,Suihua,Heilongjiang
+0,4,2/9/2016 1:53,Standard Class,Pacific Asia,Oceania,40.06034088,-82.40966034,Fishing,Fan Shop,1,0,Consumer,335.980011,161.2700043,0.159999996,Adelaide,Australia del Sur
+1,4,2/9/2016 0:50,Standard Class,Pacific Asia,Oceania,37.57866669,-77.53809357,Fishing,Fan Shop,1,0,Corporate,331.980011,116.1900024,0.170000002,Adelaide,Australia del Sur
+0,4,2/8/2016 23:47,Standard Class,Pacific Asia,Eastern Asia,41.52939987,-88.13760376,Fishing,Fan Shop,1,0,Home Office,327.980011,157.4299927,0.180000007,Nanning,Guangxi
+1,2,2/8/2016 23:26,Second Class,Pacific Asia,Eastern Asia,18.27125931,-66.37062836,Fishing,Fan Shop,1,0,Corporate,319.980011,-559.9699707,0.200000003,Nanning,Guangxi
+0,2,2/8/2016 22:02,Second Class,Pacific Asia,Southeast Asia,28.03085518,-82.50086212,Fishing,Fan Shop,1,0,Consumer,299.9899902,-60.0,0.25,Depok,Yogyakarta
+0,2,2/8/2016 22:02,Second Class,Pacific Asia,Southeast Asia,28.03085518,-82.50086212,Fishing,Fan Shop,1,0,Consumer,399.980011,100.0,0.0,Depok,Yogyakarta
+0,2,2/8/2016 22:02,Second Class,Pacific Asia,Southeast Asia,28.03085518,-82.50086212,Fishing,Fan Shop,1,0,Consumer,395.980011,34.84999847,0.01,Depok,Yogyakarta
+1,1,2/8/2016 21:19,First Class,Pacific Asia,Southeast Asia,29.50280953,-98.5945282,Fishing,Fan Shop,1,0,Consumer,391.980011,160.7100067,0.02,Surabaya,Java Oriental
+0,2,2/8/2016 20:16,Second Class,Pacific Asia,Eastern Asia,40.77746964,-74.03488159,Fishing,Fan Shop,1,0,Home Office,387.980011,-48.5,0.029999999,Xi'an,Shaanxi
+1,2,2/8/2016 19:55,Second Class,Pacific Asia,Eastern Asia,18.21446228,-66.37050629,Fishing,Fan Shop,1,0,Consumer,383.980011,138.2299957,0.039999999,Xi'an,Shaanxi
+1,4,2/8/2016 17:49,Standard Class,Pacific Asia,Eastern Asia,39.49591446,-98.98998261,Fishing,Fan Shop,1,0,Consumer,379.980011,186.1900024,0.050000001,Ningbo,Zhejiang
+1,4,2/8/2016 16:04,Standard Class,Pacific Asia,Eastern Asia,18.21328545,-66.37062073,Fishing,Fan Shop,1,0,Home Office,377.980011,113.3899994,0.059999999,Ningbo,Zhejiang
+0,4,2/8/2016 13:16,Standard Class,Pacific Asia,South Asia,18.22428322,-66.37058258,Fishing,Fan Shop,1,0,Consumer,371.980011,-74.40000153,0.07,Puducherry,Puducherry
+1,1,2/8/2016 12:13,First Class,Pacific Asia,Oceania,39.49591446,-98.98998261,Fishing,Fan Shop,1,0,Corporate,363.980011,81.90000153,0.090000004,Adelaide,Australia del Sur
+0,1,2/8/2016 11:31,First Class,Pacific Asia,Southeast Asia,26.15128136,-80.21017456,Fishing,Fan Shop,1,0,Consumer,359.980011,176.3899994,0.100000001,Medan,Sumatra Septentrional
+0,0,2/8/2016 8:01,Same Day,Pacific Asia,Oceania,33.73786926,-118.2846069,Fishing,Fan Shop,1,0,Corporate,351.980011,172.4700012,0.119999997,Melton,Victoria
+0,4,2/8/2016 6:58,Standard Class,Pacific Asia,Oceania,37.18563843,-93.30171204,Fishing,Fan Shop,1,0,Consumer,347.980011,-45.93000031,0.129999995,Wodonga,Victoria
+1,4,2/8/2016 2:24,Standard Class,Pacific Asia,Eastern Asia,26.0984993,-80.27095032,Fishing,Fan Shop,1,0,Consumer,339.980011,91.80000305,0.150000006,Kita-ku,Osaka
+0,4,2/8/2016 1:21,Standard Class,Pacific Asia,Southeast Asia,33.6526413,-117.9956131,Fishing,Fan Shop,1,0,Consumer,335.980011,97.44000244,0.159999996,Rangún,Rangún
+0,4,2/8/2016 1:21,Standard Class,Pacific Asia,Southeast Asia,33.6526413,-117.9956131,Fishing,Fan Shop,1,0,Consumer,331.980011,73.04000092,0.170000002,Rangún,Rangún
+1,4,2/7/2016 22:33,Standard Class,Pacific Asia,Southeast Asia,36.1470108,-115.1550598,Fishing,Fan Shop,1,0,Consumer,327.980011,101.6699982,0.180000007,Calamba,Calabarzón
+0,4,2/7/2016 21:30,Standard Class,Pacific Asia,Oceania,18.21523285,-66.37060547,Fishing,Fan Shop,1,0,Consumer,319.980011,143.9900055,0.200000003,Queanbeyan,Nueva Gales del Sur
+1,4,2/7/2016 19:24,Standard Class,Pacific Asia,Oceania,26.140728,-97.66805267,Fishing,Fan Shop,1,0,Home Office,299.9899902,93.90000153,0.25,Murray Bridge,Australia del Sur
+1,4,2/7/2016 19:03,Standard Class,Pacific Asia,Oceania,40.63687897,-73.94221497,Fishing,Fan Shop,1,0,Corporate,399.980011,95.19999695,0.0,Murray Bridge,Australia del Sur
+1,2,2/7/2016 17:18,Second Class,Pacific Asia,Eastern Asia,18.25048065,-66.37051392,Fishing,Fan Shop,1,0,Consumer,395.980011,114.8300018,0.01,Changshu,Jiangsu
+0,4,2/7/2016 16:15,Standard Class,Pacific Asia,Oceania,18.23755646,-66.37056732,Fishing,Fan Shop,1,0,Consumer,391.980011,-587.9699707,0.02,Melbourne,Victoria
+1,1,2/7/2016 13:06,First Class,Pacific Asia,South Asia,18.27692032,-66.37052155,Fishing,Fan Shop,1,0,Home Office,387.980011,24.44000053,0.029999999,Mumbai,Maharashtra
+1,2,2/7/2016 12:24,Second Class,Pacific Asia,Oceania,40.74718475,-73.87696838,Fishing,Fan Shop,1,0,Consumer,383.980011,139.3899994,0.039999999,Sydney,Nueva Gales del Sur
+1,4,2/7/2016 12:03,Standard Class,Pacific Asia,Eastern Asia,18.21648407,-66.37057495,Fishing,Fan Shop,1,0,Consumer,379.980011,7.599999905,0.050000001,Kunming,Yunnan
+0,2,2/7/2016 9:14,Second Class,Pacific Asia,Southeast Asia,38.80664825,-90.70192719,Fishing,Fan Shop,1,0,Consumer,377.980011,185.2100067,0.059999999,Yakarta,Yakarta
+1,4,2/7/2016 8:53,Standard Class,Pacific Asia,Southeast Asia,41.51544571,-87.64269257,Fishing,Fan Shop,1,0,Corporate,371.980011,100.4300003,0.07,Yakarta,Yakarta
+1,4,2/7/2016 8:53,Standard Class,Pacific Asia,Southeast Asia,41.51544571,-87.64269257,Fishing,Fan Shop,1,0,Corporate,363.980011,84.80999756,0.090000004,Yakarta,Yakarta
+1,4,2/7/2016 8:53,Standard Class,Pacific Asia,Southeast Asia,41.51544571,-87.64269257,Fishing,Fan Shop,1,0,Corporate,359.980011,-13.68000031,0.100000001,Yakarta,Yakarta
+0,4,2/7/2016 6:26,Standard Class,Pacific Asia,South Asia,18.27949333,-66.37052918,Fishing,Fan Shop,1,0,Consumer,351.980011,123.1900024,0.119999997,Sonipat,Haryana
+0,4,2/7/2016 4:41,Standard Class,Pacific Asia,South Asia,18.28431702,-66.3705368,Fishing,Fan Shop,1,0,Home Office,347.980011,39.3199997,0.129999995,Mangalore,Karnataka
+0,4,2/7/2016 4:20,Standard Class,Pacific Asia,South Asia,32.95650864,-117.0242767,Fishing,Fan Shop,1,0,Corporate,339.980011,-560.9699707,0.150000006,Mangalore,Karnataka
+1,4,2/7/2016 3:17,Standard Class,Pacific Asia,South Asia,40.67343903,-73.87017822,Fishing,Fan Shop,1,0,Corporate,335.980011,164.6300049,0.159999996,Chennai,Tamil Nadu
+0,4,2/7/2016 2:56,Standard Class,Pacific Asia,South Asia,38.45304108,-90.30644989,Fishing,Fan Shop,1,0,Home Office,331.980011,89.63999939,0.170000002,Allahabad,Uttar Pradesh
+1,4,2/7/2016 1:53,Standard Class,Pacific Asia,Southeast Asia,18.28159714,-66.37059784,Fishing,Fan Shop,1,0,Consumer,327.980011,91.83999634,0.180000007,Kediri,Java Oriental
+0,4,2/7/2016 1:11,Standard Class,Pacific Asia,Eastern Asia,34.00062561,-117.9077301,Fishing,Fan Shop,1,0,Home Office,319.980011,-234.5500031,0.200000003,Pekín,Pekín
+0,4,2/7/2016 0:29,Standard Class,Pacific Asia,Eastern Asia,33.58246994,-111.9261093,Fishing,Fan Shop,1,0,Consumer,299.9899902,82.5,0.25,Pekín,Pekín
+0,4,2/6/2016 22:44,Standard Class,Pacific Asia,Eastern Asia,29.62356949,-95.60272217,Fishing,Fan Shop,1,0,Home Office,399.980011,195.9900055,0.0,Pekín,Pekín
+0,4,2/6/2016 22:44,Standard Class,Pacific Asia,Eastern Asia,29.62356949,-95.60272217,Fishing,Fan Shop,1,0,Home Office,395.980011,102.9499969,0.01,Pekín,Pekín
+0,4,2/6/2016 22:44,Standard Class,Pacific Asia,Eastern Asia,29.62356949,-95.60272217,Fishing,Fan Shop,1,0,Home Office,391.980011,65.45999908,0.02,Pekín,Pekín
+0,1,2/6/2016 22:23,First Class,Pacific Asia,Eastern Asia,18.22367477,-66.37052155,Fishing,Fan Shop,1,0,Corporate,387.980011,43.84000015,0.029999999,Pekín,Pekín
+0,4,2/6/2016 19:35,Standard Class,Pacific Asia,Oceania,28.69241142,-81.18167877,Fishing,Fan Shop,1,0,Consumer,383.980011,126.7099991,0.039999999,Wollongong,Nueva Gales del Sur
+1,4,2/6/2016 18:31,Standard Class,Pacific Asia,Oceania,41.49111939,-81.73163605,Fishing,Fan Shop,1,0,Consumer,379.980011,132.9900055,0.050000001,Melbourne,Victoria
+0,4,2/6/2016 18:10,Standard Class,Pacific Asia,South Asia,18.28088188,-66.37059021,Fishing,Fan Shop,1,0,Corporate,377.980011,68.04000092,0.059999999,Bhubaneswar,Odisha
+1,4,2/6/2016 17:07,Standard Class,Pacific Asia,Oceania,18.22368622,-66.37057495,Fishing,Fan Shop,1,0,Corporate,371.980011,74.40000153,0.07,Brisbane,Queensland
+1,4,2/6/2016 17:07,Standard Class,Pacific Asia,Oceania,18.22368622,-66.37057495,Fishing,Fan Shop,1,0,Corporate,363.980011,178.3500061,0.090000004,Brisbane,Queensland
+0,4,2/6/2016 16:04,Standard Class,Pacific Asia,Eastern Asia,18.35900497,-66.07785797,Fishing,Fan Shop,1,0,Consumer,359.980011,45.0,0.100000001,Zhuhai,Guangdong
+1,1,2/6/2016 12:55,First Class,Pacific Asia,Southeast Asia,32.86539459,-96.86858368,Fishing,Fan Shop,1,0,Home Office,351.980011,112.6299973,0.119999997,Depok,Java Occidental
+1,1,2/6/2016 12:34,First Class,Pacific Asia,Southeast Asia,32.71469498,-117.003624,Fishing,Fan Shop,1,0,Home Office,347.980011,-556.7700195,0.129999995,Depok,Java Occidental
+0,4,2/6/2016 9:25,Standard Class,Pacific Asia,Southeast Asia,37.18563843,-93.30171204,Fishing,Fan Shop,1,0,Consumer,339.980011,-29.92000008,0.150000006,Bogor,Java Occidental
+0,4,2/6/2016 5:55,Standard Class,Pacific Asia,Southeast Asia,29.71730995,-95.67306519,Fishing,Fan Shop,1,0,Consumer,335.980011,154.5500031,0.159999996,Bandung,Java Occidental
+1,4,2/6/2016 4:31,Standard Class,Pacific Asia,Southeast Asia,32.57044601,-117.084259,Fishing,Fan Shop,1,0,Consumer,331.980011,112.2099991,0.170000002,Yakarta,Yakarta
+0,4,2/5/2016 23:57,Standard Class,Pacific Asia,Southeast Asia,18.29413223,-66.37060547,Fishing,Fan Shop,1,0,Corporate,327.980011,154.1499939,0.180000007,Caloocan,Capital Nacional
+1,4,2/5/2016 20:06,Standard Class,Pacific Asia,South Asia,18.27668572,-66.37055969,Fishing,Fan Shop,1,0,Home Office,319.980011,-64.0,0.200000003,Daca,Daca
+0,4,2/5/2016 19:03,Standard Class,Pacific Asia,Eastern Asia,34.01161575,-117.7281189,Fishing,Fan Shop,1,0,Corporate,299.9899902,22.5,0.25,Neijiang,Sichuan
+0,2,2/5/2016 18:42,Second Class,Pacific Asia,Oceania,18.21898079,-66.37054443,Fishing,Fan Shop,1,0,Home Office,399.980011,115.9899979,0.0,Adelaide,Australia del Sur
+1,1,2/5/2016 18:00,First Class,Pacific Asia,South Asia,40.77758408,-74.2411499,Fishing,Fan Shop,1,0,Corporate,395.980011,-99.0,0.01,Vijayawada,Andhra Pradesh
+0,4,2/5/2016 17:18,Standard Class,Pacific Asia,South Asia,18.28859901,-66.37059021,Fishing,Fan Shop,1,0,Home Office,391.980011,14.89999962,0.02,Puducherry,Puducherry
+1,4,2/5/2016 16:36,Standard Class,Pacific Asia,South Asia,34.12594605,-118.2910156,Fishing,Fan Shop,1,0,Consumer,387.980011,174.5899963,0.029999999,Puducherry,Puducherry
+0,4,2/5/2016 15:33,Standard Class,Pacific Asia,Oceania,40.58182907,-73.95973206,Fishing,Fan Shop,1,0,Home Office,383.980011,-281.4599915,0.039999999,Melbourne,Victoria
+0,4,2/5/2016 15:12,Standard Class,Pacific Asia,Oceania,41.49992752,-90.51541138,Fishing,Fan Shop,1,0,Consumer,379.980011,144.3899994,0.050000001,Armidale,Nueva Gales del Sur
+1,4,2/5/2016 14:30,Standard Class,Pacific Asia,Oceania,42.39807892,-83.20157623,Fishing,Fan Shop,1,0,Consumer,377.980011,113.3899994,0.059999999,Armidale,Nueva Gales del Sur
+1,4,2/5/2016 13:06,Standard Class,Pacific Asia,Oceania,36.30838013,-86.62832642,Fishing,Fan Shop,1,0,Consumer,371.980011,104.1500015,0.07,Perth,Australia Occidental
+0,4,2/5/2016 11:42,Standard Class,Pacific Asia,South Asia,33.14486313,-117.1681213,Fishing,Fan Shop,1,0,Corporate,363.980011,123.75,0.090000004,Daca,Daca
+1,4,2/5/2016 11:21,Standard Class,Pacific Asia,Southeast Asia,40.78577042,-73.97601318,Fishing,Fan Shop,1,0,Corporate,359.980011,-129.5899963,0.100000001,Yakarta,Yakarta
+1,1,2/5/2016 10:18,First Class,Pacific Asia,South Asia,18.23348427,-66.37059784,Fishing,Fan Shop,1,0,Consumer,351.980011,123.1900024,0.119999997,Agra,Uttar Pradesh
+0,4,2/5/2016 8:11,Standard Class,Pacific Asia,South Asia,33.94258881,-117.4573898,Fishing,Fan Shop,1,0,Corporate,347.980011,-21.92000008,0.129999995,Durgapur,Bengala Occidental
+1,4,2/5/2016 7:50,Standard Class,Pacific Asia,Southeast Asia,18.23482704,-66.37057495,Fishing,Fan Shop,1,0,Consumer,339.980011,-27.20000076,0.150000006,Samarinda,Kalimantan Oriental
+1,4,2/5/2016 7:50,Standard Class,Pacific Asia,Southeast Asia,18.23482704,-66.37057495,Fishing,Fan Shop,1,0,Consumer,335.980011,105.1600037,0.159999996,Samarinda,Kalimantan Oriental
+1,4,2/5/2016 2:35,Standard Class,Pacific Asia,Southeast Asia,40.70845795,-74.25527954,Fishing,Fan Shop,1,0,Home Office,331.980011,49.79999924,0.170000002,Manila,Capital Nacional
+1,1,2/4/2016 21:41,First Class,Pacific Asia,Southeast Asia,18.23157501,-66.37052918,Fishing,Fan Shop,1,0,Consumer,327.980011,160.7100067,0.180000007,Can Tho,T?nh C?n Th?
+1,4,2/4/2016 19:35,Standard Class,Pacific Asia,Eastern Asia,28.57764053,-81.44708252,Fishing,Fan Shop,1,0,Corporate,319.980011,32.0,0.200000003,Shanghái,Shanghái
+0,4,2/4/2016 17:08,Standard Class,Pacific Asia,Eastern Asia,18.23033333,-66.37058258,Fishing,Fan Shop,1,0,Corporate,299.9899902,33.90000153,0.25,Ulsan,Ulsan
+1,4,2/4/2016 16:05,Standard Class,Pacific Asia,Southeast Asia,18.2275734,-66.04371643,Fishing,Fan Shop,1,0,Corporate,399.980011,48.0,0.0,Shah Alam,Selangor
+0,4,2/4/2016 14:40,Standard Class,Pacific Asia,Eastern Asia,18.21183395,-66.3705368,Fishing,Fan Shop,1,0,Home Office,395.980011,-5.150000095,0.01,Shantou,Guangdong
+1,4,2/4/2016 13:58,Standard Class,Pacific Asia,Oceania,41.42009354,-87.36070252,Fishing,Fan Shop,1,0,Consumer,391.980011,192.0700073,0.02,Brisbane,Queensland
+0,4,2/4/2016 13:37,Standard Class,Pacific Asia,Oceania,34.03212357,-84.51288605,Fishing,Fan Shop,1,0,Consumer,387.980011,182.3500061,0.029999999,Brisbane,Queensland
+1,0,2/4/2016 12:55,Same Day,Pacific Asia,Eastern Asia,47.67869949,-122.3217621,Fishing,Fan Shop,1,0,Consumer,383.980011,111.3499985,0.039999999,Hefei,Anhui
+1,0,2/4/2016 12:34,Same Day,Pacific Asia,Eastern Asia,18.29263496,-66.3706131,Fishing,Fan Shop,1,0,Consumer,379.980011,174.7899933,0.050000001,Hefei,Anhui
+0,0,2/4/2016 11:52,Same Day,Pacific Asia,South Asia,18.23627472,-66.37049866,Fishing,Fan Shop,1,0,Consumer,377.980011,173.8699951,0.059999999,Akola,Maharashtra
+1,4,2/4/2016 10:49,Standard Class,Pacific Asia,Southeast Asia,18.2238369,-66.37052918,Fishing,Fan Shop,1,0,Corporate,371.980011,119.0299988,0.07,Bandung,Java Occidental
+0,4,2/4/2016 10:07,Standard Class,Pacific Asia,Southeast Asia,18.28138351,-66.37062836,Fishing,Fan Shop,1,0,Corporate,363.980011,113.9300003,0.090000004,Tasikmalaya,Java Occidental
+0,4,2/4/2016 9:46,Standard Class,Pacific Asia,Eastern Asia,18.27009583,-66.37052918,Fishing,Fan Shop,1,0,Consumer,359.980011,169.1900024,0.100000001,Daegu,Daegu
+0,4,2/4/2016 9:46,Standard Class,Pacific Asia,Eastern Asia,18.27009583,-66.37052918,Fishing,Fan Shop,1,0,Consumer,351.980011,15.48999977,0.119999997,Daegu,Daegu
+1,2,2/4/2016 6:37,Second Class,Pacific Asia,South Asia,18.3590126,-66.07813263,Fishing,Fan Shop,1,0,Consumer,347.980011,-69.59999847,0.129999995,Solapur,Maharashtra
+1,2,2/4/2016 6:37,Second Class,Pacific Asia,South Asia,18.3590126,-66.07813263,Fishing,Fan Shop,1,0,Consumer,339.980011,-68.0,0.150000006,Solapur,Maharashtra
+1,2,2/4/2016 3:07,Second Class,Pacific Asia,Southeast Asia,18.27938461,-66.37050629,Fishing,Fan Shop,1,0,Consumer,335.980011,113.5599976,0.159999996,Taiping,Perak
+0,1,2/3/2016 23:58,First Class,Pacific Asia,Oceania,18.29927445,-66.37062836,Fishing,Fan Shop,1,0,Home Office,331.980011,-265.5899963,0.170000002,Wollongong,Nueva Gales del Sur
+0,4,2/3/2016 23:16,Standard Class,Pacific Asia,Eastern Asia,18.2294445,-66.37059021,Fishing,Fan Shop,1,0,Consumer,327.980011,154.1499939,0.180000007,Seúl,Seúl
+1,1,2/3/2016 21:51,First Class,Pacific Asia,Eastern Asia,18.2315464,-66.37062073,Fishing,Fan Shop,1,0,Consumer,319.980011,-36.47999954,0.200000003,Huizhou,Guangdong
+0,4,2/3/2016 21:09,Standard Class,Pacific Asia,Eastern Asia,41.6971283,-87.67146301,Fishing,Fan Shop,1,0,Consumer,299.9899902,72.0,0.25,Huizhou,Guangdong
+1,1,2/3/2016 18:42,First Class,Pacific Asia,Eastern Asia,18.2809372,-66.3706131,Fishing,Fan Shop,1,0,Corporate,399.980011,179.9900055,0.0,Chengdu,Sichuan
+1,1,2/3/2016 14:51,First Class,Pacific Asia,Southeast Asia,18.2454567,-66.3705368,Fishing,Fan Shop,1,0,Corporate,395.980011,44.75,0.01,Valenzuela,Capital Nacional
+1,1,2/3/2016 14:30,First Class,Pacific Asia,Southeast Asia,18.2275734,-66.04563141,Fishing,Fan Shop,1,0,Home Office,391.980011,44.29000092,0.02,Depok,Yogyakarta
+1,1,2/3/2016 14:30,First Class,Pacific Asia,Southeast Asia,18.2275734,-66.04563141,Fishing,Fan Shop,1,0,Home Office,387.980011,42.68000031,0.029999999,Depok,Yogyakarta
+1,1,2/3/2016 14:09,First Class,Pacific Asia,South Asia,18.22578621,-66.37057495,Fishing,Fan Shop,1,0,Consumer,383.980011,134.3899994,0.039999999,Hyderabad,Sind
+1,2,2/3/2016 13:48,Second Class,Pacific Asia,Eastern Asia,32.95038223,-96.65195465,Fishing,Fan Shop,1,0,Consumer,379.980011,60.79999924,0.050000001,Fuzhou,Fujian
+0,4,2/3/2016 12:45,Standard Class,Pacific Asia,Oceania,18.02541924,-66.6129303,Fishing,Fan Shop,1,0,Consumer,377.980011,173.8699951,0.059999999,Bunbury,Australia Occidental
+1,4,2/3/2016 12:03,Standard Class,Pacific Asia,South Asia,33.97929382,-118.289093,Fishing,Fan Shop,1,0,Corporate,371.980011,125.7300034,0.07,Srinagar,Jammu y Cachemira
+1,4,2/3/2016 8:12,Standard Class,Pacific Asia,South Asia,34.26102829,-118.4290619,Fishing,Fan Shop,1,0,Consumer,363.980011,-303.2000122,0.090000004,Delhi,Delhi
+0,4,2/3/2016 4:20,Standard Class,Pacific Asia,South Asia,40.65987396,-112.0028687,Fishing,Fan Shop,1,0,Corporate,359.980011,14.39999962,0.100000001,Kabul,Kabul
+1,4,2/3/2016 1:32,Standard Class,Pacific Asia,South Asia,18.22931671,-66.37057495,Fishing,Fan Shop,1,0,Consumer,351.980011,110.1699982,0.119999997,Delhi,Delhi
+0,4,2/2/2016 21:20,Standard Class,Pacific Asia,Eastern Asia,37.26665497,-121.9148026,Fishing,Fan Shop,1,0,Corporate,347.980011,43.5,0.129999995,Hailin,Heilongjiang
+0,4,2/2/2016 20:59,Standard Class,Pacific Asia,Eastern Asia,41.88359833,-88.10980988,Fishing,Fan Shop,1,0,Home Office,339.980011,-76.5,0.150000006,Hailin,Heilongjiang
+1,1,2/2/2016 19:14,First Class,Pacific Asia,Eastern Asia,18.2519207,-66.37054443,Fishing,Fan Shop,1,0,Consumer,335.980011,33.59999847,0.159999996,Chifeng,Mongolia Interior
+0,4,2/2/2016 16:05,Standard Class,Pacific Asia,Southeast Asia,41.8955307,-87.71033478,Fishing,Fan Shop,1,0,Consumer,331.980011,-254.6300049,0.170000002,Manila,Capital Nacional
+1,2,2/2/2016 14:41,Second Class,Pacific Asia,South Asia,40.64571381,-73.8972168,Fishing,Fan Shop,1,0,Consumer,327.980011,58.38000107,0.180000007,Pune,Maharashtra
+1,2,2/2/2016 13:59,Second Class,Pacific Asia,Oceania,33.90568161,-118.1602554,Fishing,Fan Shop,1,0,Corporate,319.980011,68.16000366,0.200000003,Mackay,Queensland
+1,1,2/2/2016 9:46,First Class,Pacific Asia,Oceania,40.67892075,-73.92014313,Fishing,Fan Shop,1,0,Consumer,299.9899902,143.9900055,0.25,Port Macquarie,Nueva Gales del Sur
+0,4,2/2/2016 8:43,Standard Class,Pacific Asia,Southeast Asia,39.3718605,-84.41239929,Fishing,Fan Shop,1,0,Consumer,399.980011,50.0,0.0,Bacolod City,Visayas Occidental
+0,4,2/2/2016 8:43,Standard Class,Pacific Asia,Southeast Asia,39.3718605,-84.41239929,Fishing,Fan Shop,1,0,Consumer,395.980011,24.95000076,0.01,Bacolod City,Visayas Occidental
+1,1,2/2/2016 6:58,First Class,Pacific Asia,Southeast Asia,18.25243187,-66.37056732,Fishing,Fan Shop,1,0,Home Office,391.980011,133.2700043,0.02,Ho Chi Minh City,Ciudad Ho Chi Minh
+0,4,2/2/2016 4:52,Standard Class,Pacific Asia,Oceania,41.69840622,-87.73734283,Fishing,Fan Shop,1,0,Consumer,387.980011,182.3500061,0.029999999,Broken Hill,Nueva Gales del Sur
+1,2,2/2/2016 3:49,Second Class,Pacific Asia,Oceania,41.24243164,-75.8779068,Fishing,Fan Shop,1,0,Consumer,383.980011,80.63999939,0.039999999,Newcastle,Nueva Gales del Sur
+1,2,2/1/2016 23:58,Second Class,Pacific Asia,Southeast Asia,18.25864983,-66.37059784,Fishing,Fan Shop,1,0,Corporate,379.980011,102.5899963,0.050000001,Nom Pen,Nom Pen
+1,2,2/1/2016 23:58,Second Class,Pacific Asia,Southeast Asia,18.25864983,-66.37059784,Fishing,Fan Shop,1,0,Corporate,377.980011,170.0899963,0.059999999,Nom Pen,Nom Pen
+1,4,2/1/2016 21:31,Standard Class,Pacific Asia,Oceania,18.23768616,-66.37051392,Fishing,Fan Shop,1,0,Consumer,371.980011,174.8300018,0.07,Cairns,Queensland
+0,4,2/1/2016 20:28,Standard Class,Pacific Asia,Oceania,40.65987396,-112.0028687,Fishing,Fan Shop,1,0,Corporate,363.980011,27.29999924,0.090000004,Melbourne,Victoria
+1,2,2/1/2016 19:24,Second Class,Pacific Asia,Southeast Asia,33.01840973,-80.14975739,Fishing,Fan Shop,1,0,Consumer,359.980011,161.9900055,0.100000001,Purwokerto,Java Central
+1,1,2/1/2016 16:57,First Class,Pacific Asia,Southeast Asia,18.25811577,-66.3706131,Fishing,Fan Shop,1,0,Consumer,351.980011,123.1900024,0.119999997,Ho Chi Minh City,Ciudad Ho Chi Minh
+1,4,2/1/2016 15:54,Standard Class,Pacific Asia,Southeast Asia,39.95420075,-82.8127594,Fishing,Fan Shop,1,0,Consumer,347.980011,-82.8199997,0.129999995,Manila,Capital Nacional
+1,4,2/1/2016 14:30,Standard Class,Pacific Asia,Eastern Asia,18.2163372,-66.37050629,Fishing,Fan Shop,1,0,Consumer,339.980011,123.4100037,0.150000006,Daejeon,Daejeon
+1,4,2/1/2016 14:09,Standard Class,Pacific Asia,Eastern Asia,37.7617569,-122.4713516,Fishing,Fan Shop,1,0,Consumer,335.980011,144.4700012,0.159999996,Zaoyang,Hubei
+1,1,2/1/2016 11:00,First Class,Pacific Asia,South Asia,36.97071075,-120.0588531,Fishing,Fan Shop,1,0,Consumer,331.980011,120.5100021,0.170000002,Delhi,Delhi
+1,2,2/1/2016 10:18,Second Class,Pacific Asia,Eastern Asia,33.8950882,-117.5264206,Fishing,Fan Shop,1,0,Consumer,327.980011,95.12000275,0.180000007,Jilin,Jilin
+1,4,2/1/2016 8:54,Standard Class,Pacific Asia,Southeast Asia,18.2022934,-66.37051392,Fishing,Fan Shop,1,0,Consumer,319.980011,147.1900024,0.200000003,Mataram,Nusatenggara Occidental
+0,4,2/1/2016 8:33,Standard Class,Pacific Asia,Southeast Asia,18.24757767,-66.02526093,Fishing,Fan Shop,1,0,Corporate,299.9899902,104.9899979,0.25,Mataram,Nusatenggara Occidental
+1,4,2/1/2016 5:45,Standard Class,Pacific Asia,Southeast Asia,38.79130554,-77.64980316,Fishing,Fan Shop,1,0,Home Office,399.980011,139.9900055,0.0,Bacoor,Calabarzón
+1,4,2/1/2016 5:45,Standard Class,Pacific Asia,Southeast Asia,38.79130554,-77.64980316,Fishing,Fan Shop,1,0,Home Office,395.980011,43.95000076,0.01,Bacoor,Calabarzón
+0,4,2/1/2016 4:21,Standard Class,Pacific Asia,Oceania,40.85473633,-73.39848328,Fishing,Fan Shop,1,0,Corporate,391.980011,11.76000023,0.02,Gold Coast,Queensland
+1,4,2/1/2016 4:00,Standard Class,Pacific Asia,Oceania,33.00720596,-96.73181915,Fishing,Fan Shop,1,0,Consumer,387.980011,-569.1699829,0.029999999,Wollongong,Nueva Gales del Sur
+1,4,2/1/2016 4:00,Standard Class,Pacific Asia,Oceania,33.00720596,-96.73181915,Fishing,Fan Shop,1,0,Consumer,383.980011,115.1900024,0.039999999,Wollongong,Nueva Gales del Sur
+1,4,2/1/2016 4:00,Standard Class,Pacific Asia,Oceania,33.00720596,-96.73181915,Fishing,Fan Shop,1,0,Consumer,379.980011,99.94000244,0.050000001,Wollongong,Nueva Gales del Sur
+1,4,2/1/2016 2:14,Standard Class,Pacific Asia,Eastern Asia,18.28016663,-66.37055206,Fishing,Fan Shop,1,0,Home Office,377.980011,-661.4699707,0.059999999,Chongqing,Chongqing
+0,4,2/1/2016 1:11,Standard Class,Pacific Asia,Eastern Asia,18.27274513,-66.37057495,Fishing,Fan Shop,1,0,Consumer,371.980011,32.72999954,0.07,Luoyang,Fujian
+1,2,1/31/2016 23:26,Second Class,Pacific Asia,Eastern Asia,41.98436737,-87.8228302,Fishing,Fan Shop,1,0,Corporate,363.980011,105.5500031,0.090000004,Dongguan,Guangdong
+1,0,1/31/2016 21:20,Same Day,Pacific Asia,Eastern Asia,41.6971283,-87.67146301,Fishing,Fan Shop,1,0,Consumer,359.980011,29.87999916,0.100000001,Rizhao,Shandong
+0,4,1/31/2016 16:05,Standard Class,Pacific Asia,Eastern Asia,18.20799255,-66.37058258,Fishing,Fan Shop,1,0,Consumer,351.980011,21.8199997,0.119999997,Taiyuan,Shanxi
+0,4,1/31/2016 13:17,Standard Class,Pacific Asia,Southeast Asia,18.22492218,-66.3706131,Fishing,Fan Shop,1,0,Corporate,347.980011,156.5899963,0.129999995,Medan,Sumatra Septentrional
+0,4,1/31/2016 13:17,Standard Class,Pacific Asia,Southeast Asia,18.22492218,-66.3706131,Fishing,Fan Shop,1,0,Corporate,339.980011,112.1900024,0.150000006,Medan,Sumatra Septentrional
+0,4,1/31/2016 9:04,Standard Class,Pacific Asia,Eastern Asia,34.0986023,-118.145752,Fishing,Fan Shop,1,0,Consumer,335.980011,88.36000061,0.159999996,Xintai,Shandong
+0,4,1/31/2016 5:34,Standard Class,Pacific Asia,Eastern Asia,18.21959877,-66.37059784,Fishing,Fan Shop,1,0,Consumer,331.980011,-14.27999973,0.170000002,Dalian,Liaoning
+0,4,1/31/2016 4:10,Standard Class,Pacific Asia,South Asia,18.38014031,-65.83062744,Fishing,Fan Shop,1,0,Corporate,327.980011,85.27999878,0.180000007,Pune,Maharashtra
+0,4,1/31/2016 4:10,Standard Class,Pacific Asia,South Asia,18.38014031,-65.83062744,Fishing,Fan Shop,1,0,Corporate,319.980011,-12.15999985,0.200000003,Pune,Maharashtra
+1,4,1/31/2016 3:28,Standard Class,Pacific Asia,South Asia,37.33271027,-121.8783722,Fishing,Fan Shop,1,0,Consumer,299.9899902,84.0,0.25,Pune,Maharashtra
+0,4,1/31/2016 2:46,Standard Class,Pacific Asia,Southeast Asia,37.34420395,-121.9884415,Fishing,Fan Shop,1,0,Consumer,399.980011,40.0,0.0,Medan,Sumatra Septentrional
+0,4,1/30/2016 21:31,Standard Class,Pacific Asia,Southeast Asia,32.80168915,-116.9785614,Fishing,Fan Shop,1,0,Corporate,395.980011,130.6699982,0.01,Yakarta,Yakarta
+0,4,1/30/2016 21:10,Standard Class,Pacific Asia,Southeast Asia,25.86688042,-80.31456757,Fishing,Fan Shop,1,0,Consumer,391.980011,172.4700012,0.02,Yakarta,Yakarta
+0,4,1/30/2016 20:49,Standard Class,Pacific Asia,South Asia,32.69543076,-117.0414734,Fishing,Fan Shop,1,0,Consumer,387.980011,190.1100006,0.029999999,Ludhiana,Punyab
+1,2,1/30/2016 18:22,Second Class,Pacific Asia,South Asia,36.10035324,-115.2178802,Fishing,Fan Shop,1,0,Corporate,383.980011,115.1900024,0.039999999,Dewas,Madhya Pradesh
+1,2,1/30/2016 16:36,Second Class,Pacific Asia,South Asia,18.28152275,-66.37049866,Fishing,Fan Shop,1,0,Consumer,379.980011,-161.4900055,0.050000001,Lucknow,Uttar Pradesh
+1,1,1/30/2016 12:24,First Class,Pacific Asia,Oceania,39.95479965,-76.75787354,Fishing,Fan Shop,1,0,Consumer,377.980011,-207.8899994,0.059999999,Sydney,Nueva Gales del Sur
+0,4,1/30/2016 11:00,Standard Class,Pacific Asia,Oceania,33.97396088,-118.1019516,Fishing,Fan Shop,1,0,Home Office,371.980011,182.2700043,0.07,Canberra,Territorio de la Capital Australiana
+0,2,1/30/2016 8:33,Second Class,Pacific Asia,Southeast Asia,18.24707985,-66.37052918,Fishing,Fan Shop,1,0,Corporate,363.980011,174.7100067,0.090000004,Bandung,Java Occidental
+0,0,1/30/2016 8:12,Same Day,Pacific Asia,South Asia,38.79660034,-90.34640503,Fishing,Fan Shop,1,0,Home Office,359.980011,121.6699982,0.100000001,Bangalore,Karnataka
+1,2,1/30/2016 7:09,Second Class,Pacific Asia,Oceania,41.6971283,-87.67146301,Fishing,Fan Shop,1,0,Home Office,351.980011,131.9900055,0.119999997,Gold Coast,Queensland
+1,2,1/30/2016 7:09,Second Class,Pacific Asia,Oceania,41.6971283,-87.67146301,Fishing,Fan Shop,1,0,Home Office,347.980011,-574.1699829,0.129999995,Gold Coast,Queensland
+1,2,1/30/2016 7:09,Second Class,Pacific Asia,Oceania,41.6971283,-87.67146301,Fishing,Fan Shop,1,0,Home Office,339.980011,163.1900024,0.150000006,Gold Coast,Queensland
+0,2,1/30/2016 6:48,Second Class,Pacific Asia,Southeast Asia,42.0063591,-87.66739655,Fishing,Fan Shop,1,0,Home Office,335.980011,-246.2799988,0.159999996,Nom Pen,Nom Pen
+0,4,1/30/2016 5:03,Standard Class,Pacific Asia,South Asia,37.30380249,-121.77565,Fishing,Fan Shop,1,0,Home Office,331.980011,120.5100021,0.170000002,Lahore,Punyab
+1,4,1/30/2016 4:42,Standard Class,Pacific Asia,South Asia,40.89811325,-73.85901642,Fishing,Fan Shop,1,0,Corporate,327.980011,28.86000061,0.180000007,Lahore,Punyab
+0,4,1/30/2016 3:18,Standard Class,Pacific Asia,Eastern Asia,36.19697952,-86.97254181,Fishing,Fan Shop,1,0,Consumer,319.980011,86.40000153,0.200000003,Anshan,Liaoning
+1,4,1/30/2016 2:36,Standard Class,Pacific Asia,Eastern Asia,41.04875183,-73.5615921,Fishing,Fan Shop,1,0,Consumer,299.9899902,104.9899979,0.25,Anshan,Liaoning
+1,2,1/30/2016 0:30,Second Class,Pacific Asia,Eastern Asia,18.27659607,-66.0354538,Fishing,Fan Shop,1,0,Consumer,399.980011,100.0,0.0,Chengdu,Sichuan
+1,2,1/30/2016 0:08,Second Class,Pacific Asia,Oceania,18.29887199,-66.37063599,Fishing,Fan Shop,1,0,Consumer,395.980011,114.8300018,0.01,Katoomba,Nueva Gales del Sur
+0,4,1/29/2016 18:32,Standard Class,Pacific Asia,Southeast Asia,33.98892212,-118.0814438,Fishing,Fan Shop,1,0,Corporate,391.980011,142.2899933,0.02,Kuala Lumpur,Kuala Lumpur
+1,1,1/29/2016 17:29,First Class,Pacific Asia,Eastern Asia,39.29141998,-76.51338959,Fishing,Fan Shop,1,0,Consumer,387.980011,178.4700012,0.029999999,Huangshi,Hubei
+0,4,1/29/2016 15:23,Standard Class,Pacific Asia,Southeast Asia,18.22015762,-66.37057495,Fishing,Fan Shop,1,0,Home Office,383.980011,23.80999947,0.039999999,Bekasi,Java Occidental
+0,4,1/29/2016 15:02,Standard Class,Pacific Asia,Southeast Asia,18.20081711,-66.37062073,Fishing,Fan Shop,1,0,Consumer,379.980011,106.3899994,0.050000001,San Jose del Monte,Luzón Central
+1,4,1/29/2016 14:41,Standard Class,Pacific Asia,Southeast Asia,18.2380867,-66.3705368,Fishing,Fan Shop,1,0,Consumer,377.980011,-944.9500122,0.059999999,San Jose del Monte,Luzón Central
+0,2,1/29/2016 11:32,Second Class,Pacific Asia,Oceania,38.63608551,-90.34693146,Fishing,Fan Shop,1,0,Corporate,371.980011,-14.14000034,0.07,Adelaide,Australia del Sur
+1,2,1/29/2016 10:29,Second Class,Pacific Asia,Oceania,39.49591446,-98.98998261,Fishing,Fan Shop,1,0,Consumer,363.980011,-283.9100037,0.090000004,Cairns,Queensland
+1,2,1/29/2016 10:29,Second Class,Pacific Asia,Oceania,39.49591446,-98.98998261,Fishing,Fan Shop,1,0,Consumer,359.980011,-593.9699707,0.100000001,Cairns,Queensland
+1,2,1/29/2016 10:29,Second Class,Pacific Asia,Oceania,39.49591446,-98.98998261,Fishing,Fan Shop,1,0,Consumer,351.980011,127.7699966,0.119999997,Cairns,Queensland
+0,4,1/29/2016 8:44,Standard Class,Pacific Asia,Oceania,28.60344505,-81.31519318,Fishing,Fan Shop,1,0,Corporate,347.980011,52.20000076,0.129999995,Perth,Australia Occidental
+0,2,1/29/2016 3:49,Second Class,Pacific Asia,Eastern Asia,18.26959801,-66.37058258,Fishing,Fan Shop,1,0,Corporate,339.980011,163.1900024,0.150000006,Matsubara,Oita
+1,1,1/29/2016 2:25,First Class,Pacific Asia,Eastern Asia,41.45956039,-81.64040375,Fishing,Fan Shop,1,0,Consumer,335.980011,-184.7899933,0.159999996,Shenzhen,Guangdong
+1,1,1/29/2016 0:40,First Class,Pacific Asia,Southeast Asia,18.21333695,-66.37062836,Fishing,Fan Shop,1,0,Corporate,331.980011,116.1900024,0.170000002,Palembang,Sumatra Meridional
+0,4,1/28/2016 21:31,Standard Class,Pacific Asia,Oceania,39.26262665,-76.52140808,Fishing,Fan Shop,1,0,Consumer,327.980011,163.9900055,0.180000007,Port Macquarie,Nueva Gales del Sur
+0,4,1/28/2016 21:31,Standard Class,Pacific Asia,Oceania,39.26262665,-76.52140808,Fishing,Fan Shop,1,0,Consumer,319.980011,143.9900055,0.200000003,Port Macquarie,Nueva Gales del Sur
+0,4,1/28/2016 21:10,Standard Class,Pacific Asia,Oceania,32.753685,-96.86553955,Fishing,Fan Shop,1,0,Home Office,299.9899902,76.80000305,0.25,Port Macquarie,Nueva Gales del Sur
+0,4,1/28/2016 20:28,Standard Class,Pacific Asia,Oceania,18.21162605,-66.3706131,Fishing,Fan Shop,1,0,Consumer,399.980011,107.9899979,0.0,Port Macquarie,Nueva Gales del Sur
+0,4,1/28/2016 18:22,Standard Class,Pacific Asia,South Asia,39.95479965,-76.75787354,Fishing,Fan Shop,1,0,Consumer,395.980011,133.8399963,0.01,Amravati,Maharashtra
+0,4,1/28/2016 14:52,Standard Class,Pacific Asia,Eastern Asia,18.21759033,-66.37052155,Fishing,Fan Shop,1,0,Home Office,391.980011,113.6699982,0.02,Wuhan,Hubei
+1,4,1/28/2016 13:48,Standard Class,Pacific Asia,Oceania,44.05007172,-123.1093521,Fishing,Fan Shop,1,0,Corporate,387.980011,100.8700027,0.029999999,Cairns,Queensland
+1,2,1/28/2016 13:27,Second Class,Pacific Asia,Southeast Asia,41.75909424,-87.56176758,Fishing,Fan Shop,1,0,Corporate,383.980011,111.3499985,0.039999999,Baguio City,Cordillera
+1,2,1/28/2016 13:27,Second Class,Pacific Asia,Southeast Asia,41.75909424,-87.56176758,Fishing,Fan Shop,1,0,Corporate,379.980011,98.80000305,0.050000001,Baguio City,Cordillera
+1,1,1/28/2016 10:39,First Class,Pacific Asia,Oceania,34.24567032,-118.5734177,Fishing,Fan Shop,1,0,Consumer,377.980011,23.80999947,0.059999999,Sydney,Nueva Gales del Sur
+1,4,1/28/2016 7:09,Standard Class,Pacific Asia,Southeast Asia,18.22630692,-66.37062073,Fishing,Fan Shop,1,0,Home Office,371.980011,107.8700027,0.07,Depok,Java Occidental
+1,4,1/28/2016 7:09,Standard Class,Pacific Asia,Southeast Asia,18.22630692,-66.37062073,Fishing,Fan Shop,1,0,Home Office,363.980011,101.9100037,0.090000004,Depok,Java Occidental
+1,4,1/28/2016 7:09,Standard Class,Pacific Asia,Southeast Asia,18.22630692,-66.37062073,Fishing,Fan Shop,1,0,Home Office,359.980011,-152.9900055,0.100000001,Depok,Java Occidental
+1,4,1/28/2016 3:39,Standard Class,Pacific Asia,Oceania,31.49430466,-98.69984436,Fishing,Fan Shop,1,0,Consumer,351.980011,88.0,0.119999997,Melbourne,Victoria
+1,2,1/28/2016 2:36,Second Class,Pacific Asia,South Asia,37.34420395,-121.9884415,Fishing,Fan Shop,1,0,Home Office,347.980011,113.0899963,0.129999995,Durgapur,Bengala Occidental
+1,2,1/28/2016 2:36,Second Class,Pacific Asia,South Asia,37.34420395,-121.9884415,Fishing,Fan Shop,1,0,Home Office,339.980011,-271.9899902,0.150000006,Durgapur,Bengala Occidental
+1,2,1/27/2016 23:06,Second Class,Pacific Asia,Southeast Asia,39.37016296,-76.54606628,Fishing,Fan Shop,1,0,Corporate,335.980011,25.20000076,0.159999996,Semarang,Java Central
+0,2,1/27/2016 22:45,Second Class,Pacific Asia,Southeast Asia,41.60863876,-88.20204163,Fishing,Fan Shop,1,0,Corporate,331.980011,3.319999933,0.170000002,Semarang,Java Central
+0,4,1/27/2016 21:42,Standard Class,Pacific Asia,Southeast Asia,37.25323105,-121.8241806,Fishing,Fan Shop,1,0,Consumer,327.980011,86.26000214,0.180000007,Medan,Sumatra Septentrional
+0,4,1/27/2016 19:56,Standard Class,Pacific Asia,South Asia,33.86013031,-84.68437958,Fishing,Fan Shop,1,0,Consumer,319.980011,24.0,0.200000003,Agra,Uttar Pradesh
+0,4,1/27/2016 19:56,Standard Class,Pacific Asia,South Asia,33.86013031,-84.68437958,Fishing,Fan Shop,1,0,Consumer,299.9899902,37.5,0.25,Agra,Uttar Pradesh
+1,1,1/27/2016 17:50,First Class,Pacific Asia,Oceania,18.21837044,-66.3705368,Fishing,Fan Shop,1,0,Consumer,399.980011,143.9900055,0.0,Melbourne,Victoria
+1,1,1/27/2016 17:29,First Class,Pacific Asia,Oceania,18.20479202,-66.37050629,Fishing,Fan Shop,1,0,Consumer,395.980011,-633.5700073,0.01,Gladstone,Queensland
+1,1,1/27/2016 16:47,First Class,Pacific Asia,Eastern Asia,21.32080078,-157.8613892,Fishing,Fan Shop,1,0,Corporate,391.980011,98.0,0.02,Ningbo,Zhejiang
+0,4,1/27/2016 14:20,Standard Class,Pacific Asia,Southeast Asia,18.24022293,-66.3705368,Fishing,Fan Shop,1,0,Consumer,387.980011,182.3500061,0.029999999,Kuala Terengganu,Trengganu
+1,2,1/27/2016 13:38,Second Class,Pacific Asia,Eastern Asia,18.24442673,-66.37057495,Fishing,Fan Shop,1,0,Corporate,383.980011,134.3899994,0.039999999,Datong,Anhui
+0,4,1/27/2016 11:11,Standard Class,Pacific Asia,Southeast Asia,18.23589897,-66.37051392,Fishing,Fan Shop,1,0,Consumer,379.980011,-278.5299988,0.050000001,Semarang,Java Central
+0,0,1/27/2016 9:05,Same Day,Pacific Asia,Eastern Asia,39.96744919,-75.58142853,Fishing,Fan Shop,1,0,Corporate,377.980011,181.4299927,0.059999999,Wuhan,Hubei
+0,0,1/27/2016 6:59,Same Day,Pacific Asia,Southeast Asia,35.80252075,-86.36358643,Fishing,Fan Shop,1,0,Corporate,371.980011,135.0299988,0.07,Manila,Capital Nacional
+1,2,1/27/2016 4:31,Second Class,Pacific Asia,Oceania,42.03620529,-87.96143341,Fishing,Fan Shop,1,0,Consumer,363.980011,40.40000153,0.090000004,Geelong,Victoria
+1,4,1/27/2016 2:46,Standard Class,Pacific Asia,Oceania,18.22082329,-66.3706131,Fishing,Fan Shop,1,0,Consumer,359.980011,176.3899994,0.100000001,Hobart,Tasmania
+0,4,1/26/2016 23:58,Standard Class,Pacific Asia,Eastern Asia,18.29524994,-66.37057495,Fishing,Fan Shop,1,0,Consumer,351.980011,21.12000084,0.119999997,Xinghua,Jiangsu
+0,1,1/26/2016 21:52,First Class,Pacific Asia,Eastern Asia,37.66708756,-120.9958801,Fishing,Fan Shop,1,0,Consumer,347.980011,114.8300018,0.129999995,Shenyang,Liaoning
+1,2,1/26/2016 19:46,Second Class,Pacific Asia,Oceania,18.24759483,-66.37063599,Fishing,Fan Shop,1,0,Corporate,339.980011,-246.4900055,0.150000006,Brisbane,Queensland
+1,2,1/26/2016 19:46,Second Class,Pacific Asia,Oceania,18.24759483,-66.37063599,Fishing,Fan Shop,1,0,Corporate,335.980011,125.9899979,0.159999996,Brisbane,Queensland
+1,1,1/26/2016 19:25,First Class,Pacific Asia,Southeast Asia,18.20942116,-66.37055969,Fishing,Fan Shop,1,0,Consumer,331.980011,165.9900055,0.170000002,Ho Chi Minh City,Ciudad Ho Chi Minh
+1,4,1/26/2016 14:52,Standard Class,Pacific Asia,Eastern Asia,18.23755837,-66.37052155,Fishing,Fan Shop,1,0,Corporate,327.980011,104.9499969,0.180000007,Seúl,Seúl
+1,4,1/26/2016 14:31,Standard Class,Pacific Asia,Eastern Asia,41.33689117,-76.91746521,Fishing,Fan Shop,1,0,Corporate,319.980011,67.19999695,0.200000003,Chongqing,Chongqing
+0,4,1/26/2016 14:10,Standard Class,Pacific Asia,Eastern Asia,40.7615242,-74.03826904,Fishing,Fan Shop,1,0,Consumer,299.9899902,101.3899994,0.25,Chongqing,Chongqing
+1,2,1/26/2016 12:46,Second Class,Pacific Asia,Eastern Asia,42.46523285,-70.93743134,Fishing,Fan Shop,1,0,Consumer,399.980011,40.0,0.0,Kwangju,Gyeonggi
+1,2,1/26/2016 12:46,Second Class,Pacific Asia,Eastern Asia,42.46523285,-70.93743134,Fishing,Fan Shop,1,0,Consumer,395.980011,29.70000076,0.01,Kwangju,Gyeonggi
+1,2,1/26/2016 12:46,Second Class,Pacific Asia,Eastern Asia,42.46523285,-70.93743134,Fishing,Fan Shop,1,0,Consumer,391.980011,132.4900055,0.02,Kwangju,Gyeonggi
+0,4,1/26/2016 12:25,Standard Class,Pacific Asia,Southeast Asia,18.26504135,-66.37055969,Fishing,Fan Shop,1,0,Consumer,387.980011,29.10000038,0.029999999,Medan,Sumatra Septentrional
+0,4,1/26/2016 12:25,Standard Class,Pacific Asia,Southeast Asia,18.26504135,-66.37055969,Fishing,Fan Shop,1,0,Consumer,383.980011,172.7899933,0.039999999,Medan,Sumatra Septentrional
+0,4,1/26/2016 8:54,Standard Class,Pacific Asia,Oceania,33.02825165,-96.7928009,Fishing,Fan Shop,1,0,Home Office,379.980011,106.3899994,0.050000001,Brisbane,Queensland
+0,1,1/26/2016 8:12,First Class,Pacific Asia,Oceania,18.2275734,-66.04563141,Fishing,Fan Shop,1,0,Consumer,377.980011,-289.9100037,0.059999999,Queanbeyan,Nueva Gales del Sur
+0,1,1/26/2016 8:12,First Class,Pacific Asia,Oceania,18.2275734,-66.04563141,Fishing,Fan Shop,1,0,Consumer,371.980011,-272.6600037,0.07,Queanbeyan,Nueva Gales del Sur
+0,4,1/26/2016 7:09,Standard Class,Pacific Asia,Eastern Asia,35.94585037,-84.09391022,Fishing,Fan Shop,1,0,Consumer,363.980011,64.05999756,0.090000004,Yicheng,Hubei
+0,4,1/26/2016 6:48,Standard Class,Pacific Asia,Eastern Asia,44.95698166,-93.06536865,Fishing,Fan Shop,1,0,Corporate,359.980011,169.1900024,0.100000001,Yicheng,Hubei
+0,4,1/26/2016 6:48,Standard Class,Pacific Asia,Eastern Asia,44.95698166,-93.06536865,Fishing,Fan Shop,1,0,Corporate,351.980011,118.9700012,0.119999997,Yicheng,Hubei
+1,4,1/26/2016 4:21,Standard Class,Pacific Asia,Southeast Asia,18.35909462,-66.07995606,Fishing,Fan Shop,1,0,Corporate,347.980011,-17.39999962,0.129999995,Manila,Capital Nacional
+0,4,1/26/2016 3:18,Standard Class,Pacific Asia,Southeast Asia,29.59053612,-98.6216507,Fishing,Fan Shop,1,0,Consumer,339.980011,101.9899979,0.150000006,Manila,Capital Nacional
+1,4,1/26/2016 2:36,Standard Class,Pacific Asia,Southeast Asia,40.88164902,-81.25228119,Fishing,Fan Shop,1,0,Consumer,335.980011,113.5599976,0.159999996,Manila,Capital Nacional
+0,4,1/26/2016 1:54,Standard Class,Pacific Asia,South Asia,18.23846626,-66.37058258,Fishing,Fan Shop,1,0,Corporate,331.980011,92.95999908,0.170000002,Ajmer,Rajastán
+0,4,1/26/2016 1:33,Standard Class,Pacific Asia,South Asia,40.41255188,-74.41832733,Fishing,Fan Shop,1,0,Corporate,327.980011,-103.9700012,0.180000007,Ajmer,Rajastán
+0,4,1/26/2016 1:12,Standard Class,Pacific Asia,South Asia,38.49541855,-121.479187,Fishing,Fan Shop,1,0,Consumer,319.980011,103.9899979,0.200000003,Ajmer,Rajastán
+1,2,1/26/2016 0:09,Second Class,Pacific Asia,Oceania,42.38178635,-83.0545044,Fishing,Fan Shop,1,0,Home Office,299.9899902,137.9900055,0.25,Albany,Australia Occidental
+0,4,1/25/2016 23:27,Standard Class,Pacific Asia,South Asia,34.1004982,-117.3561707,Fishing,Fan Shop,1,0,Consumer,399.980011,145.1900024,0.0,Indore,Madhya Pradesh
+0,4,1/25/2016 19:57,Standard Class,Pacific Asia,Oceania,42.05426025,-87.90460968,Fishing,Fan Shop,1,0,Consumer,395.980011,-44.75,0.01,Mount Gambier,Australia del Sur
+0,4,1/25/2016 19:57,Standard Class,Pacific Asia,Oceania,42.05426025,-87.90460968,Fishing,Fan Shop,1,0,Consumer,391.980011,109.75,0.02,Mount Gambier,Australia del Sur
+1,4,1/25/2016 19:15,Standard Class,Pacific Asia,Oceania,29.7805748,-95.17199707,Fishing,Fan Shop,1,0,Home Office,387.980011,23.28000069,0.029999999,Mount Gambier,Australia del Sur
+0,4,1/25/2016 18:54,Standard Class,Pacific Asia,Eastern Asia,18.27490234,-66.37050629,Fishing,Fan Shop,1,0,Consumer,383.980011,-81.79000092,0.039999999,Xinghua,Jiangsu
+0,4,1/25/2016 18:11,Standard Class,Pacific Asia,Southeast Asia,18.2063179,-66.37055969,Fishing,Fan Shop,1,0,Consumer,379.980011,170.9900055,0.050000001,Angeles City,Luzón Central
+0,2,1/25/2016 16:26,Second Class,Pacific Asia,Southeast Asia,18.25193214,-66.37063599,Fishing,Fan Shop,1,0,Corporate,377.980011,147.4100037,0.059999999,Yakarta,Yakarta
+0,2,1/25/2016 16:26,Second Class,Pacific Asia,Southeast Asia,18.25193214,-66.37063599,Fishing,Fan Shop,1,0,Corporate,371.980011,174.8300018,0.07,Yakarta,Yakarta
+1,4,1/25/2016 13:59,Standard Class,Pacific Asia,Eastern Asia,36.11019898,-81.52600861,Fishing,Fan Shop,1,0,Consumer,363.980011,118.2900009,0.090000004,Himeji,Hyogo
+0,4,1/25/2016 13:38,Standard Class,Pacific Asia,Eastern Asia,34.0141983,-117.8547363,Fishing,Fan Shop,1,0,Consumer,359.980011,-251.9900055,0.100000001,Himeji,Hyogo
+0,4,1/25/2016 11:32,Standard Class,Pacific Asia,Eastern Asia,33.43722153,-111.8398285,Fishing,Fan Shop,1,0,Home Office,351.980011,26.39999962,0.119999997,Suzhou,Gansu
+0,4,1/25/2016 11:11,Standard Class,Pacific Asia,Eastern Asia,18.29825401,-66.37062073,Fishing,Fan Shop,1,0,Consumer,347.980011,-289.8699951,0.129999995,Suzhou,Gansu
+0,4,1/25/2016 9:26,Standard Class,Pacific Asia,South Asia,42.0063591,-87.66739655,Fishing,Fan Shop,1,0,Home Office,339.980011,-249.2100067,0.150000006,Kanpur,Uttar Pradesh
+1,4,1/25/2016 6:59,Standard Class,Pacific Asia,Eastern Asia,40.70074081,-73.8950882,Fishing,Fan Shop,1,0,Corporate,335.980011,157.9100037,0.159999996,Suzhou,Anhui
+0,1,1/25/2016 6:17,First Class,Pacific Asia,Oceania,18.24757958,-66.02545166,Fishing,Fan Shop,1,0,Home Office,331.980011,124.4899979,0.170000002,Townsville,Queensland
+1,1,1/25/2016 5:56,First Class,Pacific Asia,Oceania,40.69200897,-73.9917984,Fishing,Fan Shop,1,0,Corporate,327.980011,19.35000038,0.180000007,Townsville,Queensland
+0,4,1/25/2016 4:11,Standard Class,Pacific Asia,Southeast Asia,33.71007919,-84.11247253,Fishing,Fan Shop,1,0,Corporate,319.980011,100.1500015,0.200000003,Medan,Sumatra Septentrional
+1,4,1/25/2016 3:29,Standard Class,Pacific Asia,Southeast Asia,26.20306206,-98.30255127,Fishing,Fan Shop,1,0,Corporate,299.9899902,-33.90000153,0.25,Yogyakarta,Yogyakarta
+0,4,1/25/2016 3:08,Standard Class,Pacific Asia,Southeast Asia,35.13623428,-106.5444183,Fishing,Fan Shop,1,0,Consumer,399.980011,90.0,0.0,Yogyakarta,Yogyakarta
+1,4,1/24/2016 23:58,Standard Class,Pacific Asia,Southeast Asia,18.24545479,-66.37059784,Fishing,Fan Shop,1,0,Consumer,395.980011,24.95000076,0.01,Yakarta,Yakarta
+0,4,1/24/2016 21:31,Standard Class,Pacific Asia,Southeast Asia,41.77919388,-87.64631653,Fishing,Fan Shop,1,0,Corporate,391.980011,98.0,0.02,Bangkok,Bangkok
+0,4,1/24/2016 21:31,Standard Class,Pacific Asia,Southeast Asia,41.77919388,-87.64631653,Fishing,Fan Shop,1,0,Corporate,387.980011,29.10000038,0.029999999,Bangkok,Bangkok
+1,4,1/24/2016 20:28,Standard Class,Pacific Asia,Southeast Asia,39.29141998,-76.51338959,Fishing,Fan Shop,1,0,Consumer,383.980011,130.5500031,0.039999999,Bangkok,Bangkok
+1,1,1/24/2016 16:16,First Class,Pacific Asia,Southeast Asia,35.37042999,-119.0426254,Fishing,Fan Shop,1,0,Consumer,379.980011,-49.02000046,0.050000001,Banda Aceh,Aceh
+1,1,1/24/2016 15:55,First Class,Pacific Asia,Southeast Asia,40.04462051,-76.76133728,Fishing,Fan Shop,1,0,Corporate,377.980011,118.3099976,0.059999999,Banda Aceh,Aceh
+1,1,1/24/2016 14:52,First Class,Pacific Asia,South Asia,39.92808151,-82.98953247,Fishing,Fan Shop,1,0,Consumer,371.980011,111.5899963,0.07,Akola,Maharashtra
+1,1,1/24/2016 14:31,First Class,Pacific Asia,Eastern Asia,42.99914932,-76.50521088,Fishing,Fan Shop,1,0,Consumer,363.980011,101.9100037,0.090000004,Tangshan,Hebei
+1,2,1/24/2016 13:07,Second Class,Pacific Asia,Southeast Asia,32.73230743,-97.47290802,Fishing,Fan Shop,1,0,Corporate,359.980011,31.68000031,0.100000001,Shah Alam,Selangor
+1,2,1/24/2016 12:46,Second Class,Pacific Asia,Southeast Asia,37.29223251,-121.881279,Fishing,Fan Shop,1,0,Home Office,351.980011,48.5699997,0.119999997,Rangún,Rangún
+0,2,1/24/2016 12:25,Second Class,Pacific Asia,Eastern Asia,18.24757767,-66.02532196,Fishing,Fan Shop,1,0,Consumer,347.980011,93.95999908,0.129999995,Chongqing,Chongqing
+0,2,1/24/2016 10:40,Second Class,Pacific Asia,Oceania,39.31881714,-84.49595642,Fishing,Fan Shop,1,0,Consumer,339.980011,-560.9699707,0.150000006,Sydney,Nueva Gales del Sur
+0,4,1/24/2016 9:16,Standard Class,Pacific Asia,Eastern Asia,34.09378433,-118.2705994,Fishing,Fan Shop,1,0,Consumer,335.980011,87.36000061,0.159999996,Wuxi,Hunan
+0,2,1/24/2016 8:55,Second Class,Pacific Asia,Southeast Asia,18.27214623,-66.3705368,Fishing,Fan Shop,1,0,Home Office,331.980011,129.4700012,0.170000002,Manila,Capital Nacional
+1,4,1/24/2016 8:12,Standard Class,Pacific Asia,Oceania,40.0741272,-76.35184479,Fishing,Fan Shop,1,0,Home Office,327.980011,69.86000061,0.180000007,Lismore,Nueva Gales del Sur
+1,1,1/24/2016 6:48,First Class,Pacific Asia,South Asia,36.91083145,-76.12958527,Fishing,Fan Shop,1,0,Corporate,319.980011,83.19999695,0.200000003,Delhi,Delhi
+1,1,1/24/2016 6:48,First Class,Pacific Asia,South Asia,36.91083145,-76.12958527,Fishing,Fan Shop,1,0,Corporate,299.9899902,69.0,0.25,Delhi,Delhi
+0,2,1/24/2016 5:24,Second Class,Pacific Asia,Eastern Asia,18.2753315,-66.37063599,Fishing,Fan Shop,1,0,Consumer,399.980011,145.1900024,0.0,Zhanjiang,Guangdong
+0,2,1/24/2016 5:24,Second Class,Pacific Asia,Eastern Asia,18.2753315,-66.37063599,Fishing,Fan Shop,1,0,Consumer,395.980011,66.12999725,0.01,Zhanjiang,Guangdong
+1,4,1/24/2016 4:42,Standard Class,Pacific Asia,Southeast Asia,34.07656479,-117.61409,Fishing,Fan Shop,1,0,Corporate,391.980011,43.11999893,0.02,Bekasi,Java Occidental
+1,4,1/24/2016 4:42,Standard Class,Pacific Asia,Southeast Asia,34.07656479,-117.61409,Fishing,Fan Shop,1,0,Corporate,387.980011,116.3899994,0.029999999,Bekasi,Java Occidental
+1,2,1/24/2016 2:57,Second Class,Pacific Asia,Eastern Asia,35.09189606,-92.43454742,Fishing,Fan Shop,1,0,Consumer,383.980011,80.63999939,0.039999999,Changzhou,Jiangsu
+1,4,1/24/2016 1:12,Standard Class,Pacific Asia,Southeast Asia,40.31143951,-75.13288879,Fishing,Fan Shop,1,0,Consumer,379.980011,132.9900055,0.050000001,Ho Chi Minh City,Ciudad Ho Chi Minh
+0,4,1/24/2016 0:51,Standard Class,Pacific Asia,Southeast Asia,39.19226837,-77.24241638,Fishing,Fan Shop,1,0,Consumer,377.980011,11.34000015,0.059999999,Ho Chi Minh City,Ciudad Ho Chi Minh
+0,4,1/24/2016 0:30,Standard Class,Pacific Asia,Oceania,34.04621506,-118.1860352,Fishing,Fan Shop,1,0,Corporate,371.980011,174.8300018,0.07,Geraldton,Australia Occidental
+0,4,1/23/2016 22:45,Standard Class,Pacific Asia,Oceania,18.26202202,-66.37059021,Fishing,Fan Shop,1,0,Consumer,363.980011,32.02999878,0.090000004,Caloundra,Queensland
+1,0,1/23/2016 20:18,Same Day,Pacific Asia,South Asia,32.9131012,-96.73959351,Fishing,Fan Shop,1,0,Corporate,359.980011,-5.039999962,0.100000001,Mardan,Jaiber Pajtunjuá
+1,0,1/23/2016 20:18,Same Day,Pacific Asia,South Asia,32.9131012,-96.73959351,Fishing,Fan Shop,1,0,Corporate,351.980011,168.9499969,0.119999997,Mardan,Jaiber Pajtunjuá
+1,0,1/23/2016 20:18,Same Day,Pacific Asia,South Asia,32.9131012,-96.73959351,Fishing,Fan Shop,1,0,Corporate,347.980011,160.0700073,0.129999995,Mardan,Jaiber Pajtunjuá
+1,0,1/23/2016 19:36,Same Day,Pacific Asia,Oceania,21.40107918,-157.7463837,Fishing,Fan Shop,1,0,Corporate,339.980011,42.5,0.150000006,Caloundra,Queensland
+0,4,1/23/2016 17:09,Standard Class,Pacific Asia,South Asia,18.23789597,-66.37060547,Fishing,Fan Shop,1,0,Consumer,335.980011,33.59999847,0.159999996,Bharatpur,Rajastán
+0,4,1/23/2016 14:20,Standard Class,Pacific Asia,South Asia,39.81664658,-74.98467255,Fishing,Fan Shop,1,0,Consumer,331.980011,33.20000076,0.170000002,Surat,Guyarat
+0,4,1/23/2016 13:38,Standard Class,Pacific Asia,Southeast Asia,39.04636002,-76.98272705,Fishing,Fan Shop,1,0,Consumer,327.980011,28.86000061,0.180000007,Hanoi,Th? Dô Hà N?i
+0,2,1/23/2016 11:53,Second Class,Pacific Asia,South Asia,18.20765877,-66.37055206,Fishing,Fan Shop,1,0,Consumer,319.980011,156.7899933,0.200000003,Mumbai,Maharashtra
+1,4,1/23/2016 11:11,Standard Class,Pacific Asia,Southeast Asia,33.99339294,-118.3464127,Fishing,Fan Shop,1,0,Corporate,299.9899902,143.9900055,0.25,Yakarta,Yakarta
+1,1,1/23/2016 9:47,First Class,Pacific Asia,Southeast Asia,18.2404747,-66.3705368,Fishing,Fan Shop,1,0,Consumer,399.980011,183.9900055,0.0,Ho Chi Minh City,Ciudad Ho Chi Minh
+1,1,1/23/2016 9:47,First Class,Pacific Asia,Southeast Asia,18.2404747,-66.3705368,Fishing,Fan Shop,1,0,Consumer,395.980011,123.9400024,0.01,Ho Chi Minh City,Ciudad Ho Chi Minh
+1,1,1/23/2016 8:23,First Class,Pacific Asia,Oceania,18.21501541,-66.37057495,Fishing,Fan Shop,1,0,Consumer,391.980011,137.1900024,0.02,Melbourne,Victoria
+1,4,1/23/2016 8:02,Standard Class,Pacific Asia,Southeast Asia,18.28514671,-66.37062836,Fishing,Fan Shop,1,0,Home Office,387.980011,100.8700027,0.029999999,Yakarta,Yakarta
+1,2,1/23/2016 6:59,Second Class,Pacific Asia,Eastern Asia,39.8379364,-83.28687286,Fishing,Fan Shop,1,0,Corporate,383.980011,-319.8599854,0.039999999,Jiamusi,Heilongjiang
+1,4,1/23/2016 2:26,Standard Class,Pacific Asia,Eastern Asia,31.72096634,-106.3431778,Fishing,Fan Shop,1,0,Consumer,379.980011,68.40000153,0.050000001,Tengzhou,Shandong
+0,4,1/23/2016 1:23,Standard Class,Pacific Asia,Eastern Asia,38.89456177,-94.77796173,Fishing,Fan Shop,1,0,Home Office,377.980011,22.68000031,0.059999999,Tengzhou,Shandong
+1,1,1/22/2016 21:52,First Class,Pacific Asia,Southeast Asia,30.47071457,-97.64977264,Fishing,Fan Shop,1,0,Consumer,371.980011,182.2700043,0.07,Bekasi,Java Occidental
+0,4,1/22/2016 20:07,Standard Class,Pacific Asia,Oceania,41.895607,-87.70032501,Fishing,Fan Shop,1,0,Consumer,363.980011,171.0700073,0.090000004,Wagga Wagga,Nueva Gales del Sur
+1,4,1/22/2016 19:46,Standard Class,Pacific Asia,Oceania,18.26919365,-66.37054443,Fishing,Fan Shop,1,0,Consumer,359.980011,172.7899933,0.100000001,Wagga Wagga,Nueva Gales del Sur
+1,4,1/22/2016 18:01,Standard Class,Pacific Asia,Oceania,40.64059448,-73.97518921,Fishing,Fan Shop,1,0,Consumer,351.980011,39.77000046,0.119999997,Newcastle,Nueva Gales del Sur
+1,4,1/22/2016 18:01,Standard Class,Pacific Asia,Oceania,40.64059448,-73.97518921,Fishing,Fan Shop,1,0,Consumer,347.980011,163.5500031,0.129999995,Newcastle,Nueva Gales del Sur
+0,4,1/22/2016 17:19,Standard Class,Pacific Asia,Southeast Asia,18.25682068,-66.37062073,Fishing,Fan Shop,1,0,Consumer,339.980011,38.41999817,0.150000006,Bangkok,Bangkok
+0,4,1/22/2016 17:19,Standard Class,Pacific Asia,Southeast Asia,18.25682068,-66.37062073,Fishing,Fan Shop,1,0,Consumer,335.980011,42.0,0.159999996,Bangkok,Bangkok
+0,4,1/22/2016 16:58,Standard Class,Pacific Asia,Eastern Asia,40.34891129,-76.83354187,Fishing,Fan Shop,1,0,Corporate,331.980011,16.60000038,0.170000002,Changsha,Hunan
+0,4,1/22/2016 16:37,Standard Class,Pacific Asia,Southeast Asia,18.23401642,-66.3705368,Fishing,Fan Shop,1,0,Consumer,327.980011,41.0,0.180000007,Singapur,Singapur
+1,0,1/22/2016 14:10,Same Day,Pacific Asia,Southeast Asia,29.52998352,-98.60829163,Fishing,Fan Shop,1,0,Consumer,319.980011,118.3899994,0.200000003,Manila,Capital Nacional
+0,4,1/22/2016 13:07,Standard Class,Pacific Asia,South Asia,33.64781952,-112.0518799,Fishing,Fan Shop,1,0,Corporate,299.9899902,81.0,0.25,Patna,Bihar
+0,4,1/22/2016 12:46,Standard Class,Pacific Asia,South Asia,18.22610664,-66.37057495,Fishing,Fan Shop,1,0,Consumer,399.980011,-333.1799927,0.0,Patna,Bihar
+1,1,1/22/2016 9:58,First Class,Pacific Asia,Southeast Asia,18.22105789,-66.37059021,Fishing,Fan Shop,1,0,Consumer,395.980011,110.8700027,0.01,Ho Chi Minh City,Ciudad Ho Chi Minh
+1,1,1/22/2016 9:58,First Class,Pacific Asia,Southeast Asia,18.22105789,-66.37059021,Fishing,Fan Shop,1,0,Consumer,391.980011,164.6300049,0.02,Ho Chi Minh City,Ciudad Ho Chi Minh
+0,4,1/22/2016 8:13,Standard Class,Pacific Asia,Oceania,33.40356064,-112.0214005,Fishing,Fan Shop,1,0,Home Office,387.980011,81.48000336,0.029999999,Canberra,Territorio de la Capital Australiana
+0,4,1/22/2016 6:49,Standard Class,Pacific Asia,Eastern Asia,39.93561935,-83.13851166,Fishing,Fan Shop,1,0,Consumer,383.980011,-24.19000053,0.039999999,Ezhou,Hubei
+0,4,1/22/2016 6:07,Standard Class,Pacific Asia,Oceania,18.22758865,-66.0435791,Fishing,Fan Shop,1,0,Home Office,379.980011,28.5,0.050000001,Geelong,Victoria
+1,4,1/22/2016 5:45,Standard Class,Pacific Asia,Southeast Asia,18.29172134,-66.37058258,Fishing,Fan Shop,1,0,Consumer,377.980011,-289.9100037,0.059999999,Bandung,Java Occidental
+0,4,1/22/2016 2:36,Standard Class,Pacific Asia,Oceania,33.83167267,-118.0937347,Fishing,Fan Shop,1,0,Corporate,371.980011,96.72000122,0.07,Wodonga,Victoria
+0,0,1/22/2016 0:51,Same Day,Pacific Asia,Eastern Asia,38.91826248,-77.03946686,Fishing,Fan Shop,1,0,Corporate,363.980011,132.1300049,0.090000004,Shenzhen,Guangdong
+0,0,1/22/2016 0:30,Same Day,Pacific Asia,Southeast Asia,18.28213882,-66.37054443,Fishing,Fan Shop,1,0,Corporate,359.980011,115.1900024,0.100000001,Semarang,Java Central
+0,4,1/21/2016 23:06,Standard Class,Pacific Asia,Oceania,37.64143753,-121.8764877,Fishing,Fan Shop,1,0,Consumer,351.980011,21.8199997,0.119999997,Canberra,Territorio de la Capital Australiana
+1,2,1/21/2016 22:24,Second Class,Pacific Asia,Southeast Asia,41.7828064,-87.61464691,Fishing,Fan Shop,1,0,Corporate,347.980011,167.0299988,0.129999995,Bangkok,Bangkok
+1,2,1/21/2016 22:03,Second Class,Pacific Asia,Southeast Asia,18.22236061,-66.37055206,Fishing,Fan Shop,1,0,Corporate,339.980011,118.9899979,0.150000006,Bangkok,Bangkok
+1,2,1/21/2016 21:42,Second Class,Pacific Asia,South Asia,33.81931305,-84.17552948,Fishing,Fan Shop,1,0,Home Office,335.980011,84.0,0.159999996,Mumbai,Maharashtra
+1,2,1/21/2016 18:12,Second Class,Pacific Asia,Eastern Asia,18.25488091,-66.37062836,Fishing,Fan Shop,1,0,Corporate,331.980011,29.20999908,0.170000002,Bengbu,Anhui
+1,2,1/21/2016 15:24,Second Class,Pacific Asia,Eastern Asia,18.26146317,-66.14435577,Fishing,Fan Shop,1,0,Corporate,327.980011,95.12000275,0.180000007,Langfang,Hebei
+0,2,1/21/2016 14:21,Second Class,Pacific Asia,Eastern Asia,18.21526337,-66.37054443,Fishing,Fan Shop,1,0,Consumer,319.980011,147.1900024,0.200000003,Langfang,Hebei
+0,4,1/21/2016 13:18,Standard Class,Pacific Asia,Southeast Asia,35.18754196,-101.8676224,Fishing,Fan Shop,1,0,Home Office,299.9899902,93.0,0.25,Bogor,Java Occidental
+0,4,1/21/2016 12:56,Standard Class,Pacific Asia,Southeast Asia,45.35929489,-122.6099319,Fishing,Fan Shop,1,0,Home Office,399.980011,0.0,0.0,Yakarta,Yakarta
+0,4,1/21/2016 11:11,Standard Class,Pacific Asia,Southeast Asia,18.28193283,-66.37060547,Fishing,Fan Shop,1,0,Corporate,395.980011,128.6900024,0.01,Manila,Capital Nacional
+0,4,1/21/2016 10:50,Standard Class,Pacific Asia,Eastern Asia,39.64605331,-86.11961365,Fishing,Fan Shop,1,0,Consumer,391.980011,127.3899994,0.02,Yanji,Jilin
+1,4,1/21/2016 4:53,Standard Class,Pacific Asia,Oceania,18.1590271,-65.9003067,Fishing,Fan Shop,1,0,Consumer,387.980011,186.2299957,0.029999999,Queanbeyan,Nueva Gales del Sur
+1,4,1/21/2016 4:53,Standard Class,Pacific Asia,Oceania,18.1590271,-65.9003067,Fishing,Fan Shop,1,0,Consumer,383.980011,168.9499969,0.039999999,Queanbeyan,Nueva Gales del Sur
+1,4,1/21/2016 3:08,Standard Class,Pacific Asia,Southeast Asia,18.28616905,-66.37050629,Fishing,Fan Shop,1,0,Consumer,379.980011,76.0,0.050000001,Medan,Sumatra Septentrional
+1,2,1/21/2016 2:47,Second Class,Pacific Asia,Southeast Asia,33.71007919,-84.11247253,Fishing,Fan Shop,1,0,Corporate,377.980011,68.04000092,0.059999999,Tawau,Sabah
+1,2,1/21/2016 2:47,Second Class,Pacific Asia,Southeast Asia,33.71007919,-84.11247253,Fishing,Fan Shop,1,0,Corporate,371.980011,178.5500031,0.07,Tawau,Sabah
+1,1,1/21/2016 2:26,First Class,Pacific Asia,Southeast Asia,33.63466644,-117.9137268,Fishing,Fan Shop,1,0,Consumer,363.980011,63.70000076,0.090000004,Tawau,Sabah
+1,1,1/21/2016 2:26,First Class,Pacific Asia,Southeast Asia,33.63466644,-117.9137268,Fishing,Fan Shop,1,0,Consumer,359.980011,-20.52000046,0.100000001,Tawau,Sabah
+1,1,1/21/2016 1:23,First Class,Pacific Asia,Southeast Asia,18.39179802,-66.10529327,Fishing,Fan Shop,1,0,Consumer,351.980011,105.5899963,0.119999997,Tawau,Sabah
+0,2,1/21/2016 0:20,Second Class,Pacific Asia,South Asia,38.79130554,-77.64980316,Fishing,Fan Shop,1,0,Home Office,347.980011,104.3899994,0.129999995,Chittagong,Chittagong
+1,4,1/20/2016 18:22,Standard Class,Pacific Asia,Eastern Asia,35.11821365,-106.7038727,Fishing,Fan Shop,1,0,Home Office,339.980011,34.0,0.150000006,Chongqing,Chongqing
+0,4,1/20/2016 17:40,Standard Class,Pacific Asia,Oceania,18.03334045,-66.85192108,Fishing,Fan Shop,1,0,Corporate,335.980011,44.68999863,0.159999996,Sydney,Nueva Gales del Sur
+0,4,1/20/2016 17:19,Standard Class,Pacific Asia,Southeast Asia,41.86906815,-71.39208221,Fishing,Fan Shop,1,0,Consumer,331.980011,86.3199997,0.170000002,Rangún,Rangún
+0,4,1/20/2016 17:19,Standard Class,Pacific Asia,Southeast Asia,41.86906815,-71.39208221,Fishing,Fan Shop,1,0,Consumer,327.980011,6.559999943,0.180000007,Rangún,Rangún
+0,4,1/20/2016 16:16,Standard Class,Pacific Asia,Southeast Asia,38.10029221,-107.9681396,Fishing,Fan Shop,1,0,Corporate,319.980011,108.1500015,0.200000003,Can Tho,T?nh C?n Th?
+1,1,1/20/2016 12:04,First Class,Pacific Asia,Oceania,18.22832871,-66.37062836,Fishing,Fan Shop,1,0,Consumer,299.9899902,81.0,0.25,Wollongong,Nueva Gales del Sur
+1,1,1/20/2016 12:04,First Class,Pacific Asia,Oceania,18.22832871,-66.37062836,Fishing,Fan Shop,1,0,Consumer,399.980011,64.0,0.0,Wollongong,Nueva Gales del Sur
+1,2,1/20/2016 11:43,Second Class,Pacific Asia,Oceania,33.40329361,-111.9140549,Fishing,Fan Shop,1,0,Consumer,395.980011,34.84999847,0.01,Wollongong,Nueva Gales del Sur
+1,2,1/20/2016 10:40,Second Class,Pacific Asia,Eastern Asia,40.58182907,-73.95973206,Fishing,Fan Shop,1,0,Consumer,391.980011,29.39999962,0.02,Jining,Shandong
+1,4,1/20/2016 9:37,Standard Class,Pacific Asia,Southeast Asia,40.09100723,-82.37677765,Fishing,Fan Shop,1,0,Consumer,387.980011,139.6699982,0.029999999,Bangkok,Bangkok
+0,4,1/20/2016 7:31,Standard Class,Pacific Asia,Southeast Asia,30.16081619,-81.72215271,Fishing,Fan Shop,1,0,Consumer,383.980011,120.1900024,0.039999999,Semarang,Java Central
+0,4,1/20/2016 7:10,Standard Class,Pacific Asia,Southeast Asia,18.22757721,-66.04398346,Fishing,Fan Shop,1,0,Corporate,379.980011,148.1900024,0.050000001,Semarang,Java Central
+0,4,1/20/2016 3:19,Standard Class,Pacific Asia,Oceania,34.0816536,-118.1783524,Fishing,Fan Shop,1,0,Consumer,377.980011,162.5299988,0.059999999,Sydney,Nueva Gales del Sur
+0,4,1/19/2016 18:54,Standard Class,Pacific Asia,South Asia,18.29119682,-66.37059784,Fishing,Fan Shop,1,0,Consumer,371.980011,60.63000107,0.07,Rajkot,Guyarat
+1,2,1/19/2016 17:09,Second Class,Pacific Asia,Eastern Asia,39.1836586,-77.26545715,Fishing,Fan Shop,1,0,Consumer,363.980011,-582.3699951,0.090000004,Suzhou,Gansu
+1,2,1/19/2016 17:09,Second Class,Pacific Asia,Eastern Asia,39.1836586,-77.26545715,Fishing,Fan Shop,1,0,Consumer,359.980011,36.0,0.100000001,Suzhou,Gansu
+1,2,1/19/2016 17:09,Second Class,Pacific Asia,Eastern Asia,39.1836586,-77.26545715,Fishing,Fan Shop,1,0,Consumer,351.980011,-237.5899963,0.119999997,Suzhou,Gansu
+1,2,1/19/2016 14:21,Second Class,Pacific Asia,South Asia,37.75743866,-122.4193726,Fishing,Fan Shop,1,0,Corporate,347.980011,130.4900055,0.129999995,Daca,Daca
+0,2,1/19/2016 13:18,Second Class,Pacific Asia,South Asia,33.34368515,-112.081749,Fishing,Fan Shop,1,0,Home Office,339.980011,51.0,0.150000006,Daca,Daca
+1,2,1/19/2016 12:36,Second Class,Pacific Asia,Southeast Asia,18.23854065,-66.37060547,Fishing,Fan Shop,1,0,Consumer,335.980011,117.5899963,0.159999996,Marikina,Capital Nacional
+1,4,1/19/2016 9:26,Standard Class,Pacific Asia,Southeast Asia,42.38130951,-83.13815308,Fishing,Fan Shop,1,0,Consumer,331.980011,156.0299988,0.170000002,Manila,Capital Nacional
+0,4,1/19/2016 8:44,Standard Class,Pacific Asia,South Asia,18.27497864,-66.37059021,Fishing,Fan Shop,1,0,Home Office,327.980011,98.40000153,0.180000007,Sukkur,Sind
+0,4,1/19/2016 6:59,Standard Class,Pacific Asia,Southeast Asia,18.22318077,-66.37051392,Fishing,Fan Shop,1,0,Consumer,319.980011,105.5899963,0.200000003,Semarang,Java Central
+1,4,1/19/2016 5:56,Standard Class,Pacific Asia,Southeast Asia,33.8795166,-117.8717194,Fishing,Fan Shop,1,0,Consumer,299.9899902,84.0,0.25,Manila,Capital Nacional
+0,4,1/19/2016 3:08,Standard Class,Pacific Asia,Eastern Asia,40.62379837,-111.9185257,Fishing,Fan Shop,1,0,Corporate,399.980011,45.20000076,0.0,Jixi,Heilongjiang
+1,4,1/19/2016 2:26,Standard Class,Pacific Asia,Eastern Asia,42.5804596,-83.15601349,Fishing,Fan Shop,1,0,Consumer,395.980011,138.5899963,0.01,Jixi,Heilongjiang
+0,4,1/19/2016 1:44,Standard Class,Pacific Asia,Oceania,34.2395134,-119.1972198,Fishing,Fan Shop,1,0,Consumer,391.980011,113.6699982,0.02,Brisbane,Queensland
+1,4,1/19/2016 0:20,Standard Class,Pacific Asia,Eastern Asia,32.7794342,-117.1718597,Fishing,Fan Shop,1,0,Corporate,387.980011,-44.22999954,0.029999999,Busan,Busan
+1,4,1/18/2016 22:35,Standard Class,Pacific Asia,Southeast Asia,18.25893021,-66.37052155,Fishing,Fan Shop,1,0,Corporate,383.980011,180.4700012,0.039999999,Yakarta,Yakarta
+1,4,1/18/2016 21:11,Standard Class,Pacific Asia,Southeast Asia,18.21219063,-66.37054443,Fishing,Fan Shop,1,0,Consumer,379.980011,189.9900055,0.050000001,Pekanbaru,Riau
+0,4,1/18/2016 20:29,Standard Class,Pacific Asia,Southeast Asia,18.20668602,-66.37056732,Fishing,Fan Shop,1,0,Corporate,377.980011,47.25,0.059999999,Yakarta,Yakarta
+1,1,1/18/2016 19:05,First Class,Pacific Asia,South Asia,35.40668869,-118.8953018,Fishing,Fan Shop,1,0,Consumer,371.980011,27.89999962,0.07,Nagpur,Maharashtra
+1,2,1/18/2016 18:23,Second Class,Pacific Asia,Oceania,37.54467011,-121.9774094,Fishing,Fan Shop,1,0,Home Office,363.980011,100.0899963,0.090000004,Canberra,Territorio de la Capital Australiana
+1,4,1/18/2016 17:41,Standard Class,Pacific Asia,Southeast Asia,40.67913818,-73.94405365,Fishing,Fan Shop,1,0,Corporate,359.980011,-206.9900055,0.100000001,Rangún,Rangún
+1,1,1/18/2016 16:16,First Class,Pacific Asia,Southeast Asia,18.21831894,-66.3705368,Fishing,Fan Shop,1,0,Consumer,351.980011,-83.76999664,0.119999997,Manila,Capital Nacional
+0,4,1/18/2016 13:07,Standard Class,Pacific Asia,South Asia,34.37369919,-117.3726273,Fishing,Fan Shop,1,0,Consumer,347.980011,-13.22000027,0.129999995,Multan,Punyab
+1,1,1/18/2016 12:04,First Class,Pacific Asia,Oceania,18.21607781,-66.37062836,Fishing,Fan Shop,1,0,Home Office,339.980011,-101.9899979,0.150000006,Townsville,Queensland
+1,4,1/18/2016 8:34,Standard Class,Pacific Asia,Oceania,37.34237289,-120.452179,Fishing,Fan Shop,1,0,Corporate,335.980011,-257.7000122,0.159999996,Melbourne,Victoria
+0,4,1/18/2016 8:13,Standard Class,Pacific Asia,Eastern Asia,18.27109337,-66.37058258,Fishing,Fan Shop,1,0,Consumer,331.980011,107.8899994,0.170000002,Tianjin,Tianjin
+0,4,1/18/2016 4:22,Standard Class,Pacific Asia,Oceania,18.2809906,-66.37050629,Fishing,Fan Shop,1,0,Consumer,327.980011,-262.3900146,0.180000007,Brisbane,Queensland
+0,4,1/18/2016 4:01,Standard Class,Pacific Asia,Oceania,33.92184448,-118.3535767,Fishing,Fan Shop,1,0,Home Office,319.980011,111.9899979,0.200000003,Brisbane,Queensland
+0,4,1/18/2016 0:31,Standard Class,Pacific Asia,Eastern Asia,18.27758026,-66.37062073,Fishing,Fan Shop,1,0,Corporate,299.9899902,-449.980011,0.25,Seúl,Seúl
+0,4,1/18/2016 0:31,Standard Class,Pacific Asia,Eastern Asia,18.27758026,-66.37062073,Fishing,Fan Shop,1,0,Corporate,399.980011,135.1900024,0.0,Seúl,Seúl
+1,4,1/17/2016 22:24,Standard Class,Pacific Asia,Southeast Asia,36.02138138,-115.1716614,Fishing,Fan Shop,1,0,Corporate,395.980011,133.8399963,0.01,Depok,Yogyakarta
+1,2,1/17/2016 20:39,Second Class,Pacific Asia,South Asia,29.73701477,-94.96875763,Fishing,Fan Shop,1,0,Corporate,391.980011,-666.3699951,0.02,Kalyan,Maharashtra
+1,2,1/17/2016 20:39,Second Class,Pacific Asia,South Asia,29.73701477,-94.96875763,Fishing,Fan Shop,1,0,Corporate,387.980011,-105.1399994,0.029999999,Kalyan,Maharashtra
+1,4,1/17/2016 20:18,Standard Class,Pacific Asia,South Asia,37.62343597,-121.1197205,Fishing,Fan Shop,1,0,Consumer,383.980011,129.7899933,0.039999999,Kalyan,Maharashtra
+1,4,1/17/2016 17:09,Standard Class,Pacific Asia,Oceania,18.24875259,-66.37059021,Fishing,Fan Shop,1,0,Consumer,379.980011,174.7899933,0.050000001,Wollongong,Nueva Gales del Sur
+1,4,1/17/2016 17:09,Standard Class,Pacific Asia,Oceania,18.24875259,-66.37059021,Fishing,Fan Shop,1,0,Consumer,377.980011,185.2100067,0.059999999,Wollongong,Nueva Gales del Sur
+0,4,1/17/2016 14:42,Standard Class,Pacific Asia,Eastern Asia,37.96690369,-122.3031082,Fishing,Fan Shop,1,0,Home Office,371.980011,11.15999985,0.07,Korla,Xinjiang Uygur
+0,4,1/17/2016 12:57,Standard Class,Pacific Asia,South Asia,33.62104797,-117.6759186,Fishing,Fan Shop,1,0,Corporate,363.980011,-279.1700134,0.090000004,Kukatpalli,Telangana
+0,4,1/17/2016 12:36,Standard Class,Pacific Asia,South Asia,33.99019623,-117.924057,Fishing,Fan Shop,1,0,Consumer,359.980011,27.0,0.100000001,Kukatpalli,Telangana
+0,4,1/17/2016 10:30,Standard Class,Pacific Asia,South Asia,18.26749229,-66.37056732,Fishing,Fan Shop,1,0,Home Office,351.980011,91.51999664,0.119999997,Ranchi,Jharkhand
+1,4,1/17/2016 10:09,Standard Class,Pacific Asia,Southeast Asia,18.2513237,-66.37058258,Fishing,Fan Shop,1,0,Home Office,347.980011,130.4900055,0.129999995,Semarang,Java Central
+0,4,1/17/2016 5:56,Standard Class,Pacific Asia,South Asia,36.97071075,-120.0588531,Fishing,Fan Shop,1,0,Consumer,339.980011,-59.84000015,0.150000006,Ratlam,Madhya Pradesh
+0,4,1/17/2016 5:35,Standard Class,Pacific Asia,Oceania,18.25711441,-66.37059784,Fishing,Fan Shop,1,0,Consumer,335.980011,33.59999847,0.159999996,Bendigo,Victoria
+0,4,1/17/2016 5:14,Standard Class,Pacific Asia,Oceania,40.8717041,-73.87045288,Fishing,Fan Shop,1,0,Consumer,331.980011,9.960000038,0.170000002,Dubbo,Nueva Gales del Sur
+0,4,1/16/2016 23:59,Standard Class,Pacific Asia,South Asia,28.51626968,-81.30583191,Fishing,Fan Shop,1,0,Home Office,327.980011,95.12000275,0.180000007,Tirupati,Andhra Pradesh
+0,4,1/16/2016 23:59,Standard Class,Pacific Asia,South Asia,28.51626968,-81.30583191,Fishing,Fan Shop,1,0,Home Office,319.980011,116.1500015,0.200000003,Tirupati,Andhra Pradesh
+0,4,1/16/2016 22:35,Standard Class,Pacific Asia,Eastern Asia,34.04711914,-83.82432556,Fishing,Fan Shop,1,0,Home Office,299.9899902,-239.9900055,0.25,Shanghái,Shanghái
+0,4,1/16/2016 22:14,Standard Class,Pacific Asia,Eastern Asia,33.67670822,-117.9219055,Fishing,Fan Shop,1,0,Consumer,399.980011,145.1900024,0.0,Shanghái,Shanghái
+0,4,1/16/2016 20:50,Standard Class,Pacific Asia,Eastern Asia,35.75563812,-84.19625855,Fishing,Fan Shop,1,0,Corporate,395.980011,182.1499939,0.01,Luoyang,Guangdong
+0,4,1/16/2016 19:05,Standard Class,Pacific Asia,Southeast Asia,40.68665695,-73.37553406,Fishing,Fan Shop,1,0,Consumer,391.980011,-337.1000061,0.02,Palembang,Sumatra Meridional
+1,2,1/16/2016 17:41,Second Class,Pacific Asia,Southeast Asia,18.20120621,-66.37056732,Fishing,Fan Shop,1,0,Home Office,387.980011,-258.7799988,0.029999999,Palembang,Sumatra Meridional
+0,4,1/16/2016 15:35,Standard Class,Pacific Asia,Oceania,36.15301132,-119.3364792,Fishing,Fan Shop,1,0,Consumer,383.980011,138.2299957,0.039999999,Rockhampton,Queensland
+0,4,1/16/2016 15:14,Standard Class,Pacific Asia,Oceania,33.19448853,-117.2777481,Fishing,Fan Shop,1,0,Home Office,379.980011,42.93999863,0.050000001,Rockhampton,Queensland
+0,4,1/16/2016 15:14,Standard Class,Pacific Asia,Oceania,33.19448853,-117.2777481,Fishing,Fan Shop,1,0,Home Office,377.980011,23.80999947,0.059999999,Rockhampton,Queensland
+0,4,1/16/2016 15:14,Standard Class,Pacific Asia,Oceania,33.19448853,-117.2777481,Fishing,Fan Shop,1,0,Home Office,371.980011,125.7300034,0.07,Rockhampton,Queensland
+0,4,1/16/2016 13:49,Standard Class,Pacific Asia,Oceania,18.24098587,-66.37055206,Fishing,Fan Shop,1,0,Corporate,363.980011,32.02999878,0.090000004,Canberra,Territorio de la Capital Australiana
+0,4,1/16/2016 13:28,Standard Class,Pacific Asia,Eastern Asia,34.1358223,-117.2209473,Fishing,Fan Shop,1,0,Corporate,359.980011,112.6699982,0.100000001,Qingdao,Shandong
+1,1,1/16/2016 11:01,First Class,Pacific Asia,Eastern Asia,29.47656632,-98.579216,Fishing,Fan Shop,1,0,Corporate,351.980011,-65.47000122,0.119999997,Sanya,Hainan
+1,2,1/16/2016 9:16,Second Class,Pacific Asia,Southeast Asia,39.98654556,-75.1084671,Fishing,Fan Shop,1,0,Consumer,347.980011,50.11000061,0.129999995,Hanoi,Th? Dô Hà N?i
+1,2,1/16/2016 7:10,Second Class,Pacific Asia,Eastern Asia,21.39421082,-157.9980164,Fishing,Fan Shop,1,0,Corporate,339.980011,85.0,0.150000006,Guangshui,Hubei
+0,4,1/16/2016 6:49,Standard Class,Pacific Asia,Eastern Asia,18.35909462,-66.07995606,Fishing,Fan Shop,1,0,Corporate,335.980011,0.0,0.159999996,Guangshui,Hubei
+0,4,1/16/2016 6:49,Standard Class,Pacific Asia,Eastern Asia,18.35909462,-66.07995606,Fishing,Fan Shop,1,0,Corporate,331.980011,165.9900055,0.170000002,Guangshui,Hubei
+0,2,1/16/2016 6:28,Second Class,Pacific Asia,Eastern Asia,32.61114121,-117.0736618,Fishing,Fan Shop,1,0,Consumer,327.980011,157.4299927,0.180000007,Chengdu,Sichuan
+1,4,1/16/2016 6:07,Standard Class,Pacific Asia,Eastern Asia,18.24525642,-66.37062073,Fishing,Fan Shop,1,0,Home Office,319.980011,86.40000153,0.200000003,Chengdu,Sichuan
+0,4,1/16/2016 5:04,Standard Class,Pacific Asia,Eastern Asia,39.71597672,-82.59929657,Fishing,Fan Shop,1,0,Home Office,299.9899902,119.9899979,0.25,Shanghái,Shanghái
+0,4,1/16/2016 3:40,Standard Class,Pacific Asia,Eastern Asia,40.64093018,-73.94271088,Fishing,Fan Shop,1,0,Home Office,399.980011,40.0,0.0,Shanghái,Shanghái
+1,2,1/16/2016 1:34,Second Class,Pacific Asia,Eastern Asia,35.36254501,-119.0186996,Fishing,Fan Shop,1,0,Corporate,395.980011,-613.7700195,0.01,Hirakata,Osaka
+1,4,1/15/2016 21:00,Standard Class,Pacific Asia,Oceania,41.62995911,-72.96715546,Fishing,Fan Shop,1,0,Corporate,391.980011,141.1100006,0.02,Adelaide,Australia del Sur
+0,4,1/15/2016 20:18,Standard Class,Pacific Asia,Oceania,18.2133503,-66.37057495,Fishing,Fan Shop,1,0,Consumer,387.980011,186.2299957,0.029999999,Adelaide,Australia del Sur
+0,4,1/15/2016 18:54,Standard Class,Pacific Asia,South Asia,18.29038048,-66.3706131,Fishing,Fan Shop,1,0,Consumer,383.980011,168.9499969,0.039999999,Nagercoil,Tamil Nadu
