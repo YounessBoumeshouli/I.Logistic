@@ -7,3 +7,7 @@ scikit-learn
 matplotlib
 seaborn
 pyspark
+fastapi
+uvicorn
+websockets
+psycopg2-binary

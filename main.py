@@ -78,7 +78,7 @@ def load_data(file_path):
         return None
 
 
-new_df = load_data("dataset_clean.csv")
+new_df = load_data("dataset_clean_with_dist.csv")
 
 if new_df:
     st.write("✅ Données brutes chargées avec succès.")

@@ -32,8 +32,8 @@ def build_and_train(input_df: DataFrame, model_name: str):
     ]
 
     base_numerical_cols = [
-     "Latitude", "Longitude",
-        "Dest_Lat","Dest_Lon"
+     "Latitude", "Longitude","distance"
+
     ]
 
     # Vérifier si le géocodage a été fait et si les colonnes existent
@@ -135,7 +135,7 @@ def build_and_train(input_df: DataFrame, model_name: str):
 
     # --- OPTIMISATION 1 (Solution 2) ---
     st.write("Optimisation 1: Repartitionnement des données...")
-    data_for_ml = data_for_ml.repartition(100)
+    data_for_ml = data_for_ml.repartition(200)
     data_for_ml.cache()
 
     st.write(f"Données prêtes : {data_for_ml.count()} lignes.")
@@ -153,8 +153,8 @@ def build_and_train(input_df: DataFrame, model_name: str):
         estimator=pipeline,
         estimatorParamMaps=paramGrid,
         evaluator=evaluator,
-        numFolds=3,
-        parallelism=1  # FORCE L'EXÉCUTION SÉQUENTIELLE
+        numFolds=2,  # <-- Réduire de 3 à 2 pour économiser des ressources
+        parallelism=1
     )
 
     # --- 7. Entraînement ---

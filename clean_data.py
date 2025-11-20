@@ -12,7 +12,7 @@ def show_outliers(df: DataFrame):
     """
     numeric_cols = ["Days for shipment (scheduled)", "Latitude", "Longitude",
         "Order Item Quantity", "Order Item Total", "Order Profit Per Order",
-        "Order Item Discount Rate","Dest_Lat","Dest_Lon"]
+        "Order Item Discount Rate","Dest_Lat","Dest_Lon","distance"]
     st.subheader("1. Visualisation des Outliers (Boxplots)")
 
     # Échantillonnage pour la visualisation (car matplotlib ne gère pas le Big Data)

@@ -1,41 +1,44 @@
-
 services:
-  # 1. Votre application Python (Streamlit + PySpark Driver)
+  # --- 1. Application Batch & Dashboard (Streamlit) ---
   app:
-    build: .  # Construit à partir du Dockerfile dans le même dossier
+    build: .
     ports:
-      - "8501:8501"  # Port pour Streamlit
+      - "8501:8501"
     volumes:
-      - .:/app  # Synchronise votre code local avec le conteneur
+      - .:/app
     depends_on:
       - spark-master
+      - mongo
+      - postgres
     environment:
       - SPARK_MASTER_URL=spark://spark-master:7077
       - SPARK_HOME=/opt/spark
-      - PYTHONPATH=$SPARK_HOME/python:$SPARK_HOME/python/lib/py4j-0.10.9.7-src.zip:$PYTHONPATH
-    command: streamlit run main.py --server.fileWatcherType=poll
-
-  # 2. Le "Master" Apache Spark
+      - SPARK_DRIVER_MEMORY=2g
+      - PYTHONPATH=$$SPARK_HOME/python:$$SPARK_HOME/python/lib/py4j-0.10.9.7-src.zip:$$PYTHONPATH
+      - MONGO_URI=mongodb://mongo:27017/
+      - POSTGRES_URI=postgresql://user:password@postgres:5432/logistic_db
+    command: streamlit run main.py --server.fileWatcherType=poll --server.maxMessageSize=1000
+  # --- 2. Cluster Spark ---
   spark-master:
     build: .
     ports:
-      - "8088:8080"  # UI Web de Spark
-      - "7077:7077"  # Port du cluster
+      - "8088:8080"
+      - "7077:7077"
     command: /opt/spark/bin/spark-class org.apache.spark.deploy.master.Master
     volumes:
       - .:/app
 
-
-  # 3. Un "Worker" Apache Spark
   spark-worker:
     build: .
     depends_on:
       - spark-master
     command: /opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker spark://spark-master:7077
-    volumes: # <-- for finding the files that I've added
+    volumes:
       - .:/app
     environment:
       - SPARK_WORKER_MEMORY=2g
+
+  # --- 3. Orchestrateur Airflow ---
   airflow:
     build: ./airflow
     container_name: logistic_airflow
@@ -47,8 +50,42 @@ services:
       AIRFLOW__WWW_RBAC__PASSWORD: admin
     volumes:
       - ./airflow/dags:/opt/airflow/dags
+      - .:/app
     ports:
       - "8081:8080"
     command: [ "standalone" ]
 
+  # --- 4. NOUVEAU: API FastAPI (Producteur de Données) ---
+  fastapi-producer:
+    build: .
+    command: uvicorn realtime_api:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
 
+    # --- 5. NOUVEAU: Bridge TCP (WebSocket -> TCP pour Spark) ---
+  tcp-bridge:
+      build: .
+      command: python tcp_bridge.py
+      ports:
+        - "9999:9999"
+      depends_on:
+        - fastapi-producer
+      volumes:
+        - .:/app
+
+    # --- 6. Bases de Données ---
+  mongo:
+      image: mongo:latest
+      ports:
+        - "27017:27017"
+
+  postgres:
+      image: postgres:13
+      environment:
+        POSTGRES_USER: user
+        POSTGRES_PASSWORD: password
+        POSTGRES_DB: logistic_db
+      ports:
+        - "5432:5432"
