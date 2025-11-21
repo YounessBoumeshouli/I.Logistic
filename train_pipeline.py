@@ -100,23 +100,22 @@ def build_and_train(input_df: DataFrame, model_name: str):
     if model_name == "Logistic Regression":
         model = LogisticRegression(featuresCol="features", labelCol=label_col)
         # Grille pour tester la "régularisation" (évite l'overfitting)
-        paramGrid = (ParamGridBuilder()
-                     .addGrid(model.regParam, [0.1, 0.01])
-                     .build())
+        paramGrid = ParamGridBuilder().addGrid(model.regParam, [0.01]).build()
+
 
     elif model_name == "Random Forest":
         model = RandomForestClassifier(featuresCol="features", labelCol=label_col)
         # Grille pour tester différentes tailles de forêt
-        paramGrid = (ParamGridBuilder()
-                     .addGrid(model.numTrees, [50, 100])  # Nombre d'arbres
-                     .addGrid(model.maxDepth, [5, 10])  # Profondeur de l'arbre
-                     .build())
-
+        # paramGrid = (ParamGridBuilder()
+        #              .addGrid(model.numTrees, [50, 100])  # Nombre d'arbres
+        #              .addGrid(model.maxDepth, [5, 10])  # Profondeur de l'arbre
+        #              .build())
+        paramGrid = ParamGridBuilder().addGrid(model.numTrees, [20]).build()
     elif model_name == "Gradient-Boosted Trees (GBT)":
         model = GBTClassifier(featuresCol="features", labelCol=label_col)
         # Grille pour tester différentes complexités
         paramGrid = (ParamGridBuilder()
-                     .addGrid(model.maxIter, [50, 100])  # Nombre d'itérations
+                     .addGrid(model.maxIter, [20, 50])  # Nombre d'itérations
                      .addGrid(model.maxDepth, [3, 5])  # Profondeur
                      .build())
     else:

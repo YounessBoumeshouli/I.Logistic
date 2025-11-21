@@ -37,4 +37,4 @@ EXPOSE 8501
 USER spark
 
 
-CMD ["/usr/local/bin/wait-for-spark.sh", "streamlit", "run", "main.py"]
+CMD ["/usr/local/bin/wait-for-spark.sh", "python", "run", "app.py"]
